@@ -12,3 +12,7 @@ def file_to_list(file_name):
   with open(file_name, 'r') as f:
     data = f.readlines()
   return list(map(lambda x: x.replace('\n', ''), data))
+
+def dict_to_json(tag_op_input, json_file):
+    with open(json_file, 'w') as f:
+        json.dump(tag_op_input, f)
