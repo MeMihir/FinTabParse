@@ -80,13 +80,13 @@ def hybridr_preprocessing(table, paragraphs, questions):
         for cell in row:
             hybirdR_table["data"][-1].append([cell, []])
 
-    link_cols, link_rows = get_tfidf(table, paragraphs, [0], [0])
-    for i, cols in enumerate(link_cols):
-        for col in cols:
-            hybirdR_table["header"][col][1].append(f"link_{i}")
-    
-    for i, rows in enumerate(link_rows):
-        for row in rows:
-            hybirdR_table["data"][row][0][1].append(f"link_{i}")
+    link_cells = get_tfidf(table, paragraphs)
+    for i,link_cell in enumerate(link_cells):
+      for cell in link_cell:
+        if cell[0] == 0:
+          hybirdR_table["header"][cell[1]][1].append(f"link_{i}")
+        else:
+          hybirdR_table["data"][cell[0]-1][cell[1]][1].append(f"link_{i}")
+
     
     return links, hybridR_ques, hybirdR_table
