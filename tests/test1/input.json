@@ -1,0 +1,182 @@
+[
+    {
+        "table": {
+            "uid": "Marks",
+            "table": [
+                ["Student","CAT 1","CAT 2","Quiz 1","Quiz 2","DA","FAT"],
+                ["Nancy Woodley","22.67","45.07","2.06","4.98","0","4.91"],
+                ["Dakota Whitehouse","0.52","25.28","0.57","2.21","2","60.16"],
+                ["Melody Penn","7.81","2.35","1.84","1.36","4","26.57"],
+                ["Liliana Marshall","9.56","43.80","9.48","6.97","6","25.78"],
+                ["Chester Newman","5.45","12.18","0.24","7.30","2","34.38"],
+                ["Kurt Nayler","35.69","47.09","4.67","5.18","6","97.67"]
+            ]
+        },
+        "paragraphs": [
+            {
+                "text": "The following is a table of marks for the first year for the course of Natural Language Processing. It consists of both internal marks and final marks.",
+                "uid": "p1",
+                "order": 1
+            },
+            {
+                "text": "The internal marks are the marks that are awarded for the digital assignment (DA) and the two quizes along with the two CAT assessments.",
+                "uid": "p2",
+                "order": 2
+            },
+            {
+                "text": "CAT means Continous Assessment Test. FAT means Final Assessment Test.",
+                "uid": "p3",
+                "order": 3
+            },
+            {
+                "text": "The marks for CAT 1 and CAT 2 are out of 50. The marks for FAT is out of 100. Both quizes, Quiz 1 and Quiz 2 are scored out of 10. The Digital Assignment is also scored out of 10.",
+                "uid": "p4",
+                "order": 4
+            }
+        ],
+        "questions": [
+            {
+                "uid": "1a",
+                "order": 1,
+                "question": "What is the average of the FAT marks?",
+                "answer": "",
+                "derivation": "",
+                "answer_type": "",
+                "answer_from": "",
+                "facts": [],
+                "mapping": {
+                "table": []
+                },
+                "rel_paragraphs": [],
+                "req_comparison": false,
+                "scale": ""
+            },
+            {
+                "uid": "2a",
+                "order": 2,
+                "question": "What is the highest DA marks given?",
+                "answer": "",
+                "derivation": "",
+                "answer_type": "",
+                "answer_from": "",
+                "facts": [],
+                "mapping": {
+                "table": []
+                },
+                "rel_paragraphs": [],
+                "req_comparison": false,
+                "scale": ""
+            },
+            {
+                "uid": "2b",
+                "order": 3,
+                "question": "Which student got the lowest marks in FAT?",
+                "answer": "",
+                "derivation": "",
+                "answer_type": "",
+                "answer_from": "",
+                "facts": [],
+                "mapping": {
+                "table": []
+                },
+                "rel_paragraphs": [],
+                "req_comparison": false,
+                "scale": ""
+            },
+            {
+                "uid": "3a",
+                "order": 4,
+                "question": "Which student has the highest total marks?",
+                "answer": "",
+                "derivation": "",
+                "answer_type": "",
+                "answer_from": "",
+                "facts": [],
+                "mapping": {
+                "table": []
+                },
+                "rel_paragraphs": [],
+                "req_comparison": false,
+                "scale": ""
+            },
+            {
+                "uid": "3b",
+                "order": 5,
+                "question": "What is the sum of all marks given to Melody Penn?",
+                "answer": "",
+                "derivation": "",
+                "answer_type": "",
+                "answer_from": "",
+                "facts": [],
+                "mapping": {
+                "table": []
+                },
+                "rel_paragraphs": [],
+                "req_comparison": false,
+                "scale": ""
+            },
+            {
+                "uid": "4a",
+                "order": 6,
+                "question": "How many students got higher than 50 in FAT?",
+                "answer": "",
+                "derivation": "",
+                "answer_type": "",
+                "answer_from": "",
+                "facts": [],
+                "mapping": {
+                "table": []
+                },
+                "rel_paragraphs": [],
+                "req_comparison": false,
+                "scale": ""
+            },
+            {
+                "uid": "5a",
+                "order": 7,
+                "question": "What is the difference between highest and the lowest FAT?",
+                "answer": "",
+                "derivation": "",
+                "answer_type": "",
+                "answer_from": "",
+                "facts": [],
+                "mapping": {
+                "table": []
+                },
+                "rel_paragraphs": [],
+                "req_comparison": false,
+                "scale": ""
+            },{
+                "uid": "6a",
+                "order": 8,
+                "question": "Which students have more than fifty percentile in FAT?",
+                "answer": "",
+                "derivation": "",
+                "answer_type": "",
+                "answer_from": "",
+                "facts": [],
+                "mapping": {
+                "table": []
+                },
+                "rel_paragraphs": [],
+                "req_comparison": false,
+                "scale": ""
+            },{
+                "uid": "4c",
+                "order": 9,
+                "question": "Which student has the highest marks in Quiz1 and Quiz2 combined?",
+                "answer": "",
+                "derivation": "",
+                "answer_type": "",
+                "answer_from": "",
+                "facts": [],
+                "mapping": {
+                "table": []
+                },
+                "rel_paragraphs": [],
+                "req_comparison": false,
+                "scale": ""
+            }
+        ]
+    }
+]

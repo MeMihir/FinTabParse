@@ -1,0 +1,6 @@
+what is the average payment volume per transaction for american express?
+what is the average payment volume per transaction for JCB?
+what is the difference between total volume and payment volume for american express?
+what is the difference between the total volume for JCB and total volume for mastercard?
+what is exclueded from the mastercard figures?
+which companies are the largest operators of open-loop and closed-loop retail electronic payments networks?

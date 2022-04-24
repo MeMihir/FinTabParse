@@ -1,0 +1,131 @@
+[
+  {
+    "question": "What is the company paid on a cost-plus type contract?",
+    "question_id": "que_0",
+    "table_id": "table_0",
+    "nodes": [
+      [
+        "link 1",
+        [
+          1,
+          0
+        ],
+        "link_1",
+        "On a cost-plus type contract, we are paid our allowable incurred costs plus a profit which can be fixed or variable depending on the contract\u2019s fee arrangement up to predetermined funding levels determined by the customer.",
+        0.4814814814814815,
+        "Years Ended September 30",
+        "string-overlap"
+      ]
+    ],
+    "target": [
+      "link 0",
+      [
+        1,
+        0
+      ],
+      "link_0",
+      "Years Ended September 30",
+      "Sales by Contract Type: Substantially all of our contracts are fixed-price type contracts."
+    ],
+    "pred": [
+      "link 0",
+      "link_0"
+    ]
+  },
+  {
+    "question": "What is the amount of total sales in 2019?",
+    "question_id": "que_1",
+    "table_id": "table_0",
+    "nodes": [
+      [
+        "link 0",
+        [
+          1,
+          0
+        ],
+        "link_0",
+        "Sales included in Other contract types represent cost plus and time and material type contracts.",
+        0.8095238095238095,
+        "Years Ended September 30",
+        "string-overlap"
+      ]
+    ],
+    "target": [
+      "link 0",
+      [
+        1,
+        0
+      ],
+      "link_0",
+      "Years Ended September 30",
+      "Sales by Contract Type: Substantially all of our contracts are fixed-price type contracts."
+    ],
+    "pred": [
+      "link 0",
+      "link_0"
+    ]
+  },
+  {
+    "question": "What are the contract types?",
+    "question_id": "que_2",
+    "table_id": "table_0",
+    "nodes": [
+      [
+        "link 1",
+        [
+          1,
+          0
+        ],
+        "link_1",
+        "The table below presents total net sales disaggregated by contract type (in millions):",
+        0.5,
+        "Years Ended September 30",
+        "string-overlap"
+      ]
+    ],
+    "target": [
+      "link 0",
+      [
+        1,
+        0
+      ],
+      "link_0",
+      "Years Ended September 30",
+      "Sales by Contract Type: Substantially all of our contracts are fixed-price type contracts."
+    ],
+    "pred": [
+      "link 0",
+      "link_0"
+    ]
+  },
+  {
+    "question": "In which year is the amount of total sales the largest?",
+    "question_id": "que_3",
+    "table_id": "table_0",
+    "nodes": [
+      [
+        "Total sales",
+        [
+          2,
+          0
+        ],
+        null,
+        "string match",
+        1.0,
+        "Years Ended September 30",
+        "links"
+      ]
+    ],
+    "target": [
+      "$1,202.9",
+      [
+        2,
+        2
+      ],
+      null,
+      "2018",
+      ""
+    ],
+    "pred": "$1,202.9"
+  }
+]

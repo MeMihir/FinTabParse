@@ -1,0 +1,22 @@
+[
+    {
+        "question": "What is the company paid on a cost-plus type contract?",
+        "id": "que_0",
+        "answer": "Sales"
+    },
+    {
+        "question": "What is the amount of total sales in 2019?",
+        "id": "que_1",
+        "answer": "Sales"
+    },
+    {
+        "question": "What are the contract types?",
+        "id": "que_2",
+        "answer": "fixed-price type contracts"
+    },
+    {
+        "question": "In which year is the amount of total sales the largest?",
+        "id": "que_3",
+        "answer": "$1,202.9"
+    }
+]

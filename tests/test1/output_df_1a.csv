@@ -1,0 +1,10 @@
+query,answer,TaPeX WTQ,TaPaS WTQ,TaPaS WikiSQL,TaPaS SQA,RCI,UnifiedSKG
+What is the average of the FAT marks?,52.912,53.15,52.91200000000001,99.71,"[81.35, 7.73, 6.79, 62.9, 63.93, 58.75, 65.0, 99.71, 72.88, 4.91, 60.16, 64.19, 59.29, 67.77, 34.7, 63.78, 26.57, 25.78, 34.38, 97.67]",65.00,3.5
+What is the highest DA marks given?,7,6,3,7.0,7.0,1,97.67
+Which student got the lowest marks in FAT?,Nancy Woodley,nancy woodley,Nancy Woodley,4.91,Nancy Woodley,Bob Tennant,Dakota Whitehouse
+Which student has the highest total marks?,Kurt Nayler (196.3),Alice Pearce,Carissa Wright,[],Kurt Nayler,Maxwell Kelly,Cassidy Butler
+What is the sum of all marks given to Melody Penn?,43.93,26.57,7.81,4.0,2.35,4,4.14
+How many students got higher than 50 in FAT?,13,14,13,13,"['Cassidy Butler', 'Georgia Murphy', 'Ethan Roscoe', 'Logan Dale', 'Bob Tennant', 'Alice Pearce', 'Britney Plant', 'Dakota Whitehouse', 'Enoch Wheeler', 'Matthew Casey', 'Maxwell Kelly', 'Marvin Lunt', 'Kurt Nayler']",65.00,6
+What is the difference between highest and the lowest FAT?,94.8,24.91,0,99.71,[],72.88,.15
+Which students have more than fifty percentile in FAT?,"['Georgia Murphy', 'Marvin Lunt', 'Ethan Roscoe', 'Enoch Wheeler', 'Bob Tennant', 'Maxwell Kelly', 'Britney Plant', 'Cassidy Butler', 'Kurt Nayler', 'Alice Pearce']","[' Cassidy Butler', ' Alice Pearce', ' Britney plant', ' Maxwell Kelly', ' Marvin lunt', ' Kurt']",Alice Pearce,Alice Pearce,"['Cassidy Butler', 'Georgia Murphy', 'Ethan Roscoe', 'Logan Dale', 'Bob Tennant', 'Alice Pearce', 'Britney Plant', 'Dakota Whitehouse', 'Enoch Wheeler', 'Matthew Casey', 'Maxwell Kelly', 'Marvin Lunt', 'Kurt Nayler']",Bob Tennant,"Cassidy Butler, Rocco York"
+Which student has the highest marks in Quiz1 and Quiz2 combined?,Liliana Marshall (16.45),elana dykew,Liliana Marshall,[],Rocco York,Carissa Wright,Cassidy Butler

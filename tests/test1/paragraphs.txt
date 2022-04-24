@@ -1,0 +1,4 @@
+The following is a table of marks for the first year for the course of Natural Language Processing. It consists of both internal marks and final marks.
+The internal marks are the marks that are awarded for the digital assignment (DA) and the two quizes along with the two CAT assessments.
+CAT means Continous Assessment Test. FAT means Final Assessment Test.
+The marks for CAT 1 and CAT 2 are out of 50. The marks for FAT is out of 100. Both quizes, Quiz 1 and Quiz 2 are scored out of 10. The Digital Assignment is also scored out of 10.

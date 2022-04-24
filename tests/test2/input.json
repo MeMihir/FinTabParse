@@ -1,0 +1,645 @@
+[
+    {
+        "table": {
+            "name": "Employee_Data",
+            "table": [
+                [
+                    "Employee",
+                    "Email Address",
+                    "Job Title",
+                    "Department",
+                    "Skills",
+                    "salary"
+                ],
+                [
+                    "Karla Shaw",
+                    "Karla_Shaw2946@grannar.com",
+                    "Physician",
+                    "Operations",
+                    "Leadership",
+                    "421280.83"
+                ],
+                [
+                    "Lucy Graves",
+                    "Lucy_Graves1808@yahoo.com",
+                    "Assistant Buyer",
+                    "IT",
+                    "Leadership",
+                    "111527.49"
+                ],
+                [
+                    "Katelyn Mason",
+                    "Katelyn_Mason9745@ubusive.com",
+                    "Associate Professor",
+                    "Management",
+                    "Decision Making",
+                    "363918.35"
+                ],
+                [
+                    "Ethan Power",
+                    "Ethan_Power1160@naiker.biz",
+                    "Global Logistics Supervisor",
+                    "Research and Development",
+                    "Decision Making",
+                    "419595.95"
+                ],
+                [
+                    "Daphne Richardson",
+                    "Daphne_Richardson5090@naiker.biz",
+                    "Food Technologist",
+                    "Marketing",
+                    "Time Management",
+                    "445746.43"
+                ],
+                [
+                    "Logan Callan",
+                    "Logan_Callan5705@bungar.biz",
+                    "Staffing Consultant",
+                    "Research and Development",
+                    "Teamwork",
+                    "106903.76"
+                ],
+                [
+                    "Martha Brett",
+                    "Martha_Brett3655@gembat.biz",
+                    "Staffing Consultant",
+                    "Marketing",
+                    "Communication",
+                    "270124.07"
+                ],
+                [
+                    "Ivy Jordan",
+                    "Ivy_Jordan4559@supunk.biz",
+                    "Investment  Advisor",
+                    "Purchasing",
+                    "Leadership",
+                    "50464.97"
+                ],
+                [
+                    "Javier Randall",
+                    "Javier_Randall5123@ubusive.com",
+                    "Cash Manager",
+                    "Accounting",
+                    "Leadership",
+                    "88458.24"
+                ],
+                [
+                    "Percy Hobson",
+                    "Percy_Hobson6465@liret.org",
+                    "Dentist",
+                    "Finance",
+                    "Communication",
+                    "252223.12"
+                ],
+                [
+                    "Janice Whinter",
+                    "Janice_Whinter5915@nimogy.biz",
+                    "Stockbroker",
+                    "Accounting",
+                    "Leadership",
+                    "410762.44"
+                ],
+                [
+                    "Ron Davies",
+                    "Ron_Davies5206@grannar.com",
+                    "Doctor",
+                    "Operations",
+                    "Adaptability",
+                    "169001.96"
+                ],
+                [
+                    "Logan Wooldridge",
+                    "Logan_Wooldridge8142@twace.org",
+                    "Cash Manager",
+                    "Operations",
+                    "Learning",
+                    "82815.82"
+                ],
+                [
+                    "Matt Lucas",
+                    "Matt_Lucas9262@iatim.tech",
+                    "CNC Operator",
+                    "Finance",
+                    "Work Under Pressure",
+                    "490439.38"
+                ],
+                [
+                    "Enoch Anderson",
+                    "Enoch_Anderson3445@acrit.org",
+                    "Machine Operator",
+                    "Management",
+                    "Leadership",
+                    "204226.46"
+                ],
+                [
+                    "Logan Preston",
+                    "Logan_Preston2546@infotech44.tech",
+                    "Chef",
+                    "Finance",
+                    "Decision Making",
+                    "126941.38"
+                ],
+                [
+                    "Helen Little",
+                    "Helen_Little2650@zorer.org",
+                    "Food Technologist",
+                    "Sales",
+                    "Work Under Pressure",
+                    "114344.9"
+                ],
+                [
+                    "Matt Hunter",
+                    "Matt_Hunter5066@ubusive.com",
+                    "Banker",
+                    "Operations",
+                    "Decision Making",
+                    "261412.26"
+                ],
+                [
+                    "Aiden Wilton",
+                    "Aiden_Wilton3245@gmail.com",
+                    "Executive Director",
+                    "Operations",
+                    "Teamwork",
+                    "199425.1"
+                ],
+                [
+                    "Lucas Reading",
+                    "Lucas_Reading2851@womeona.net",
+                    "Lecturer",
+                    "Purchasing",
+                    "Decision Making",
+                    "395823.53"
+                ]
+            ]
+        },
+        "paragraphs": [
+            {
+                "text": "A physician is a general term for a doctor who has earned a medical degree. Physicians work to maintain, promote, and restore health by studying, diagnosing, and treating injuries and diseases.",
+                "order": 1,
+                "uid": "p1"
+            },
+            {
+                "text": "An assistant buyer works closely with vendors, maintaining positive relationships while negotiating specs, pricing, and deadlines.  They must be able to work independently and prioritize job duties, as well as prepare cost analyses and competitive retail strategies. They must be able to develop sales and profit margin plans, as well as maintain margin and determine turnover objectives.",
+                "order": 2,
+                "uid": "p2"
+            },
+            {
+                "text": "An associate professor is a mid-level professor who usually has a doctorate or other professional degree and teaches classes related to their studies. The responsibilities of an associate professor are similar to an assistant professor. One key difference is that associate professors have more experience and often have tenure.",
+                "order": 3,
+                "uid": "p3"
+            },
+            {
+                "text": "A logistics supervisor is an individual tasked to oversee goods shipment and delivery in organizations. Supervisors manage the planning, organization, and implementation of the company's systems. They take responsibility for managing the inventory of warehouse stocks based on the foreseeable requirements.",
+                "order": 4,
+                "uid": "p4"
+            },
+            {
+                "text": "As a food technologist, your primary responsibility is to ensure that food products are safe and meet specific standards. It's likely you'll also be involved in developing the manufacturing processes and recipes of food and drink products. This could involve working on both existing and newly-discovered ingredients to invent new recipes and concepts.",
+                "order": 5,
+                "uid": "p5"
+            },   
+            {
+                "text": "A staffing consultant develops and maintains the accounts of clients through outside and inside organizational activities. Staffing consultants induct, assess, and monitor the job applicants preparing them for their assignments. They match jobs to applicants and the candidates to their jobs. Their duties include helping both employees and employers in their respective responsibilities. They also act as business development and sales consultant to talent acquisition firms.",
+                "order": 6,
+                "uid": "p6"
+            },   
+            {
+                "text": "An investment advisor (also known as a stock broker) is any person or group that makes investment recommendations or conducts securities analysis in return for a fee, whether through direct management of clients' assets or by way of written publications.",
+                "order": 7,
+                "uid": "p7"
+            },   
+            {
+                "text": "Cash managers monitor and control the flow of cash in and out of the company to meet business and investment needs. For example, they must project cash flow to determine whether the company will have a shortage or surplus of cash.",
+                "order": 8,
+                "uid": "p8"
+            },   
+            {
+                "text": "Dentists remove tooth decay, fill cavities, and repair fractured teeth. Dentists diagnose and treat problems with patients' teeth, gums, and related parts of the mouth. They provide advice and instruction on taking care of the teeth and gums and on diet choices that affect oral health.",
+                "order": 9,
+                "uid": "p9"
+            },
+            {
+                "text": "Doctors diagnose disease, provide treatment, counsel patients with injuries, diseases or illnesses. The specific duties depend upon the speciality you pursue in your MBBS. Some doctors work in cardiology, whereas others may work in surgery, neurology, pulmonology or rheumatology.",
+                "order": 10,
+                "uid": "p10"
+            },   
+            {
+                "text": "A computer numerical controlled (CNC) machine uses a program to control the operation of machine tools such as lathes and mills. It takes a raw material (metal, plastic, etc.) and cuts, grinds, drills, turns, mills, and/or shapes it into parts that meet exact specifications. “Exact” is a key word for CNC operators. Fractions of a millimeter make a difference, and there’s very little room for error.",
+                "order": 11,
+                "uid": "p11"
+            },   
+            {
+                "text": "A Machine Operator is responsible for monitoring, maintaining and operating warehouse equipment. They are also responsible for cleaning and quality-checking their machinery to ensure everything works as it should.",
+                "order": 12,
+                "uid": "p12"
+            },   
+            {
+                "text": "A chef is a trained professional cook and tradesman who is proficient in all aspects of food preparation, often focusing on a particular cuisine. The word \"chef\" is derived from the term chef de cuisine (French pronunciation), the director or head of a kitchen.",
+                "order": 13,
+                "uid": "p13"
+            },   
+            {
+                "text": "A movie head chef quits his restaurant job and buys a food truck in an effort to reclaim his creative promise, while piecing back together his estranged family.",
+                "order": 14,
+                "uid": "p14"
+            },   
+            {
+                "text": "Bankers, also known as retail bankers, interact with clients on a daily basis by assisting with services such as setting up checking and savings accounts, authorizing loans, and moving money. They also counsel clients on banking products and services.",
+                "order": 15,
+                "uid": "p15"
+            },   
+            {
+                "text": "In the US, an executive director is a chief executive officer (CEO) or managing director of an organization, company, or corporation. The title is widely used in North American not-for-profit organizations, though many United States nonprofits have adopted the title president or CEO.",
+                "order": 16,
+                "uid": "p16"
+            },   
+            {
+                "text": "a person who gives lectures, especially as an occupation at a university or college of higher education.",
+                "order": 17,
+                "uid": "p17"
+            },
+            {
+                "text": "Leadership is the ability of an individual or a group of individuals to influence and guide followers or other members of an organization.",
+                "order": 18,
+                "uid": "p18"
+            },
+            {
+                "text": "Leadership is a vital management function that helps to direct an organization's resources for improved efficiency and the achievement of goals. Effective leaders provide clarity of purpose, motivate and guide the organization to realize its mission.",
+                "order": 19,
+                "uid": "p19"
+            },
+            {
+                "text": "Decision making is the process of making choices by identifying a decision, gathering information, and assessing alternative resolutions. Using a step-by-step decision-making process can help you make more deliberate, thoughtful decisions by organizing relevant information and defining alternatives.",
+                "order": 20,
+                "uid": "p20"
+            },
+            {
+                "text": "The importance of decision making lies in the way it helps you in choosing between various options. Before making a decision, there is a need to gather all available information and to weigh its pros and cons. It is crucial to focus on steps that can help in taking the right decisions.",
+                "order": 21,
+                "uid": "p21"
+            },
+            {
+                "text": "Time management is the process of organizing and planning how to divide your time between different activities. Get it right, and you'll end up working smarter, not harder, to get more done in less time – even when time is tight and pressures are high. The highest achievers manage their time exceptionally well.",
+                "order": 22,
+                "uid": "p22"
+            },
+            {
+                "text": "Teamwork can be defined as the ability of team members to work together, communicate effectively, anticipate and meet each other's demands, and inspire confidence, resulting in a coordinated collective action.",
+                "order": 23,
+                "uid": "p23"
+            },
+            {
+                "text": "Communication is the act of giving, receiving, and sharing information -- in other words, talking or writing, and listening or reading. Good communicators listen carefully, speak or write clearly, and respect different opinions.",
+                "order": 24,
+                "uid": "p24"
+            },
+            {
+                "text": "Karla Shaw born in Yemen graduated from Florida State University majored in English IV",
+                "order": 25,
+                "uid": "p25"
+            },
+            {
+                "text": "Lucy Graves born in Estonia graduated from Lehigh University majored in Ecology",
+                "order": 26,
+                "uid": "p26"
+            },
+            {
+                "text": "Katelyn Mason born in Macedonia graduated from Clark University majored in Music",
+                "order": 27,
+                "uid": "p27"
+            },
+            {
+                "text": "Ethan Power born in Sao Tome and Principe graduated from Brown University majored in Spanish",
+                "order": 28,
+                "uid": "p28"
+            },
+            {
+                "text": "Daphne Richardson born in Netherlands graduated from University of Miami majored in Leadership",
+                "order": 29,
+                "uid": "p29"
+            },
+            {
+                "text": "Logan Callan born in Fiji graduated from Stony Brook University graduated from  State University of New York majored in French",
+                "order": 30,
+                "uid": "p30"
+            },
+            {
+                "text": "Martha Brett born in Chile graduated from The New School majored in Design and technology",
+                "order": 31,
+                "uid": "p31"
+            },
+            {
+                "text": "Ivy Jordan born in Burundi graduated from Georgia Institute of Technology majored in Mathematics",
+                "order": 32,
+                "uid": "p32"
+            },
+            {
+                "text": "Javier Randall born in Gabon graduated from The Ohio State University majored in Mathematics",
+                "order": 33,
+                "uid": "p33"
+            },
+            {
+                "text": "Percy Hobson born in Thailand graduated from Iowa State University majored in French",
+                "order": 34,
+                "uid": "p34"
+            },
+            {
+                "text": "Janice Whinter born in Suriname graduated from New York University majored in Ancient Civilizations",
+                "order": 35,
+                "uid": "p35"
+            },
+            {
+                "text": "Ron Davies born in Turkmenistan graduated from Case Western Reserve University majored in Economics",
+                "order": 36,
+                "uid": "p36"
+            },
+            {
+                "text": "Logan Wooldridge born in Ethiopia graduated from Rutgers University - New Brunswick majored in Instrumental Music",
+                "order": 37,
+                "uid": "p37"
+            },
+            {
+                "text": "Matt Lucas born in Vatican City graduated from University of Colorado Boulder majored in German",
+                "order": 38,
+                "uid": "p38"
+            },
+            {
+                "text": "Enoch Anderson born in Switzerland graduated from Northeastern University majored in Handwriting",
+                "order": 39,
+                "uid": "p39" 
+            },
+            {
+                "text": "Logan Preston born in Sao Tome and Principe graduated from Northwestern University majored in Dramatics",
+                "order": 40,
+                "uid": "p40"
+            },
+            {
+                "text": "Helen Little born in Albania graduated from California Institute of Technology (Caltech) majored in French",
+                "order": 41,
+                "uid": "p41"
+            },
+            {
+                "text": "Matt Hunter born in Mozambique graduated from Dartmouth College majored in LOGIC",
+                "order": 42,
+                "uid": "p42"
+            },
+            {
+                "text": "Aiden Wilton born in Vanuatu graduated from Michigan State University majored in Leadership",
+                "order": 43,
+                "uid": "p43"
+            },
+            {
+                "text": "Lucas Reading born in Andorra graduated from University of South Florida majored in German",
+                "order": 44,
+                "uid": "p44"
+            },
+            {
+                "text": "Marketing is the activity, set of institutions, and processes for creating, communicating, delivering, and exchanging offerings that have value for customers, clients, partners, and society at large.",
+                "order": 45,
+                "uid": "p45"
+            }
+        ],
+        "questions": [
+            {
+                "uid": "1a",
+                "order": 1,
+                "question": "What is the name of the employee who's job title is CNC Operator?",
+                "answer": "",
+                "derivation": "",
+                "answer_type": "",
+                "answer_from": "",
+                "facts": [],
+                "mapping": {
+                "table": []
+                },
+                "rel_paragraphs": [],
+                "req_comparison": false,
+                "scale": ""
+            },
+            {
+                "uid": "1b",
+                "order": 2,
+                "question": "What is the name of the employee who's job title is computer numerical controlled operator?",
+                "answer": "",
+                "derivation": "",
+                "answer_type": "",
+                "answer_from": "",
+                "facts": [],
+                "mapping": {
+                "table": []
+                },
+                "rel_paragraphs": [],
+                "req_comparison": false,
+                "scale": ""
+            },
+            {
+                "uid": "1c",
+                "order": 3,
+                "question": "What is the major of the employee who's job title is computer numerical controlled operator?",
+                "answer": "",
+                "derivation": "",
+                "answer_type": "",
+                "answer_from": "",
+                "facts": [],
+                "mapping": {
+                "table": []
+                },
+                "rel_paragraphs": [],
+                "req_comparison": false,
+                "scale": ""
+            },
+            {
+                "uid": "2a",
+                "order": 4,
+                "question": "Which employee has the highest salary?",
+                "answer": "",
+                "derivation": "",
+                "answer_type": "",
+                "answer_from": "",
+                "facts": [],
+                "mapping": {
+                "table": []
+                },
+                "rel_paragraphs": [],
+                "req_comparison": false,
+                "scale": ""
+            },
+            {
+                "uid": "2b",
+                "order": 5,
+                "question": "Which university did the employee with the highest salary graduate from?",
+                "answer": "",
+                "derivation": "",
+                "answer_type": "",
+                "answer_from": "",
+                "facts": [],
+                "mapping": {
+                "table": []
+                },
+                "rel_paragraphs": [],
+                "req_comparison": false,
+                "scale": ""
+            },
+            {
+                "uid": "3a",
+                "order": 6,
+                "question": "What is the average salary?",
+                "answer": "",
+                "derivation": "",
+                "answer_type": "",
+                "answer_from": "",
+                "facts": [],
+                "mapping": {
+                "table": []
+                },
+                "rel_paragraphs": [],
+                "req_comparison": false,
+                "scale": ""
+            },
+            {
+                "uid": "3b",
+                "order": 7,
+                "question": "What is the average salary of employees born in Sao Tome and Principe?",
+                "answer": "",
+                "derivation": "",
+                "answer_type": "",
+                "answer_from": "",
+                "facts": [],
+                "mapping": {
+                "table": []
+                },
+                "rel_paragraphs": [],
+                "req_comparison": false,
+                "scale": ""
+            },
+            {
+                "uid": "4a",
+                "order": 8,
+                "question": "How many employees with Leadership skills are in the Accounting department?",
+                "answer": "",
+                "derivation": "",
+                "answer_type": "",
+                "answer_from": "",
+                "facts": [],
+                "mapping": {
+                "table": []
+                },
+                "rel_paragraphs": [],
+                "req_comparison": false,
+                "scale": ""
+            },{
+                "uid": "4b",
+                "order": 9,
+                "question": "How many employees in the Accounting department have the skill to direct an organization's resources for improved efficiency and the achievement of goals?",
+                "answer": "",
+                "derivation": "",
+                "answer_type": "",
+                "answer_from": "",
+                "facts": [],
+                "mapping": {
+                "table": []
+                },
+                "rel_paragraphs": [],
+                "req_comparison": false,
+                "scale": ""
+            },
+            {
+                "uid": "5",
+                "order": 10,
+                "question": "How many unique departments are there?",
+                "answer": "",
+                "derivation": "",
+                "answer_type": "",
+                "answer_from": "",
+                "facts": [],
+                "mapping": {
+                "table": []
+                },
+                "rel_paragraphs": [],
+                "req_comparison": false,
+                "scale": ""
+            },
+            {
+                "uid": "6a",
+                "order": 11,
+                "question": "What is the highest salary in the Marketing Department?",
+                "answer": "",
+                "derivation": "",
+                "answer_type": "",
+                "answer_from": "",
+                "facts": [],
+                "mapping": {
+                "table": []
+                },
+                "rel_paragraphs": [],
+                "req_comparison": false,
+                "scale": ""
+            },
+            {
+                "uid": "6b",
+                "order": 12,
+                "question": "What is the highest salary in the department dealing with creating and communicating value of a product to customers?",
+                "answer": "",
+                "derivation": "",
+                "answer_type": "",
+                "answer_from": "",
+                "facts": [],
+                "mapping": {
+                "table": []
+                },
+                "rel_paragraphs": [],
+                "req_comparison": false,
+                "scale": ""
+            },
+            {
+                "uid": "7",
+                "order": 13,
+                "question": "How many employees use gmail for thier email address?",
+                "answer": "",
+                "derivation": "",
+                "answer_type": "",
+                "answer_from": "",
+                "facts": [],
+                "mapping": {
+                "table": []
+                },
+                "rel_paragraphs": [],
+                "req_comparison": false,
+                "scale": ""
+            },
+            {
+                "uid": "8a",
+                "order": 14,
+                "question": "What is the range of salary in the Accounting Department?",
+                "answer": "",
+                "derivation": "",
+                "answer_type": "",
+                "answer_from": "",
+                "facts": [],
+                "mapping": {
+                "table": []
+                },
+                "rel_paragraphs": [],
+                "req_comparison": false,
+                "scale": ""
+            },
+            {
+                "uid": "9a",
+                "order": 15,
+                "question": "Which employees have jobs in the Food industry?",
+                "answer": "",
+                "derivation": "",
+                "answer_type": "",
+                "answer_from": "",
+                "facts": [],
+                "mapping": {
+                "table": []
+                },
+                "rel_paragraphs": [],
+                "req_comparison": false,
+                "scale": ""
+            }
+        ]
+    }
+]
