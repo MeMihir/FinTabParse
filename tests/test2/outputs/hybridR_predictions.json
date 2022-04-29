@@ -1,0 +1,332 @@
+[
+  {
+    "question": "What is the name of the employee who's job title is CNC Operator?,",
+    "question_id": "que_0",
+    "table_id": "table_0",
+    "nodes": [
+      [
+        "CNC Operator",
+        [
+          13,
+          2
+        ],
+        null,
+        "string match",
+        0.93,
+        "Job Title",
+        "links"
+      ]
+    ],
+    "target": [
+      "Matt Lucas",
+      [
+        13,
+        0
+      ],
+      null,
+      "Employee",
+      ""
+    ],
+    "pred": "Matt Lucas"
+  },
+  {
+    "question": "What is the name of the employee who's job title is computer numerical controlled operator?,",
+    "question_id": "que_1",
+    "table_id": "table_0",
+    "nodes": [
+      [
+        "link 10",
+        [
+          14,
+          2
+        ],
+        "link_10",
+        "A computer numerical controlled (CNC) machine uses a program to control the operation of machine tools such as lathes and mills.",
+        0.6388424407426923,
+        "Job Title",
+        "tf-idf"
+      ]
+    ],
+    "target": [
+      "Enoch Anderson",
+      [
+        14,
+        0
+      ],
+      null,
+      "Employee",
+      ""
+    ],
+    "pred": "Enoch Anderson"
+  },
+  {
+    "question": "What is the major of the employee who's job title is computer numerical controlled operator?,",
+    "question_id": "que_2",
+    "table_id": "table_0",
+    "nodes": [
+      [
+        "link 10",
+        [
+          14,
+          2
+        ],
+        "link_10",
+        "A computer numerical controlled (CNC) machine uses a program to control the operation of machine tools such as lathes and mills.",
+        0.6388424407426923,
+        "Job Title",
+        "tf-idf"
+      ]
+    ],
+    "target": [
+      "Leadership",
+      [
+        14,
+        4
+      ],
+      null,
+      "Skills",
+      ""
+    ],
+    "pred": "Leadership"
+  },
+  {
+    "question": "Which employee has the highest salary?,",
+    "question_id": "que_3",
+    "table_id": "table_0",
+    "nodes": [
+      [
+        "490439.38",
+        [
+          13,
+          5
+        ],
+        null,
+        "maximum",
+        1.0,
+        "salary",
+        "links"
+      ]
+    ],
+    "target": [
+      "Matt Lucas",
+      [
+        13,
+        0
+      ],
+      null,
+      "Employee",
+      ""
+    ],
+    "pred": "Matt Lucas"
+  },
+  {
+    "question": "Which university did the employee with the highest salary graduate from?,",
+    "question_id": "que_4",
+    "table_id": "table_0",
+    "nodes": [
+      [
+        "490439.38",
+        [
+          13,
+          5
+        ],
+        null,
+        "maximum",
+        1.0,
+        "salary",
+        "links"
+      ]
+    ],
+    "target": [
+      "Matt Lucas",
+      [
+        13,
+        0
+      ],
+      null,
+      "Employee",
+      ""
+    ],
+    "pred": "Matt Lucas"
+  },
+  {
+    "question": "How many employees with Leadership skills are in the Accounting department?,",
+    "question_id": "que_5",
+    "table_id": "table_0",
+    "nodes": [
+      [
+        "Leadership",
+        [
+          10,
+          4
+        ],
+        null,
+        "string match",
+        1.0,
+        "Skills",
+        "links"
+      ]
+    ],
+    "target": [
+      "Accounting",
+      [
+        10,
+        3
+      ],
+      null,
+      "Department",
+      ""
+    ],
+    "pred": "Accounting"
+  },
+  {
+    "question": "What is the highest salary in the Marketing Department?,",
+    "question_id": "que_6",
+    "table_id": "table_0",
+    "nodes": [
+      [
+        "Marketing",
+        [
+          6,
+          3
+        ],
+        null,
+        "string match",
+        1.0,
+        "Department",
+        "links"
+      ]
+    ],
+    "target": [
+      "Martha Brett",
+      [
+        6,
+        0
+      ],
+      null,
+      "Employee",
+      ""
+    ],
+    "pred": "Martha Brett"
+  },
+  {
+    "question": "What is the highest salary in the department dealing with creating and communicating value of a product to customers?,",
+    "question_id": "que_7",
+    "table_id": "table_0",
+    "nodes": [
+      [
+        "link 44",
+        [
+          6,
+          3
+        ],
+        "link_44",
+        "Marketing is the activity, set of institutions, and processes for creating, communicating, delivering, and exchanging offerings that have value for customers, clients, partners, and society at large.",
+        0.8813559322033898,
+        "Department",
+        "string-overlap"
+      ]
+    ],
+    "target": [
+      "270124.07",
+      [
+        6,
+        5
+      ],
+      null,
+      "salary",
+      ""
+    ],
+    "pred": "270124.07"
+  },
+  {
+    "question": "How many employees use gmail for thier email address?,",
+    "question_id": "que_8",
+    "table_id": "table_0",
+    "nodes": [
+      [
+        "490439.38",
+        [
+          13,
+          5
+        ],
+        null,
+        "maximum",
+        1.0,
+        "salary",
+        "links"
+      ]
+    ],
+    "target": [
+      "link 43",
+      [
+        13,
+        0
+      ],
+      "link_43",
+      "Employee",
+      "Lucas Reading born in Andorra graduated from University of South Florida majored in German"
+    ],
+    "pred": "43"
+  },
+  {
+    "question": "What is the range of salary in the Accounting Department?,",
+    "question_id": "que_9",
+    "table_id": "table_0",
+    "nodes": [
+      [
+        "Accounting",
+        [
+          8,
+          3
+        ],
+        null,
+        "string match",
+        1.0,
+        "Department",
+        "links"
+      ]
+    ],
+    "target": [
+      "Accounting",
+      [
+        8,
+        3
+      ],
+      null,
+      "Department",
+      ""
+    ],
+    "pred": "Accounting"
+  },
+  {
+    "question": "Which employees have jobs in the Food industry?,",
+    "question_id": "que_10",
+    "table_id": "table_0",
+    "nodes": [
+      [
+        "link 5",
+        [
+          16,
+          3
+        ],
+        "link_5",
+        "Their duties include helping both employees and employers in their respective responsibilities.",
+        0.75,
+        "Department",
+        "string-overlap"
+      ]
+    ],
+    "target": [
+      "Helen Little",
+      [
+        16,
+        0
+      ],
+      null,
+      "Employee",
+      ""
+    ],
+    "pred": "Helen Little"
+  }
+]

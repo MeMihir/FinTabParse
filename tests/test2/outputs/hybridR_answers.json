@@ -1,0 +1,57 @@
+[
+    {
+        "question": "What is the name of the employee who's job title is CNC Operator?,",
+        "id": "que_0",
+        "answer": "Matt Lucas"
+    },
+    {
+        "question": "What is the name of the employee who's job title is computer numerical controlled operator?,",
+        "id": "que_1",
+        "answer": "Enoch Anderson"
+    },
+    {
+        "question": "What is the major of the employee who's job title is computer numerical controlled operator?,",
+        "id": "que_2",
+        "answer": "Leadership"
+    },
+    {
+        "question": "Which employee has the highest salary?,",
+        "id": "que_3",
+        "answer": "Matt Lucas"
+    },
+    {
+        "question": "Which university did the employee with the highest salary graduate from?,",
+        "id": "que_4",
+        "answer": "Matt Lucas"
+    },
+    {
+        "question": "How many employees with Leadership skills are in the Accounting department?,",
+        "id": "que_5",
+        "answer": "Accounting"
+    },
+    {
+        "question": "What is the highest salary in the Marketing Department?,",
+        "id": "que_6",
+        "answer": "Martha Brett"
+    },
+    {
+        "question": "What is the highest salary in the department dealing with creating and communicating value of a product to customers?,",
+        "id": "que_7",
+        "answer": "270124.07"
+    },
+    {
+        "question": "How many employees use gmail for thier email address?,",
+        "id": "que_8",
+        "answer": "43"
+    },
+    {
+        "question": "What is the range of salary in the Accounting Department?,",
+        "id": "que_9",
+        "answer": "Accounting"
+    },
+    {
+        "question": "Which employees have jobs in the Food industry?,",
+        "id": "que_10",
+        "answer": "Helen Little"
+    }
+]

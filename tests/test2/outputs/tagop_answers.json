@@ -1,0 +1,22 @@
+[
+    {
+        "id": "que_0",
+        "question": "What is the average salary?,",
+        "answer": " percent"
+    },
+    {
+        "id": "que_1",
+        "question": "What is the average salary of employees born in Sao Tome and Principe?,",
+        "answer": "111527.49 "
+    },
+    {
+        "id": "que_2",
+        "question": "How many employees in the Accounting department have the skill to direct an organization's resources for improved efficiency and the achievement of goals?,",
+        "answer": "3 "
+    },
+    {
+        "id": "que_3",
+        "question": "How many unique departments are there?,",
+        "answer": "9 "
+    }
+]

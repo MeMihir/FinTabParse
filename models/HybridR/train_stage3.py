@@ -34,15 +34,15 @@ from tqdm import tqdm, trange
 from multiprocessing import Pool, cpu_count
 from functools import partial
 from torch.utils.data import TensorDataset
-from transformers import (WEIGHTS_NAME, AdamW, BertConfig, BertTokenizer, 
+from transformers2 import (WEIGHTS_NAME, AdamW, BertConfig, BertTokenizer, 
                         BertForQuestionAnswering, get_linear_schedule_with_warmup)
 
-from transformers.data.metrics.squad_metrics import (
+from transformers2.data.metrics.squad_metrics import (
     compute_predictions_log_probs,
     compute_predictions_logits,
 )
 import string
-from transformers.data.processors.utils import DataProcessor
+from transformers2.data.processors.utils import DataProcessor
 from utils import readGZip
 
 try:
