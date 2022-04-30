@@ -81,12 +81,12 @@ def hybridr_preprocessing(table, paragraphs, questions):
             hybirdR_table["data"][-1].append([cell, []])
 
     link_cells = get_tfidf(table, paragraphs)
-    for i,link_cell in enumerate(link_cells):
-      for cell in link_cell:
-        if cell[0] == 0:
-          hybirdR_table["header"][cell[1]][1].append(f"link_{i}")
-        else:
-          hybirdR_table["data"][cell[0]-1][cell[1]][1].append(f"link_{i}")
+
+    for cell in link_cells:
+      if cell['r'] == 0:
+        hybirdR_table["header"][cell['c']][1] = cell['paras']
+      else:
+        hybirdR_table["data"][cell['r']-1][cell['c']][1] = cell['paras']
 
     
     return links, hybridR_ques, hybirdR_table
