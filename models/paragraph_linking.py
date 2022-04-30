@@ -20,6 +20,6 @@ def get_tfidf(table, paragraphs):
       link_cells.append({'r': r, 'c': c, 'paras': [], 'cell': cell})
       # print(cosine_similarities)
       for para in link_para_indx:
-        link_cells[-1]["paras"].append(f'link_{para}')
+        link_cells[-1]["paras"].append(f'link_{para-1}')
     
   return link_cells
