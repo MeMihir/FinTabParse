@@ -1,0 +1,52 @@
+[
+    {
+        "id": "que_0",
+        "question": "Which employee has the highest salary?,",
+        "answer": "['Karla Shaw'] "
+    },
+    {
+        "id": "que_1",
+        "question": "What is the average salary?,",
+        "answer": " percent"
+    },
+    {
+        "id": "que_2",
+        "question": "What is the average salary of employees born in Sao Tome and Principe?,",
+        "answer": "111527.49 "
+    },
+    {
+        "id": "que_3",
+        "question": "How many employees with Leadership skills are in the Accounting department?,",
+        "answer": "3 "
+    },
+    {
+        "id": "que_4",
+        "question": "How many employees in the Accounting department have the skill to direct an organization's resources for improved efficiency and the achievement of goals?,",
+        "answer": "3 "
+    },
+    {
+        "id": "que_5",
+        "question": "How many unique departments are there?,",
+        "answer": "9 "
+    },
+    {
+        "id": "que_6",
+        "question": "What is the highest salary in the Marketing Department?,",
+        "answer": "[] "
+    },
+    {
+        "id": "que_7",
+        "question": "What is the highest salary in the department dealing with creating and communicating value of a product to customers?,",
+        "answer": "[] "
+    },
+    {
+        "id": "que_8",
+        "question": "What is the range of salary in the Accounting Department?,",
+        "answer": "['410762.44'] "
+    },
+    {
+        "id": "que_9",
+        "question": "Which employees have jobs in the Food industry?,",
+        "answer": "['Daphne Richardson', 'Ethan Power', 'Karla Shaw', 'Katelyn Mason', 'Logan Callan', 'Lucy Graves', 'Martha Brett'] "
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "question": "What is the name of the employee who's job title is CNC Operator?,",
+        "id": "que_0",
+        "answer": "Matt Lucas"
+    },
+    {
+        "question": "What is the name of the employee who's job title is computer numerical controlled operator?,",
+        "id": "que_1",
+        "answer": "Enoch Anderson"
+    },
+    {
+        "question": "What is the major of the employee who's job title is computer numerical controlled operator?,",
+        "id": "que_2",
+        "answer": "Leadership"
+    },
+    {
+        "question": "Which university did the employee with the highest salary graduate from?,",
+        "id": "que_3",
+        "answer": "Matt Lucas"
+    },
+    {
+        "question": "How many employees use gmail for thier email address?,",
+        "id": "que_4",
+        "answer": "43"
+    }
+]

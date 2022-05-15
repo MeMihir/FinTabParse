@@ -1,0 +1,17 @@
+[
+    {
+        "question": "What is the name of the satellite from Estonia?",
+        "id": "que_0",
+        "answer": "AISat-1"
+    },
+    {
+        "question": "What are the names of the satellites from India?",
+        "id": "que_1",
+        "answer": "AISat-1"
+    },
+    {
+        "question": "Which satellite has the highest Apogee?",
+        "id": "que_2",
+        "answer": "ABS-3 (Agila 2, Mabuhay 1)"
+    }
+]

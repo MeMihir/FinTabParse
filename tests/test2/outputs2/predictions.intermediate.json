@@ -1,0 +1,155 @@
+[
+  {
+    "question": "What is the name of the employee who's job title is CNC Operator?,",
+    "question_id": "que_0",
+    "table_id": "table_0",
+    "nodes": [
+      [
+        "CNC Operator",
+        [
+          13,
+          2
+        ],
+        null,
+        "string match",
+        0.93,
+        "Job Title",
+        "links"
+      ]
+    ],
+    "target": [
+      "Matt Lucas",
+      [
+        13,
+        0
+      ],
+      null,
+      "Employee",
+      ""
+    ],
+    "pred": "Matt Lucas"
+  },
+  {
+    "question": "What is the name of the employee who's job title is computer numerical controlled operator?,",
+    "question_id": "que_1",
+    "table_id": "table_0",
+    "nodes": [
+      [
+        "link 10",
+        [
+          14,
+          2
+        ],
+        "link_10",
+        "A computer numerical controlled (CNC) machine uses a program to control the operation of machine tools such as lathes and mills.",
+        0.6388424407426924,
+        "Job Title",
+        "tf-idf"
+      ]
+    ],
+    "target": [
+      "Enoch Anderson",
+      [
+        14,
+        0
+      ],
+      null,
+      "Employee",
+      ""
+    ],
+    "pred": "Enoch Anderson"
+  },
+  {
+    "question": "What is the major of the employee who's job title is computer numerical controlled operator?,",
+    "question_id": "que_2",
+    "table_id": "table_0",
+    "nodes": [
+      [
+        "link 10",
+        [
+          14,
+          2
+        ],
+        "link_10",
+        "A computer numerical controlled (CNC) machine uses a program to control the operation of machine tools such as lathes and mills.",
+        0.6388424407426924,
+        "Job Title",
+        "tf-idf"
+      ]
+    ],
+    "target": [
+      "Leadership",
+      [
+        14,
+        4
+      ],
+      null,
+      "Skills",
+      ""
+    ],
+    "pred": "Leadership"
+  },
+  {
+    "question": "Which university did the employee with the highest salary graduate from?,",
+    "question_id": "que_3",
+    "table_id": "table_0",
+    "nodes": [
+      [
+        "490439.38",
+        [
+          13,
+          5
+        ],
+        null,
+        "maximum",
+        1.0,
+        "salary",
+        "links"
+      ]
+    ],
+    "target": [
+      "Matt Lucas",
+      [
+        13,
+        0
+      ],
+      null,
+      "Employee",
+      ""
+    ],
+    "pred": "Matt Lucas"
+  },
+  {
+    "question": "How many employees use gmail for thier email address?,",
+    "question_id": "que_4",
+    "table_id": "table_0",
+    "nodes": [
+      [
+        "490439.38",
+        [
+          13,
+          5
+        ],
+        null,
+        "maximum",
+        1.0,
+        "salary",
+        "links"
+      ]
+    ],
+    "target": [
+      "link 43",
+      [
+        13,
+        0
+      ],
+      "link_43",
+      "Employee",
+      "Lucas Reading born in Andorra graduated from University of South Florida majored in German"
+    ],
+    "pred": [
+      "link 43",
+      "link_43"
+    ]
+  }
+]

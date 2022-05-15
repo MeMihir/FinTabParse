@@ -1,0 +1,966 @@
+Korean peninsula; 15 Ku-band transponders.
+32 C-band, 51 Ku-band, and 6 Ka-band transponders
+Most powerful telecommunications satellite in service in the Asia-Pacific region; 30 C-band, 24 Ku-band transponders; 190 high fidelity channels and 50,000 simultaneous telephone links.
+Purchased by ABS in 2013.
+28 C-band, 16 Ku-band; business services, public voice and data services, broadcasting, direct-to-home; Eastern Europe, CIS, South and Southeast Asia, Africa, Middle East, Australia.
+30 Ku-band, 6 Ka-band; Korean peninsula, the Japanese archipelago, and parts of China and Russia.
+Monitor total solar irradiance (TSI) with maximum precision; ascertain the extent of solar radiation variability.
+ELINT.
+Electronic intelligence (ELINT). 
+ELINT.
+ELINT.
+ELINT.
+Constellation of 3 plus 1; will replace the Milstar system. This satellite's main engine failed right after launch, stranding it in a transfer orbit. It may reach its GEO orbit by summer 2011.
+Second in constellation.
+Third in constellation.
+Demonsration program to track cargo containers worldwide.
+Cubesat to demonstrate new technologies for pointing and tracking between two identical CubeSats and to demonstrate a deorbit device.
+Cubesat to demonstrate new technologies for pointing and tracking between two identical CubeSats and to demonstrate a deorbit device.
+Technology development for cubesat constellation.
+Technology development for cubesat constellation.
+30 Ku-band transponders.
+First WorldSpace satellite; digital audio and multi-media communications  to Africa, Middle East, Asia, Latin America and Caribbean.
+Italian gamma ray observatory.
+Study noctilucent clouds (NLC) in the polar mesosphere. In 2011 the mission was extended through FY 2012.
+Satellite equipped with AIS tracking.
+Equipped with instrument that receives and forwards Automatic Identification System (AIS) signals; will demonstrate maritime ship-tracking technologies.
+Second in the series.
+Designed to measure the Earth�s geomagnetic field and test out a new satellite design.
+Designed to measure the Earth�s geomagnetic field and test out a new satellite design.
+Investigate particle acceleration regions above auroral region; develop better understanding of acceleration mechanism and relation to substorm phenomena.
+Testing a potential lightweight propulsion system for microsatellites based on an array of advanced carbon nanotubes for accelerating ions.
+Partnership between INMARSAT and ESA. Expands INMARSAT's communications and carries 4 technology demonstration packages.
+The system will enable Algeria to obtain very high quality images for use in a wide variety of applications: cartography, management of agriculture, forestry, water, mineral and oil resources, crop protection, management of natural disasters and land planning.
+36 Ku-band, 27 C-band transponders; North and South American continents; Spanish language; leak detected - may not have enough fuel for 15-year life.
+54 Ku-band, 10 C-band transponders; North, Central and South America.
+Suffered a power malfunction shortly after entering orbit; will affect capacity.
+Broadcasting, business, cable, mobile; 24 C-band and 24 Ku-band transponders; 50 states and Caribbean
+24 C-band transponders.
+24 C-band transponders.
+Hybrid Ku-Ka-band satellite; CONUS, Alaska, Hawaii.
+Hybrid Ku-Ka-band satellite; CONUS, Alaska, Hawaii.
+All c-band transponders for North American coverage.
+Broadcasting, business, cable; CONUS, Hawaii, Caribbean, southern Canada; 24 Ku- and 24 C-band
+Television services to the US, Canada, Mexico and Caribbean.
+Broadcasting, business, cable; CONUS, Hawaii, Caribbean, southern Canada; 24 Ku- and 24 C-band
+Broadcasting, cable, internet; CONUS, Canada, Mexico, Caribbean, Central America, South America; 28 Ku- and 24 C-band
+Broadband internet, business television; 16 Ku-band; CONUS
+Business (government and VSAT), media and entertainment; 28 Ku- and 24 C-band; CONUS, Canada, Mexico, Caribbean, Central America
+Cable programming; 24 C-band; CONUS, Alaska, Hawaii, Caribbean
+Cable television and radio programming; 24 C-band; CONUS, Alaska, Hawaii, Caribbean
+Television programmers, government agencies and enterprise networks; 24 Ku-band; CONUS and Mexico.
+Ku-band communications, Europe, Middle East, East Coast of USA.
+15 transponders, Ku and Ka bands.
+Full range of satellite services for Russia, the Middle East and additional service areas. Suggested military surveillance purpose as well.
+14 C-band, 18 Ku-band.
+American amateur radio satellite.
+Equipped with instrumentation to detect, track and identify other spacecraft in orbit.
+36 C-band and 48 Ku-band transponders; broadcasting, business; North and South America; faulty solar panels may affect operations by 2005.
+32 Ku-band, 24 C-band transponders, 2 navigation transponders; North America.
+24 30W C-band, 40 127W Ku-band, 50 90W transponders for broadband and telemedicine to northern US states and Canada
+32 Ku-band, 24 C-band and 2 Ka-band transponders; voice and video throughout North America.
+16 extended Ku-band transponders fully contracted to Shaw Direct for 15 years.
+Developmental communications systems operating at VHF,UHF and S-band, and an Earth-imaging system with detectors in the near infrared and visible bands. Released from Unisat 6 June 20 at 21:07:00 from the same deployer as Aerocube 6.
+Messaging services.
+Will provide tracking and data monitoring services for companies with remote or mobile assets.
+Messaging services.
+Will provide tracking and data monitoring services for companies with remote or mobile assets.
+Will provide tracking and data monitoring services for companies with remote or mobile assets.
+Continuation of constellation.
+Will provide tracking and data monitoring services for companies with remote or mobile assets.
+In highly inclined orbit.
+In highly inclined orbit.
+Replacement for Apstar 2R.
+26 active C-band transponders, 12 active Ka-band transponders
+Television broadcast;  32 Ku-band.
+Built around an Arduino processor and a set of sensors that can be programmed by students to conduct experiments. Goal is to "democratize access to space."
+An 18-month rescue mission recovered the satellite; develop European capabilities in satellite communications; test new technologies; support development of European navigation system (EGNOS, c. 2010).
+28 C-band, 16 Ku-band; broadcasting, internet services, multimedia, telecommunications
+28 C-band, 16 Ku-band; extensive C-band coverage across Asia and targeted Ku-band beams for Australasia, East Asia, and a BSS payload for provision of Direct to Home (DTH) services to Hong Kong.
+14 Ku-Band, 26 C-band, serving all of Asia.
+28 C-band, 17 Ku-band, and a Ka-band payload. Will replace AsiaSat-3S.
+Africa, Middle East, Asia, Latin America and Caribbean. Services to underserved emerging markets; low-cost portable receivers.
+Primarily backup for Astra 1B and 1C; 18 Ku-band transponders; continental Europe.
+54 to 108 digital TV programs to W. Europe; 18 Ku-band transponders; backup for 1B, 1C or 1D
+Direct tv broadcast to Europe; 16 Ku-band transponders; Europe.
+Direct-to-home tv; multimedia; 32 Ku-band transponders; Europe
+Direct-to-home tv; multimedia; broadcasting; 32 Ku-band for first five years, 28 after; Europe.
+32 Ku-band transponders; direct-to-home broadcast services across Europe.
+29 Ku-band, 2 Ka-band transponders first five years; 25 Ku-band and 2 Ka-band thereafter.
+Direct-to-home and HD television.
+Direct-to-home and HD television.
+Voice and video communications to Europe; 32 Ku-band for first five years, 28 after.
+Direct-to-home; broadcasting, multimedia; 30 Ku-band for first five years, 28 after; UK and Ireland.
+Direct-to-home; broadcasting, multimedia; 32 transponders for first five years; 28 after, continental Europe
+Direct-to-home; broadcasting, multimedia; 16 Ku-band; UK and Ireland.
+Broadcast, Vsat and broadband services to Europe.
+Prime position for SES - BBC, ITV, Channel 5.
+20 transponders; provide follow-on capacity for the Kopernikus satellite of Deutsche Telekom AG, contracted for 10 transponders on spacecraft; German-speaking countries of Germany, Austria and Switzerland.
+60 Ku-band, 4 Ka-band transponders. Serves German, Czech, Slovak market.
+Comsat to cover Eastern Europe with Direct to Home and cable feeds to digital television networks. It also carries a hosted L-band payload for the European Commission�s European Geostationary Navigation Overlay Service (EGNOS).
+Carries 2 payloads, one each for France and Italy. Operates in the Ka and EHF bands.
+Technology demonstration and testing of new satellite bus to be used for first commercial Russian remote sensing.
+First satellite for Azerbaijan. Operating from an orbital slot assigned to Malaysia.
+Pakistan's microsatellite for development of surveillance capability.
+28 Ku-band transponders; voice and video communications to West Asia region.
+Second generation; radio and tv communications to Middle East; 26 C-band, 24 ku-band transponders.
+26 C-band, 24 Ku-bandover sub-Saharan Africa, North Africa and the Middle East.
+24 C-band, 20 Ku-band transponders, direct-to-home voice, video, and internet services to the Middle East and North Africa.
+Verify the behavior of new micro reaction wheels for picosatellites.
+Carrying a technology experiment using gyros and sensors for precise orientation.
+Will test high-speed data links (up to 1MB/s).
+Earth observation for Disaster Monitoring Constellation (DMC); also research.
+Forest fire recognition by small satellites.
+Analog of Canopus-B. Supplies information to various government agencies.
+Television broadcasting; 8 Ku-band, Siberia or Europe, selected.
+24 C-band; several X-band. Used for telephone service in Brazilian interior.
+28 C-band transponders for voice and video communication.
+28 C-band; voice and video communications to all of South America.
+Canadian contribution to the BRITE (Bright Target Explorer) mission, developedby a consoritum of Canadian, Austrian and Polish institutes. It will study the brightest stars in the Milky Way galaxy.
+Polish contribution to the BRITE (Bright Target Explorer) mission, developed by a consortium of Canadian, Austrian and Polish institutes. It will study the brightest stars in the Milky Way galaxy. First constellation of nanosatellites.
+Twelve 130W Ku-band transponders; HD TV.
+Broadcast 130W Ku-band transponders.
+Co-owned by two companies.
+Technological demonstration of a platform of small satellite for Earth observation that the company plans to put into orbit to provide a commercial service at a global level. 
+Designed to monitor and forecast global ionospheric scintillation in real-time.
+Will provide users with operational hydro-meteorological information.
+Will downlink telemetry.
+Mission planned to make photometric observations of some of the brightest starts in the sky in order to examine these stars for variability. Works with TUGSat-1 from Austria.
+Demonstrate formation flying by a pair of nanosatellites
+Demonstrate formation flying by a pair of nanosatellites
+Technology development; carries innovative attitude sensor.
+Demonstrating satellite technology including stabilisation using the Earth's magnetic field.
+Remote sensing and mapping, land use, forest cover, river flow assessments.
+Remote sensing and mapping; panchromatic images at one-meter resolution to be used for civil planning "and other cartographic needs."
+Military version of CartoSat 2; dedicated satellite for the Indian armed forces.
+Resource mapping, urban planning, transportation studies, water monitoring, and crop inventories.
+Study the effect of solar storms on radio communications, satellite navigation and other ground-based technologies.
+A number of experiments, including a prototype supercomputer designed to process data onboard rather than sending raw information directly to Earth.
+X-ray astronomy.
+38 C-band; voice and video services to Asia-Pacific and Oceania.
+Prototype of advanced telecommunications satellite for LEO.
+Collect and relay hydrological and meteorological data and data for disaster relief.
+Collect and relay hydrological and meteorological data and data for disaster relief.
+Equipped with a system for testing a manipulator arm, maybe a proof of concept for use on China's upcoming space station.
+Digital television; 32 Ku-band transponders.
+Study of space weather effects in near-Earth space.
+Study of space weather effects in near-Earth space.
+Study of space weather effects in near-Earth space.
+Joins Aqua, Parasol, Aura, and Calipso in A-Train; meteorological satellite, carries single radar to obtain the reflectivity of clouds.
+Part of Compass constellation.
+Part of Compass constellation.
+Part of Compass constellation.
+Part of Compass constellation.
+Part of Compass constellation.
+Part of Compass constellation.
+Part of Compass constellation, now operational.
+Part of Compass constellation.
+Part of Compass constellation.
+Part of Compass constellation.
+Part of Compass constellation; first one in MEO orbit.
+Part of Compass constellation.
+Part of Compass constellation.
+Multi-mission satellite with three payloads: one for meteorology, one for ocena observation and one for communications.
+Germany's first military communications satellite.
+SHF (Super-High-Frequency), and UHF transponders (Ultra-High-Frequency).
+Monitor ocean winds and image Solar Mass Ejections (SME).
+�. . . Provide atmospheric data daily in real time over thousands of points on Earth for both research and operational weather forecasting by measuring the bending of radio signals from the U.S. Global Positioning System (GPS) as the signals pass through Earth's atmosphere.�
+�. . . Provide atmospheric data daily in real time over thousands of points on Earth for both research and operational weather forecasting by measuring the bending of radio signals from the U.S. Global Positioning System (GPS) as the signals pass through Earth's atmosphere.�
+�. . . Provide atmospheric data daily in real time over thousands of points on Earth for both research and operational weather forecasting by measuring the bending of radio signals from the U.S. Global Positioning System (GPS) as the signals pass through Earth's atmosphere.�
+�. . . Provide atmospheric data daily in real time over thousands of points on Earth for both research and operational weather forecasting by measuring the bending of radio signals from the U.S. Global Positioning System (GPS) as the signals pass through Earth's atmosphere.�
+�. . . Provide atmospheric data daily in real time over thousands of points on Earth for both research and operational weather forecasting by measuring the bending of radio signals from the U.S. Global Positioning System (GPS) as the signals pass through Earth's atmosphere.�
+To be part of 4-satellite constellation; radar imager, collect data on floods, droughts, earthquakes and landslides; military applications.
+Earth imaging; synthetic aperture radar (SAR) operating in X-band.
+Earth imaging; synthetic aperture radar (SAR) operating in X-band, focus on Mediterranean security.
+Earth imaging; synthetic aperture radar (SAR) operating in X-band, focus on Mediterranean security.
+Remote sensing, part of ESA's ice mission. Will measure polar ice for three years. Spacecraft has no solar panels.
+Technology development of new platform. Turned over for amateur use when technology demonstration completed.
+Amateur radio satellite.
+On-orbit verification of the super small satellite (nano-satellite) bus system using commercial-off-the-shell components.
+Backup for Cubesat II-IV.
+Gather information on battery and solar cell efficiencies as well as satellite spin.
+A multi-year effort to design, build, and launch an autonomous in-orbit inspection satellite system.
+Design development of pico satellite by using off-the-shelf components.
+Will provide telemetry and a 9600-baud packet store-and-forward message relay.
+Follow-on to ALOS-1 mission.
+Demonstrate satellite contribution to disaster management activities, provide wide and high-resolution observation data during large-scale natural disasters in Japan and foreign countries. Promote data utilization for needs including land and infrastructure management and resource management.
+Part of international Disaster Monitoring Constellation.
+Part of international Disaster Monitoring Constellation.
+Flight test thin film solar cells and an advanced transceiver.
+32 broad-beam Ka band; 55 spot-beam Ka-band transponders; will provide HDTV to CONUS.
+High definition channels for North America.
+High-definition for North America.
+First commercial launch by Sea Launch consortium (American, Russian, Ukrainian companies). Sold to RSCC in 2012 to shore up Bonum-1.
+Direct broadcasting; 48 Ku-band; 300 local TV channels to 41 metropolitan communities through 11 C-band transponders.
+Digital television to North American subscribers; 32 Ku-band; direct broadcasting.
+Direct-to-home TV; 54 transponders.
+36 Ku- and Ka-band transponders.
+52 Ku-band and 2 Ka-band transponders; direct-to-home, voice, video and internet.
+Transmits image of its own view; not currently used for scientific mission but operational.
+Near-polar orbits; investigate Earth's environment. SSM/1 sensor to track sea ice has completely failed.
+Near-polar orbits; investigate Earth's environment.
+Near-polar orbits; investigate Earth's environment. Problem with SSM/1 sensor to track sea ice.
+Near-polar orbits; investigate Earth's environment.
+Near-polar orbits; investigate Earth's environment.
+Near-polar orbits; investigate Earth's environment.
+Remote sensing; also an internal company technology demonstration experiment to test the capabilities of a low-cost spacecraft constrained to the 3U cubesat form factor to host a small payload.
+Develop more advanced data relay  by improving the technology for the Communications and Broadcasting Engineering Satellite (COMETS).
+Super High Frequency (SHF) for U.S. government and military; sophisticated survivability enhancement; worldwide, longhaul coverage; X-band.
+Super High Frequency (SHF) for U.S. government and military; sophisticated survivability enhancement; worldwide, longhaul coverage; X-band. 
+Super High Frequency (SHF) for U.S. government and military; sophisticated survivability enhancement; worldwide, longhaul coverage; X-band.
+Super High Frequency (SHF) for U.S. government and military; sophisticated survivability enhancement; worldwide, longhaul coverage; X-band.
+Super High Frequency (SHF) for U.S. government and military; sophisticated survivability enhancement; worldwide, longhaul coverage; X-band.
+Super High Frequency (SHF) for U.S. government and military; sophisticated survivability enhancement; worldwide, longhaul coverage; X-band.
+Spare; Super High Frequency (SHF) for U.S. government and military; sophisticated survivability enhancement; worldwide, longhaul coverage; X-band; in reserve.
+Super High Frequency (SHF) for U.S. government and military; sophisticated survivability enhancement; worldwide, longhaul coverage; X-band.
+Infrared sensors to detect heat from missile and booster plumes against earth's background; detection capability of smaller missiles; improved warning of attack by short-range missiles against U.S. and allied forces.
+Infrared sensors to detect heat from missile and booster plumes against earth's background; detection capability of smaller missiles; improved warning of attack by short-range missiles against U.S. and allied forces.
+Infrared sensors to detect heat from missile and booster plumes against earth's background; detection capability of smaller missiles; improved warning of attack by short-range missiles against U.S. and allied forces.
+Infrared sensors to detect heat from missile and booster plumes against earth's background; detection capability of smaller missiles; improved warning of attack by short-range missiles against U.S. and allied forces.
+Optical imaging camera; will be used for urban development, scientific research, telecommunications, transportation, construction and mapping, water quality and engineering tests.
+Second in series.
+First privately-funded Russian satellite, constructed by Dauria Aerospace carrying an AIS (Automatic Identification System) receiver to monitor ships at sea.
+Measuring the satellite's thermal environment.
+Operating as Mexican satellite until replaced by Quetzsat; Echostar will have capacity on that satellite.
+Direct-to-home transmission of voice, video and internet.
+Direct-to-home television.
+Direct-to-home television services; cable's attempt to compete with dish networks.
+Direct-to-home over CONUS.
+Direct-to-home over CONUS.
+Direct-to-home over CONUS.
+All ka-band communications.
+Central/Mountain region to Eastern U.S.; 32 Ku-band transponders
+CONUS, Hawaii, Alaska and Puerto Rico; 32 Ku-band transponders
+CONUS, Hawaii, Alaska and Puerto Rico; 32 Ku-band transponders
+CONUS, Hawaii, Alaska and Puerto Rico; 32 Ku-band transponders
+24 C-band, 2 Ka-band, 32 Ku-band; additional C-band payload owned and operated by Loral Skynet.
+CONUS, Puerto Rico, Virgin Islands. Purchased by Dish Network in 2011. 
+Built by Aerospace school, University of Rome.
+Remote sensing satellite.
+Satellite's position in GEO will yield real-time views of entire Earth disk -- wide swath of Asia, Middle East and Indian Ocean. Will also provide communciations for search-and-rescue services.
+In-orbit elint demonstration project. Will identify ground-based radars and other telecommunications sources; to be replaced by operational ELINT system by end of decade.
+In-orbit elint demonstration project. Will identify ground-based radars and other telecommunications sources; to be replaced by operational ELINT system by end of decade.
+In-orbit elint demonstration project. Will identify ground-based radars and other telecommunications sources; to be replaced by operational ELINT system by end of decade.
+In-orbit elint demonstration project. Will identify ground-based radars and other telecommunications sources; to be replaced by operational ELINT system by end of decade.
+One-year technology validation/demonstration mission; image Earth's surface in numerous wavelength bands.
+Study Earth's ozone, air quality, and climate; extension of UARS and TOMS missions.
+Six-year chronology of the planet and its hydrological processes.
+High resolution imaging satellite; obtain images (with terrain width of 12.6 km) of locations chosen by Israeli military or worldwide commercial clients; in Jan. 2001 Ministry of Defense bought rights to all imaging of Israel and territories within 2,000 km radius.
+High resolution imaging satellite; obtain images (with resolution of 0.82 meters) of locations chosen by Israeli military or worldwide commercial clients; in Jan. 2001 Ministry of Defense bought rights to all imaging of Israel and territories within 2,000 km around Israel.
+Put into backup to charge batteries - tumbling has caused problems. Future project uncertain.
+Estonian Student Satellite project - hands-on experience on developing space technologies.
+32 Ku-band transponders; direct-to-home voice, video, and data transmissions to countries between central Europe and the Indian subcontinent.
+30 Ku-band; highest powered Ku-band cross connection between South East Asia and Europe.
+46 Ku-band, 10 C-band transponders, S-band not in service due to anomaly.
+Twenty channels, telecommunications services between Europe and the Americas.
+53 Ku and three Ka transponders; will provide capacity for broadcasting and telecom/data services to Central Europe and Indian Ocean islands. Will support digital video broadcasting markets while coverage of Africa stretching from Senegal to South Africa will serve data and telecom markets.
+Europe and North Africa; 20 active channels
+High-speed Internet access, high-volume data transmission, video broadcasting, messaging and positioning services; 18 Ku-band transponders.
+Hybrid C/Ku-band satellite. 20 Ku-band, 18 C-band transponders. Broadcast, Internet, business; Ku-band tailored to broadband for Boeing Connexion; Pacific region.
+Partnership between Eutelsat and the Doha-based Es�hailSat, the Qatar Satellite Company - the first of a planned fleet for Qatar.
+Twenty-four transponders, Ku-band connectivity from western Europe through Middle East and Central and South Asia.
+Twenty-four channels; Western and Central Europe as far west as Canary Islands.
+20 Ku-band transponders; video and data transmission to Europe and Turkey.
+Thirty-one operational channels, Western Russia,  majoritiy of central and southern Afirca.
+70 Ku-band transponders; serving Europe, Russia, Africa, Middle East and Central Asia.
+10 C-band transponders; voice and video links to Eastern Asia. In May 2011 Eutelsat leased the satellite to use as a orbital slot holder at 1.6 degrees East.
+51 transponders. Replaces Eutelsat 3D at 3 East.
+53 Ku-band and three Ka-band transponders.
+Full coverage of Europe, Middle East, parts of Africa and Asia; 20 active channels. Extremely inclined.
+Increased capacity for data, video and government services.
+Broadcasting, telecommunications, direct-to-home tv, business services; 24 Ku-band transponders; Europe, Atlantic Islands, North Africa, Middle East, Central Asia.
+45 transponders; Ku and C-band frequencies, Americas, Europe and Africa.
+Replaces Atlantic Bird 4A at 7 West.
+Replaced Eutelsat 70A.
+58 Ku-band transponders; covers whole of sub-Saharan Africa and provides connectivity to Europe and Middle East.
+European and American coverage.
+Cable programming; direct-to-home broadcasting; 28 Ku-band, 4 Ka-band transponders
+38 Ku-band transponders.
+64 Ku-band transponders.
+64 Ku-band transponders.
+64 Ku-band transponders.
+First satellite with exclusively Ka-band communications payload.
+Automatic Identification System (AIS) satellite; real-time data on the locations, speeds and routes of vessels throughout the world�s oceans.
+Continuation of constellation.
+Continuation of constellation.
+Continuation of constellation.
+12 of the 24 transponders are referred to as SESAT-2 (EUTELSAT); 26 C-band, 4 Ku-band.
+12 C-band, 5 Ku-band; television, telecommunications, dedicated networks.
+10 C-band transponders; data transmission, TV and radio broadcasting; communications, Internet, video-conference, others; digital format to Russia and neighboring countries.
+16 C-band, 12 Ku-band; 1 L-band.
+16 C-band, 12 Ku-band; 1 L-band; video and radio transmissions to all of Russia.
+10 C-band, 16 Ku-band; 1 L-band; Russian Federation and Asian Pacific region.
+16 Ku-band; 10 C-band, 1 L-band transponder.
+Commercial comsat to cover western Russia. Services include provide mobile presidential and governmental communications, digital television and radio broadcasting services, multimedia services (telephony, videoconferencing, data transmission, access to the Internet) and VSAT networks.
+Russian domestic comsat providing fixed and mobile satellite communications, data services, broadband, software distribution and TV to Russia and neighboring countries.
+Russian domestic comsat providing fixed and mobile satellite communications, data services, broadband, software distribution and TV to Russia and neighboring countries.
+Air Force Academy�s first attempt at achieving three axis attitude determination and control (ADCS). FalconSAT-3 will carry three payloads to conduct DoD research. When primary mission completed amateur radio payload will be activated.
+Consists of two satellites that will be launched together -- Sara Lily and Emma.
+Demonstrate technology for controlling co-orbiting vehicles. Includes network communications between the two satellites.
+Meteorological; better weather forecasting for the Beijing Olympics.
+Meteorological; weather forecasting and disaster reduction.
+Meteorological; weather forecasting and disaster reduction.
+Meteorological; better weather forecasting for the Beijing Olympics.
+Meteorological.
+Meteorological.
+Will study the cosmos in the photon energy range of 8,000 electronvolts (8 keV) to greater than 300 billion electronvolts (300 GeV).
+Amateur observers speculate that this is part of the FIA.
+Amateur observers speculate that this is part of the FIA.
+US reconnaissance satellite, part of the only remaining element of the Future Imaging Architecture programme, equipped with an imaging radar. Orbit plane is 90� away in RA from each of the two earlier launches.
+One of a simultaneously-launched pair studying space weather, in particular - electron microbursts in the Van Allen radiation belts.
+One of a simultaneously-launched pair studying space weather, in particular - electron microbursts in the Van Allen radiation belts.
+Study of lightening.
+Old system replaced by UFO satellites; this satellite still operational as of 2009.
+"It's mission is to observe and monitor the terrestrial and marine environment and natural resources throughout Taiwan, its remote islands and surrounding ocean for civil applications." 
+Electronic equipment for detecting, analyzing and recording bursts of radio energy (nuclear tests) from near Earth's surface (nonproliferation); study lightning; plastic satellite bus.
+Aimed for its transmissions to be received easily be received by schools and colleges and decoded in the classroom. It's purpose is to provide stimulation and encouragement for students to become interested Science, Technology, Engineering and Mathematics.
+Voice and video communications; 24 C-band, 40 Ku-band; North America, Brazil. Solar panels very degraded - will serve for DTH applications.
+Voice, video and data transmissions; 24 C-band; North and South America.
+Horizons 1 is Ku-band payload; C-band is on Galaxy 13.
+24 C-band transponders; North America, Caribbean.
+North America, Alaska, Hawaii, Caribbean; 24 C-band transponders, 2 L-band transponders for transmission of navigational data; anomaly in 4/10 left Intelsat out of communication with the satellite.
+24 C-band, 24 Ku-band; CONUS coverage.
+24 C-band, 24 Ku-band transponders; service to North America.
+Advanced cable television and data, North America; 24 Ku-band, 24 C-band transponders.
+50-state coverage, in addition to reaching the Caribbean, Canada and Mexico, to video, government and network customers. 
+24 C-band, 28 Ku-band; U.S., southern Canada, Mexico, Caribbean.
+24 C-band, 24 Ku-band; voice and video to North and Central America; a 2004 anomaly resulted in loss of half its capacity.
+28 C-band, 36 Ku-band, 24 Ka-band; video and data transmissions to all countries in North and South America.
+Direct-to-home broadcast of video and Internet; 24 C-band, 16 Ku-band; North America
+Operational nucleus of the full 30-satellite constellation.
+Operational nucleus of the full 30-satellite constellation.
+Operational nucleus of the full 30-satellite constellation.
+Operational nucleus of the full 30-satellite constellation.
+Possibly for cartography; will work in system to combine data from different sources.
+Possible replacement for Potok/Geizer relay communications satellite.
+L-band; mobile telephone communications.
+Principal purpose is to evaluate use of satellites to monitor ABS-B data transmissions from commercial aircraft on trans-oceanic routes.
+Prototype for space hotel; inflatable spacecraft.
+Second prototype for space hotel; inflatable spacecraft.
+Remote sensing for both commercial customers and the National Geospatial-Intelligence Agency (NGA), GeoEye-1 is capable of acquiring image data at 0.41 meter panchromatic and 1.65 meter multispectral resolution. Experienced an antenna anomaly in 12/09.
+Study the dynamics of the Earth's magnetotail over a wide range of distance
+First of a series of satellites to study water circulation systems in the Earth's atmosphere; July 2012 took up lead position in A-Train.
+Global M0bile satellite telecommunications services, offering both voice and data services from virtually anywhere in over 100 countries around the world.; went through Chapter 11 in 2002; acquired by ICO Global Communications (majority shareholder in 2003. In 2002 awarded contract to Space Systems/Loral for second generation constellation.
+First of second generation.
+Continuation of second generation.
+Next generation. Will transmit more navigation signals. Five channels, four in L1 andL2 bands and one for civilian aplications in the L3 band.
+New Glonass-M type; Russia's version of the GPS system, functions the same; there has been cooperation between the two; much scaled-back constellation
+New Glonass-M type; Russia's version of the GPS system, functions the same; there has been cooperation between the two; much scaled-back constellation
+Will supply data critical for fast, accurate forecasts and warnings for severe weather, including tornadoes, winter storms and hurricanes.
+Spare.
+Still supplying communications at South Pole; equipment scheduled to be removed in 2006.
+High resolution earth observation. Second and third in production.
+Commercial version of Strela (GRU) military system; store and forward communications satellites; will operate until 2004 or 2005; not a successful commercial venture.
+Commercial version of Strela (GRU) military system; store and forward communications satellites; will operate until 2004 or 2005; not a successful commercial venture.
+Commercial version of Strela (GRU) military system; store and forward communications satellites; will operate until 2004 or 2005; not a successful commercial venture.
+Constellation of 12 satellites for civil/commercial use.
+The GPM Core observatory is equipped with radar and microwave imagers to collect data to measure precipitation in the Earth's atmosphere.
+Map gravitational mini-variations caused by sea-level changes, glaciers and melting/freezing of ice sheets by measuring distance between satellites.
+Map gravitational mini-variations caused by sea-level changes, glaciers and melting/freezing of ice sheets by measuring distance between satellites.
+Observe the concentration and distribution of greenhouse gases across most of the Earth's surface.
+Also equipped with GAGAN (GPS Aided GEO Augmented Naviation).
+C-band expansion at this location. Designed for quick turn-around deployment.
+Replacement for GSAT-3.
+4 C-band, 2 Ku-band; mobile satellite service.
+India's first dedicated military satellite.
+Direct-to-home broadcast  and other domestic needs. Equipped with GAGAN (GPS Aided GEO Augmented Navigation).
+Space surveillance of satellites in GEO.
+Space surveillance of satellites in GEO.
+Ocean-imaging surveillance satellite.
+Microsatellite; India's contribution to amateur radio UHF and VHF for Southeast Asia.
+Optical reconnaissance; independent military intelligence capability for the EU (France has financed 90% of the B series).
+Optical reconnaissance, independent military intelligence capability for the EU (France has financed 90% of the B series).
+30 Ku-band; television broadcasting services for the 2004 Summer Olympic Games in Athens.
+Explore basic physics of particle acceleration and explosive energy release in solar flares.
+Solar observatory; telescope built by Smithsonian Observatory.
+Carries extreme ultraviolet telescope to observe the planets and measure their interaction with plasma generated by Jupiters moon Io and investigate the mechanism of how the atmosphere of the terrestrial planets escapes into space.
+Third of Spain's communications satellites with government, commercial and military application; X-band heavily used; 24 transponders in Ku-band.
+Fourth of Spain's communications satellites with government, commercial and military application; X-band heavily used; 28 Ku-band transponders.
+63 Ku-band transponders and a Ka-band capability.
+Monitors environment and natural disasters.
+Monitors environment and natural disasters.
+Monitors environment and natural disasters.
+Accelerate the technology development and practical utilization of micro/nano-satellites.
+Radar calibration. Student built cubesat, University of Hawaii.
+Joint venture between Intelsat and JSAT; 20 Ku-band transponders, services to the US, Canada and Japan.
+To test an experimental high-voltage solar array system and observe spacecraft charging effects caused by it; also provide ground communication for junior/senor high school students as amateur radio.
+Exploration of space.
+Demonstrator for the future HumSat constellation - a store-dump communications system to collect data from ground-based sensors.
+Stated goal of providing broadband internet access to people in the areas hardest to reach by terrestrial connectivity means
+24 fixed beams and one steerable beam, pioneering Ka-band technology. High speed data capacity across southern and Eastern Africa, the Middle East and the Caucasus.
+Principally a demonstration satellite including amateur radio capability, includes an imaging device.
+Japan's first military optical reconnaissance satellites; primary mission the monitoring of N. Korea. Launch failure in 11/03 of second half of system cripples it to a large degree.
+Optical reconnaissance.
+Optical reconnaissance.
+Radar reconnaissance.
+Radar reconnaissance.
+Radar reconnaissance.
+Optical demonstration satellite.
+Black and white imaging with1 meter resolution; same geography every three days; 1-meter panchromatic and 4-meter multispectral.
+Speculation on purpose - HEO indicates possible SBIRS-HEO test payload; may also carry NASA's TWINS-A science payload to map the Earth's magnetosphere.
+Reported to be carrying signals intelligence and early warning payloads.
+Broadcasting, business services, mobile communications; leased traffic; demand-assigned L-band transponders; Indian Ocean region.
+Broadcasting, business services, mobile communications; demand assigned L-band transponders; Atlantic Ocean region.
+Broadcasting, business services, mobile communications; demand assigned L-band transponders; Atlantic Ocean region-West.
+Broadcasting, business services, mobile communications; demand assigned L-band transponders; back-up and leased-capacity.
+Nearly the size of a double-decker bus; more than 600 channels.
+Nearly the size of a double-decker bus; more than 600 channels.
+200 spot-beams to relay messages from mobile phones based on land, sea, or air.
+Support for the Broadband Global Area Network (B-GAN) for internet and intranet use, video on demand, video-conferencing, fax, e-mail, telephone and high-speed LAN access.
+12 C-band, 6 extended C-band, 6 Ku-band for voice, video and data transmission to West Asia, East Asia, India; augment present INSAT capacity for communication and meteorological services.
+Voice, video and digital data services to India and neighboring countries.
+Advanced meteorological payloads plus a Data Relay Transponder and a Satellite Aided Search & Rescue payload
+12 Ku-band, 12 C-band transponders for data and TV services.
+Television and telecommunications services; 12 Ku-band and 12 C-band transponders, Indian sub-continent.
+12 high-power Ku-band transponders designed to provide Direct-to-home (DTH) television services, Video Picture Transmission (VPT) and Digital Satellite News Gathering (DSNG).
+Astronomical satellite for observing the gamma-ray sky.
+Direct-to-home video channels; 24 C-band, 24 Ku-band; Asia, Africa, Middle East, Europe.
+Television, data, and other telecommunication services to Europe, Africa and the Middle East; 36 Ku-band, 70 C-band transponders.
+25 C-band, 18 Ku-band transponders, services to Latin America.
+62 transponders, North and South America, Africa and Europe; will also carry an experiment for the US Department of Defense. Internet Routing in Space, or IRIS, is a technology demonstration project which will allow the satellite to perform IP routing rather than requiring a ground station to do so.
+Will replace Intelsat 709; 22 Ku-band transponders; Data and video for customers in Russisa, the Middle East and Indian ocean area. Five transponders are directly owned by Sky Perfect JSAT Corp.
+24 Ku-band transponders; direct-to-home to customers in Mexico and Brazil.
+24 C-band, 25 Ku-band transponders serving Europe, the Middle East, Africa, Russia and Asia.
+24 C-band, 12 Ku-band; Asia Pacific Region
+Replacement for Intelsat 8. Damage to a solar panel; reduced power.
+36 C-band, 36 Ku-band; direct-to-home (DTH) digital video and Internet services; Americas, Caribbean, Europe, Africa; will be replaced by Intelsat 14.
+Replacement for Intelsat 7 and Intelsat 10. C-band and Ku-band for DTH television, cellularbackhaul and VSAT services.
+Will replace Intelsat 9 - Meet needs of key customers SKY Mexico, Turner, Discovery,Fox, Telespazio, etc.
+Provide C-band and Ku-band communications services over Africa, Asia, Europe and the Middle East. Intelsat 22 also carries a hosted UHF payload for the Australian Defence Force.
+15 Ku-band, 24 C-band. Americas, Caribbean, Western Europe, Africa.
+First satellite of fleet; provides service in Asia. Purchased at auction by Intelsat in October, 2009 for $210 million.
+Backup for JCSAT-3; 12 C-band, 12 Ku-band; relay voice, data, television signals via Ku-band to eastern Asia, Australia, New Zealand, India; via C-band to eastern and southern Asia and Hawaii. Digital TV. Sold to Intelsat in 2010.
+28 C-band, 28 Ku-band; covers Arab world. Inclined.
+Inclined orbit; 64 C-band, 24 Ku-band; Broadcasting, business services, direct-to-home TV broadcasting, telecommunications, VSAT networks; Pacific Ocean region.
+Voice and video communications; 14 C-band, 30 Ku-band; Asia, Africa, Middle East, Europe.
+42 C-band, 24 Ku-band; broadcasting, business services, direct-to-home TV broadcasting, telecommunications, VSATnetworks; Pacific Ocean region. 
+42 C-band, 24 Ku-band; broadcasting, business services, direct-to-home TV broadcasting, telecommunications, VSATnetworks; Pacific Ocean region. 
+42 C-band, 36 Ku-band; broadcasting, business services, direct-to-home TV broadcasting, telecommunications, VSATnetworks Atlantic Ocean region. 
+Television broadcast; 24 Ku-band; Asia-Pacific.
+36 C-band, 6 Ku-band, broadcasting, business services, direct-to-home TV broadcasting, telecommunications, VSAT networks; Atlantic Ocean region.
+160 voice, video, data, and Internet channels; 24 C-band, 24 Ku-band; Americas, Caribbean, Europe.
+72 C-band, 22 Ku-band, broadcasting, business services, direct-to-home TV broadcasting, telecommunications, VSAT networks; Atlantic Ocean region.
+76 C-band, 22 Ku-band, broadcasting, business services, direct-to-home TV broadcasting, telecommunications, VSAT networks; Indian Ocean region.
+76 C-band, 22 Ku-band, broadcasting, business services, direct-to-home TV broadcasting, telecommunications, VSAT networks; Atlantic Ocean region.
+76 C-band, 22 Ku-band, broadcasting, business services, direct-to-home TV broadcasting, telecommunications, VSAT networks; Indian Ocean region.
+76 C-band, 22 Ku-band, broadcasting, business services, direct-to-home TV broadcasting, telecommunications, VSAT networks; Atlantic Ocean region.
+72 C-band, 22 Ku-band, broadcasting, business services, direct-to-home TV broadcasting, telecommunications, VSAT networks.
+76 C-band transponders; business, video, internet.
+6 C-band, broadcasting, business services, direct-to-home TV broadcasting, telecommunications, VSAT networks; Asia Pacific region.
+Carries 14 active C-band transponders and 16 Ku-band transponders to serve customers in Africa, the Middle East, Pakistan and Western Europe; the C-band antenna has failed to deploy as of 6/11.
+Final size of a Boeing 747; first component.
+Monitor the boundary between heliosphere and interstellar medium.
+Designed to validate onboard instrument processing and autonomous payload operations for the proposed NASA HYperSPectral Infra-Red Instrument (HyspIRI) mission.
+66 satellite constellation with 13 spares; 15-20 ground stations with master control complex in Landsdowne, VA; backup in Italy, third engineering center in Chandler, AZ; Filed for Chapter 11 in 2000; started to let system deorbit. Iridium Satellite LLC purchased assets of Iridium LLC. DoD stepped in-- renewable DoD contract; unlimited airtime to 20,000 govt. workers; mobile voice, data and paging
+According to Rod Sladen, the only person who tracks the Iridium system, Iridium 51 may have replaced Iridium 5, but its not certain at this time.
+Iridium 51 and Iridium 5 were first confused by OIG. They have been correctly separated.
+Spare; stored in 667 km storage orbit, not raised to 780 km operational orbit until needed
+Spare; stored in 667 km storage orbit, not raised to 780 km operational orbit until needed
+Spare; stored in 667 km storage orbit, not raised to 780 km operational orbit until needed
+Operational
+Spare; stored in 670 km storage orbit, not raised to 780 km operational orbit until needed
+Spare; stored in 670 km storage orbit, not raised to 780 km operational orbit until needed
+Spare; stored in 670 km storage orbit, not raised to 780 km operational orbit until needed
+Spare; stored in 670 km storage orbit, not raised to 780 km operational orbit until needed
+Spare; stored in 670 km storage orbit, not raised to 780 km operational orbit until needed
+Spare; stored in 670 km storage orbit, not raised to 780 km operational orbit until needed
+Operational
+Investigate the sun's corona, solar wind and atmosphere
+First of a seven-satellite system.
+Monitor agricultural, land, and water resources.
+Turkey's first university satellite; raise experienced staff on satellite systems in our country, and also to serve as a practical ground for the theoretically equipped graduate and undergraduate students of ?T� Astronautics Department.
+Monitor sea surface level and wave heights.
+30 Ku-band, 12 C-band transponders.
+24 Ku-band; voice and video communications to Japan.
+44 Ku-band transponders.
+Ku-band; voice and video communications to Asian Pacific countries and Hawaii.
+16 C-band, 16 Ku-band; coverage to Japan< East Asia, Australia and Hawaii.
+32 Ku-band; multimedia and Internet access and voice, data and television signals to Japan.
+C-band, Ku-band, and S-band transponders.
+Backup for other JCSATs.
+The mission goal is to make a nanosatellite at IIT Kanpur that would serve the following applications: 1. Micro Imaging System; 2. GPS receiver for locating the position of satellite in the orbit; 3. MEMS based IMU (Inertial Measurement Unit) 
+Carries a VHRR (Very High Resolution Radiometer); Data Relay Transponder
+High-resolution observation satellite owned by Kazakhstan, tasks including monitoring of natural and agricultural resources, provision of mapping data, and support for rescue operations in the event of a natural disaster.
+Medium-resolution observaton satellite owned by Kazakshstan.
+Replaced KazSat-1.
+Communications satellite for Kazakhstan to provide point-to-point links, TV and high-speed Internet.
+$1 billion satellite; high resolution surveillance; can carry up to 7 metric tons of fuel.
+$1 billion satellite; high resolution surveillance; can resolve square or circular objects as small as 10 cm but linear structures of 5-8 cm can also be detected. Reported to have reduced capacity due to electrical problems.
+$1 billion satellite; last use of Titan IV as launch vehicle.
+Believed to be KH-11 class.
+Believed to be KH-11 class.
+Technology development for satellite communications; JAXA portion completed.
+Technology demonstration; carries ultra-fast, 1.2 Gbps direct-to-home downlink in Ka-band.
+Experiments on micro-thrusters, basic experiments on 3-axis attitude control and take land images with a camera.
+Military reconnissance imaging satellite. Will be in orbit about 4 months. Drops cannisters for recovery.
+High-resolution, multispectral images of Earth's surface.
+Support Geographical Information Systems, environmental, agricultural and oceanographic monitoring. There may also be a miltary/strategic imaging role.
+To develop the first Korean SAR (Synthetic Aperture Radar) Satellite
+Radar imaging satellite.
+24 Ku-band, 8 SHF-band, and 4 Ka-band transponders for commercial and military use.
+Enhanced HD and 3D satellite TV programs. 30 Ku-and transponders. Will replace Koreasat 3.
+Emergency data monitoring and imaging.
+$1 billion range; space-based imaging radar, uses radar pulses to see through clouds, fog, haze, darkness and generate images.
+$1 billion range; 3-10 ft. image resolution.
+$1 billion range.
+Remote sensing; polar orbit.
+Repalcement for Landsat 5.
+Video camera surveillance microsatellite; based on German DLR-Tubsat; will perform experiments in attitude control and earth observation.
+Nanosatellite; planned constellation of 48 satellites, little LEO; asset tracking and monitoring services.
+Nanosatellite; planned constellation of 48 satellites, little LEO; asset tracking and monitoring services.
+Ultra High Frequency (UHF) satellite communications services for U.S. DoD and Australian Defense Forces.
+Prototype. Earth imaging constellation.
+New generation electronic reconnaissance satellite, possibly will work as part of the Liana electronic reconnaissance system. 
+Seven S-band and Ku-band channels. The 1,148-kg spacecraft will provide TV and data communications links between the International Space Station and the ground, as well as orbital control of spacecraft in low Earth orbit.
+Relay commands and data. Provide secure communication links, command relay to spacecraft, and communication with ISS. Time correction for GLONASS.
+Relay commands and data. Provide secure communication links, command relay to spacecraft, and communication with ISS. Time correction for GLONASS.
+Test three-dimensional attitude control system for future remote sensing; currently used for ice observation in Arctic.
+1U Cubesat from Budapest University of Technology and Economics to demonstrate various spacecraft avionics, including a power conditioning system, transceiver and on-board data handling.
+M-Cubed is as a technology demonstrator platform for high resolution imaging technology intended for use in a future Nasa mission; E1P-U2 mission is to detect the Van Allen radiation belts.
+Brought back from retirement 9/11, highly inclined. Digital video and audio broadcasting, international and domestic VSAT and telecommunication services as well as high-speed Internet access; 6 C-band, 9 Ku-band; Malaysia and neighboring countries.
+24 C-band, 24 Ku-band
+12 C-band, 12 Ku-band transponders, Asia-Pacific region, Middle East, and Africa.
+The data collected by the satellite will allow improvement in knowledge on the water cycle contribution to the climate dynamic in the tropical atmosphere and our understanding of the processes linked to the tropical convection.
+In the $1 billion range; ELINT; signals intelligence.
+In the $1 billion range; ELINT; signals intelligence.
+Speculated to be a new SIGINT satellite - not verified.
+Military communications - designed to replace Molniya and Parus spacecraft; this is the third of the series, first success.
+Military communications - designed to replace Molniya and Parus spacecraft; this is the fourth of the series.
+Military communications - designed to replace Molniya and Parus spacecraft; this is the sixth of the series.
+Will gather data for weather forecasts, monitor Earth's ozone layer and radiation conditions in upper atmosphere, information on ice floes for maritime shipping.
+Imaging meteorological satellite carrying a range of weather and climate sensors
+http://www.space.com/16461-rocket-launches-weather-satellite-echostar-17.html
+Meteorological spacecraft; intended primarily to support the National Meteorological Services (NMS) of Member States
+Meteorological spacecraft; intended primarily to support the National Meteorological Services (NMS) of Member States; planned system of 3 satellites
+Meteorological spacecraft; intended primarily to support the National Meteorologicla Services (NMS) of Member States; planned system of 3 satellites.
+First polar-orbiting European meteorological satellite.
+Start of 3-satellite constellation.
+Voice communication, data, imagery and video; survivable global military communication system. "World's most secure, nuclear survivable, space-based communication system."
+Voice communication, data, imagery and video; survivable global military communication system. "World's most secure, nuclear survivable, space-based communication system."
+Voice communication, data, imagery and video; survivable global military communication system. "World's most secure, nuclear survivable, space-based communication system."
+Voice communication, data, imagery and video; survivable global military communication system. "World's most secure, nuclear survivable, space-based communication system."
+Voice communication, data, imagery and video; survivable global military communication system. "World's most secure, nuclear survivable, space-based communication system."
+Scientific experiments in space (development of the Earth natural resources space monitoring methods, multifunctional nanomaterials, high-temperature superconductors and other intelligent materials use in space
+Will use an L-band radiometer to study physical phenomena and processes in the atmosphere and on the surface.
+Canada's space telescope, dubbed the "Humble Telescope"; minisatellite; monitor brightness variations in stars.
+Training satellite; carries an amateur radio payload.
+Wireless network for North America
+Wireless network for North America
+Primary objective is to demonstrate advanced multispectral and thermal imaging, image processing, and associated technologies that could be used in future systems for detecting and characterizing facilities producing weapons of mass destruction.
+Dual purpose satellite: air traffic control and navigation function as well as a meteorological function.
+Meteorological satellite; will also relay ground weather data to the Meteorological Satellite Center; in standby mode until 2010.
+Four primary satellites and one orbiting spare will comprise the MUOS system as it is fielded over the next few years to augment and then replace the Navy's aging Ultra High Frequency spacecraft constellation. Orbital parameters estimated.
+Second of four.
+Will maintain contact with Spanish zone in Antarctica; extremely small magnetic and solar sensors.
+Technology demonstration and communication.
+Provide monitoring of Earth's magnetosphere by measuring the magnetic field over Brazil.
+Turned over to British MOD for communications in 2011. Encrypted; X-band, UHF, C-band; NATO and British Ministry of Defence; secure military and diplomatic voice and data communications.
+Currently unused although usable.
+First in the IIF series.
+Will replace 2A-21.
+Precise position data (accurate to within 16 m) to military and civilian users worldwide; constellation of 28 operational satellites; 6 orbit planes; corporate vehicle fleet tracking, surveying, recreational use; nuclear detonation detection sensors.
+Two more military and one civilian channels that earlier versions.
+World's first space telescope dedicated to detecting and tracking asteroids and satellites
+Designed to carry a kill vehicle to intercept any missiles launched against the US; this satellite does not carry the kill vehicle.
+4 C-band, 14 Ku-band, 8 Ka-band, 2 L-band. Footprint centered on African continent.
+Development of NigeriaSat-2 involves also on-the-job training of NASRDA engineers at SSTL. Earth observation, also carries DMC equipment.
+Nigerian engineers will completely manage the total lifecycle of the NX and will be responsible for the delivery of the satellite to full flight specification.
+Large parts of the Arab world, the Middle East, north and central Africa and southern Europe.
+Direct-to-home, radio, and bradoband internet services to Africa and the Middle East; 24 Ku-band and 4 Ka-band transponders.
+Television broadcast;  32 Ku-band, 2 Ka-band.
+Television broadcast;  32 Ku-band, 8 Ka-band.
+32 Ku-band transponders. Full capacity leased to Echostar Corporation for life of satellite.
+Entirely contracted to Bell TV for 15 years.
+Polar-orbiting satellite; lonGalaxy-range weather forecasting; atmospheric and weather monitoring instruments; data stored on-board and transmitted over Fairbanks, AK and Wallops Island, VA.
+Polar-orbiting satellite; lonGalaxy-range weather forecasting; atmospheric and weather monitoring instruments; data stored on-board and transmitted over Fairbanks, AK and Wallops Island, VA.
+Polar-orbiting satellite; lonGalaxy-range weather forecasting; atmospheric and weather monitoring instruments; data stored on-board and transmitted over Fairbanks, AK and Wallops Island, VA.
+Continues key data records that are critical for climate change science.
+Testing solar cells and measuring how they degrade over time in the space environment.
+72 C-band transponders.
+Direct-to-home voice, video and data transmission in India, China and Philippines; 24 C-band, 24 Ku-band transponders.
+48 Ku-band, 40 C-band transponders.
+38 C-band, 6 Ku-band; Pacific Ocean region; shared capacity with Intelset.
+Asia, Australia, Africa, Middle East; 50 Ku-band.
+36 C-band, 36 Ku-band; broadcasting, business services; Europe, Africa, the Middle East, the Americas.
+Africa, Japan, India, China, Australia; 26 C-band, 10 Ku-band; shared capacity with Intelset.
+Latin America; Iberian peninsula, Canary Islands, Western Europe, much of Eastern Europe; 28 C-band, 3 Ku-band; shared capacity with Intelset.
+28 C-band transponders for voice and video communication.
+Multimedia services.
+First focusing telescopes to image the sky in the high energy X-ray (6 - 79 keV) region of the electromagnetic spectrum.
+Carries two biological experiments - one will test live microorganisms, the other inanimate organic samples, to see how they react to conditions in space for six months.
+First of a new constellation in MEO. Provide links between ground stations lying in the range �45� latitude.
+First of a new constellation in MEO. Provide links between ground stations lying in the range �45� latitude.
+First of a new constellation in MEO. Provide links between ground stations lying in the range �45� latitude.
+First of a new constellation in MEO. Provide links between ground stations lying in the range �45� latitude.
+Ocean monitoring; will take data in the visible and near-infrared for observing water pollution, fish populations, sediment distribution and algae. Swath of 1,420 km width with a resolution of 360 m.
+Measures carbon dioxide.
+Originally two scientific disciplines on a single spacecraft in studies of star formation/early solar system (astronomy)  and of the mechanisms behind the depletion of the ozone layer in the earth atmosphere and the effects of global warming (aeronomy); astronomy mission has ended.
+Reconnaissance satellite Mideast area; especially Syria and Iran.
+High resolution observation missions.
+Reconnaissance satellite Mideast area; especially Syria and Iran.
+Reconnaissance satellite Mideast area; especially Syria and Iran.
+Study degradation of lenses in space environment by imaging the same region repeatedly under the same light conditions, FIBOS (Fiber Bragg Gratings for Optical Sensing) to measure temperature, and the GMR (Giant Magneto-Resistance) system to study magnetic fluxes in the Earth's magnetic field.
+50% owned by Defence Ministry; largest hybrid communications and military satellite launched to date; 24 Ku-band, coverage for Australia, New Zealand and East Asia; commercial services in Ku-band (24), military (8) in X-, UHF- and Ka-bands.
+Ku-band only; serves Australia and New Zealand; telephone, TV, mobile communications, air traffic control. Inclined.
+24 Ku-band transponders; voice and video for Australia and New Zealand; will replace Optus B1.
+Direct-to-home tv services to Australia and New Zealand; 24 Ku-band transponders.
+Direct-to-home tv services to Australia and New Zealand; 24 Ku-band transponders.
+Next generation of Orbcomm satellites.
+Reconaissance for US Central Command in Afghanistan and Central Asia.
+Magnetometer and a star camera for measurements of the geomagnetic field.
+12 C-band, 18 Ku-band.
+30 C-band, 6 Ku-band; voice and vision communications to a large area bounded by Iran, Vlodivostok, Australia, and New Zealand.
+Third stage of rocket put it in a low transfer orbit, but was able to maneuver; reduced service life.
+Thought to be a new generation military communications satellite. The operating agency was not announced; ppears to be related to the U. S. Navy�s Ultra-High Frequency (UFO) Follow-On program constellation of geosynchronous communications spacecraft because of the monitored frequencies emanating from the spacecraft launched in earth orbit.
+Improve our knowledge of the radiative and microphysical properties of clouds and aerosols. Removed from A-Train formation in 1/10.
+Normally part of a six-satellite constellation.
+Normally part of a six-satellite constellation.
+Normally part of a six-satellite constellation.
+Normally part of a six-satellite constellation.
+Normally part of a six-satellite constellation.
+Normally part of a six-satellite constellation.
+Normally part of a six-satellite constellation.
+Normally part of a six-satellite constellation.
+Normally part of a six-satellite constellation.
+Normally part of a six-satellite constellation.
+Built by midshipmen to learn technology and operation; will be part of Amateur Radio Reporting System (APRS); only operates fully for a few weeks a year (when in full sun).
+Carry an AIS payload.
+Carry an AIS payload.
+New class of optical reconnaissance satellites. First one, Persona-1, failed soon after launch in 2008.
+Uses off-the-shelf smartphone as computer; two-say S band; uses smartphone camera to take photos of earth.
+Payload includes a number of material processing experiments and biological samples. Did not achieve correct orbit.
+Simultaneous measurement of the absolute total and spectral solar irradiance, diameter and solar shape, studying the Sun's interior through helioseismology.
+Intended to take low resolution Earth images as well as evaluating the performance of onboard systems.
+Optical component of the ORFEO system developed in cooperation with Italy -- Very high resolution panchromatic and multispectral Earth observation satellite.
+Both government and military.
+Perform test and demonstration objectives in space.
+Technology development of optical payload and propulsion system.
+Expandable refracting telescope; technology demonstration.
+First a technology demonstration, then extended for one year for remote sensing; looks like a washing machine.
+Technology demonstration of 17 advanced satellite technologies; will perform 4 experiments.
+Map land cover and vegetation growth.
+1.5U Cubesat from the Los Alamos National Laboratory, payload unspecified but assessing the operational efffectiveness of a constellation of Cubesats for communications by United States Special Operations Command (SOCOM).
+Carries equipment to measure temperature.
+The QB50 mission will demonstrate the possibility of launching a network of 50 CubeSats built by Universities Teams all over the world as a primary payload on a low-cost launch vehicle to perform first-class science in the largely unexplored lower thermosphere.
+The QB50 mission will demonstrate the possibility of launching a network of 50 CubeSats built by Universities Teams all over the world as a primary payload on a low-cost launch vehicle to perform first-class science in the largely unexplored lower thermos
+High-power communications satellite; coverage of Mexico, North America, and Central America; fully contracted to a subsidiary of EchoStar Corp.; will be used in part by Dish Mexico for Direct-To-Home (DTH) services in Mexico.
+High quality earth imagery and geo-spatial information products; highest resolution commercial satellite in orbit. Orbit raised in April 2011 to extend life.
+First in three-satellite constellation for navigation.
+Use of radar sensors to provide remote sensing through all weather and darkness.
+Amateur radio, designed by group of radio amateurs from the town of Kaluga.
+Military communication.
+Military communication.
+Military communication.
+Each satellite captures multi-wavelength images in five bands covering 400-850 nm. 6.5m resolution images, sold to agricultural, forestry and town-planning enterprises.
+Primary objectives are to advance Turkish space technology and know-how and observe natural and manmade disasters, monitor coastline changes and pollution, detect illegal settlements and urban land changes, and update existing maps.
+Low cost communications for sub-Saharan Africa; multinational organization.
+Will revisit some part of Malaysian territory every 90 minutes, maximising its ability to exploit gaps in the clouds, and substantially improving coverage of the country as a result.
+Aurora observations and in-orbit verification of new technologies.
+Study charged particles in the Earth's radiation belts.
+Follow-on to Resourcesat 1; will provide data with enhanced multispectral and spatial coverage as well.
+First non-military earth observation satellite for Russia.
+To replace first Resurs.
+The country's first indigenous radar observation satellite.
+First dedicated military surveillance satellite; rushed out after terrorist attack on Mumbai.
+Earth observation with a resolution of ~ 5 m. In particular, high-resolution cumulonimbus scenes will be observed using the LCTF (Liquid Tunable Multispectral Filter) technique.
+Believed to be replacement system for Strela-3 store and dump communications.
+Rodnik communications satellite. Believed to replace the Strela system.
+Store-dump communications for Russian government and military.
+Store-dump communications for Russian government and military.
+Collection of four spacecraft flying in formation around the earth, relaying detailed information about solar wind's affect on our planet in three dimensions.
+Remotely-sense vegetation, wetlands, and ecosystem in four wavelength bands
+Equipped with multiple scientific instruments from several countries including NASA's Aquarius sensor package.
+Collection of four spacecraft flying in formation around the earth, relaying detailed information about solar wind's affect on our planet in three dimensions.
+Collection of four spacecraft flying in formation around the earth, relaying detailed information about solar wind's affect on our planet in three dimensions.
+Space observation of manmade objects - debris.
+Joint effort, ISRO and CNES.
+First of five Germany surveillance satellites; 1-m resolution images.
+Synthetic Aperture Radar, 4th in a five-satellite fleet. Will be shared with the French military.
+18 C-band, 16 Ku-band; coverage of national territory with television, radio and telephony signals; launched by Mexican Secretaria de Comunicaciones y Transportes, later privatized and taken over by Satlelites Mexicanos S.A. de C.V.
+24 C-band, 24 Ku-band; Internet, voice and data, analogical and digital television and multimedia; Mexico sent more than 10 engineers to work on the satellite at Hughes.
+36 C-band, 24 Ku-band; CONUS, NAFTA, South America, Hawaii, Caribbean
+24 C-band, 40 Ku-band.
+Communications services; part of planned 24-satellite constellation. First commercial satellites.
+Communications services; part of planned 24-satellite constellation. First commercial satellites.
+Communications services; part of planned 24-satellite constellation. First commercial satellites.
+Communications services; part of planned 24-satellite constellation. First commercial satellites.
+Communications services; part of planned 24-satellite constellation. First commercial satellites.
+Communications services; part of planned 24-satellite constellation. First commercial satellites.
+Communications services; part of planned 24-satellite constellation. First commercial satellites.
+Microsatellite; carries several experiments, available to amateurs as power permits.
+Carries a high resolution imager; telecommunications.
+Scientific experiment using ultraviolet radiation in space.
+Defect in communications system; still has not entered service as of 2013. Uses infrared sensors to detect and track missile launches; equipped with both scanning and staring instruments.  Will eventually replace DSP system.
+Expected to be operational before GEO 1.
+Designed to track and detect other spacecraft in orbit.
+ELINT system; wide area ocean surveillance, primarily for the Navy. This 2-satellite system failed after launch, restored to about 80% functionality.
+ELINT system; wide area ocean surveillance, primarily for the Navy. This 2-satellite system failed after launch, restored to about 80% functionality.
+ELINT system; wide area ocean surveillance, primarily for the Navy.
+ELINT system; wide area ocean surveillance, primarily for the Navy.
+ELINT system; wide area ocean surveillance, primarily for the Navy.
+ELINT system; wide area ocean surveillance, primarily for the Navy.
+ELINT system; wide area ocean surveillance, primarily for the Navy and surveillance of shipping.
+ELINT system; wide area ocean surveillance, primarily for the Navy and surveillance of shipping.
+ELINT system; wide area ocean surveillance, primarily for the Navy and surveillance of shipping.
+ELINT system; wide area ocean surveillance, primarily for the Navy and surveillance of shipping.
+ELINT system; wide area ocean surveillance, primarily for the Navy and surveillance of shipping.
+ELINT system; wide area ocean surveillance, primarily for the Navy and surveillance of shipping.
+Collects meteorological and environmental data on the Amazon region; barely functioning.
+Collects meteorological and environmental data on the Amazon region
+ACE experiments in space.
+Carries three instruments to study the Sun at high time and spatial resolution: HMI, AIA, and EVE.
+Real-time data relay from reconnaissance satellites.
+Real-time data relay from reconnaissance satellites.
+Real-time data relay from reconnaissance satellites.
+Real-time data relay from reconnissance satellites.
+Real-time data relay from reconnissance satellites.
+Several technology demonstration experiments and including an experiment to monitor AIS (Automatic Information System) messages transmitted from ships at sea.
+Will download telemetry in Morse code and 1200-baud FM.
+Part of ESA's Copernicus constellation, the EU contribution to GEOSS (Global Earth Observation System of Systems).
+24 C-band; 24 Ku-band, CONUS.
+24 active C-band and 24 Ku-band transponders;  provides comprehensive coverage of North America and the Caribbean. Also features the Commercially Hosted InfraRed Payload (CHIRP) for U.S. Air Force--wide-field of view sensor to validate space-based infrared technologies from geosynchronous orbit.
+24 C-band; 24 Ku-band, CONUS.
+52 C-band; 72 Ku-band, Americas, Europe, Africa and the Middle East. 
+24 C-band transponders and 36 Ku-band transponders. Also carries hosted L-band payload for the European Commission�s European Geostationary Navigation Overlay Service (EGNOS).
+Direct-to home broadcasts and VSat terminal services - Atlantic Ocean region.
+13 S-band, 27 Ku-band transponders, covers Indonesia, india, Taiwan and the Philippines. Purchased at auction in Dec. 2009 for $185 million.
+Direct broadcast TV and communications network services to India and south-east Asia.
+Monitor space environment; conduct several experiments.
+Conduct various technology and environmental experiments.
+Conduct various technology and environmental experiments.
+Replacement for 11-04.
+Conduct various technology and environmental experiments.
+Conducting space environment exploration and technological experiments.
+Monitor space radiation.
+Monitor space radiation.
+Radiation detectors and other space environment-related instruments.
+Radiation detectors and other space environment-related instruments.
+Monitor space environment; conduct several experiments.
+Monitor space environment; conduct several experiments.
+Possible reconnaissance function.
+Possible reconnaissance function.
+Monitor space environment; conduct several experiments.
+Focus on satellite reliability demonstrations and validating high-performance Chinese-made technologies.
+Focus on satellite reliability demonstrations and validating high-performance Chinese-made technologies.
+Equipped with an LED to drive an optical communications ground station link at distances up to 400 kilometres.
+Stereo mapping; photographic surveys of China's land resources, monitor environment, mapping.
+Experiments on new technologies in atmospheric exploration.
+Study the environment and test new space technologies.
+Remote sensing and research.
+Possibly testing systems for detection of orbiting space debris or tracking missile launches.
+Will obtain medium-resolution images of Earth.
+Italy's first military satellite; communications to fixed and mobile terminals. Extremely High Frequency (EHF), SHF, UHF broadcast frequencies. On-board failure in 2006, but operations recovered.
+One third paid for by Telespazio; will use some transponders for approved government customers.
+"Telecommunications and research." "Take pictures of Iran and to monitor natural disasters in the earthquake-prone nation."
+Television and radio across China. 1 S-band, 24 C-band, and 8 Ku-band transponders. Backup for Sinosat 3.
+Relay music, news, entertainment directly to motorists in the USA; a fourth satellite is stored on the ground for rapid replacement, if necessary.
+Relay music, news, entertainment directly to motorists in the USA.
+Relay music, news, entertainment directly to motorists in the USA.
+52 Ku-band and 2 Ka-band transponders; service to Europe and sub-Saharan Africa.
+First in geostationary orbit.
+Provide service the continental USA including digital audio radio broadcast directly to cars, homes and portable radios.
+Direct radio broadcasting.
+Spare. In March 2010 it was announced that the satellite would supplement communications at Antarctica.
+Used primarily by UK's armed forces, government departments, agencies and other organizations that require secure communications.
+Used primarily by UK's armed forces, government departments, agencies and other organizations that require secure communications.
+New generation of Skynet communications.
+24 super-high-frequency and UHF channels; provide secure communications services to British and NATO forces.
+Planned 24-satellite constellation for imaging.
+Will collect high resolution panchromatic and multispectral images of the Earth.
+Part of a fourth generation, or 4G, wireless system designed to reach nearly every American by the end of 2016. 22-m diameter L-band antenna; 2 m Ku-band antenna.
+Provides tactical intelligence focused support to broad community of users consisting of uniformed military services and government agencies for both exercises and operations.
+Technology experiments under the STP (Space Test Program).
+Mission unknown.
+Possibly testing use for tactical 'Beyond Line of Sight' communications.
+Possibly testing use for tactical 'Beyond Line of Sight' communications.
+Mission to measure sea surface salinity and soil moisture on a global scale.
+Communications experiments.
+Development of new satellite bus.
+Observe lightening.
+Monitor Sun; improve accuracy of measurement of solar energy.
+17 Ku-band transponders; high definition.
+17 Ku-band transponders; high definition.
+Secure communications satellite for Spanish Ministry of Defense; both X and Ku-band.
+Featuring a 30-foot (10-meter) wide antenna, "The aim  is to use the space telescope to conduct interferometer observations to obtain images, coordinates, motions and evolution of angular structure of different radio emitting objects in the universe."
+Demonstration program designed to collect infrared images of terrestrial backgrounds and analyze them to assess the detectability of ballistic missiles during their powered phase. It will pave the way for a future ballistic missile warning system.
+Demonstration program designed to collect infrared images of terrestrial backgrounds and analyze them to assess the detectability of ballistic missiles during their powered phase. It will pave the way for a future ballistic missile warning system.
+Earth imaging for cartography, defence, agriculture, identifying cadastral parcels, urban planning, telecommunications, the environment, disaster management and mitigation and renewable resources.
+Privately financed to complement the Pleiades 1A and 1B imaging spacecraft owned by French government.
+To build a nanosatellite with a mass less than 10kg; to be launched by PSLV and to estimate the amount for atmospheric greenhouse gases; to provide hands on experience to the student and the faculty of SRM University in building small satellite; to develop a nanosatellite bus.
+Extremely high-quality satellite images with applications such as mapping, agriculture, town planning, and natural resource, risk and disaster management.
+Will replace ST1. Six antennas, 41 Ku-band tarnsponders and 10 C-band transponders.
+Has one X-band transponder for military use. 28 C-band and 16 Ku-band transponders, services to Brazil and neighboring countries.
+Has one X-band transponder for military use. 28 C-band and 16 Ku-band transponders, services to Brazil and neighboring countries.
+28 C-band, 16 Ku-band, entire South American region.
+Optical sensors to detect orbiting payloads and debris for orbit measurement.
+Two top-priority investigations from the miltary's Space Experiment Review Board.
+Carries 5 packages for Air Force, Army, Navy NASA/NOAA.
+Will demonstrate the feasibility of using cheap smartphone electronics to control a spacecraft. Shut down in March after launch, but started up again in July, 2013.
+Satellites have a single simultaneous earth-space and space-earth channel.
+Satellites have a single simultaneous earth-space and space-earth channel.
+Satellites have a single simultaneous earth-space and space-earth channel.
+Store-dump communications for Russian government and military.
+Store-dump communications for Russian government and military.
+Store-dump communications for Russian government and military.
+Store-dump communications for Russian government and military.
+Store-dump communications for Russian government and military.
+Store-dump communications for Russian government and military.
+Demonstration satellite for solar observation.
+Science satellite carrying two sensors -- MIRIS and COMIS.
+Detect and track missile flights.
+Use sensors on the two spacecraft to track ballistic missiles.
+Perform remote sensing, and capture images of the surface of the earth using it's camera of resolution 90 m; the best resolution hitherto achieved by any pico satellite in the world.
+28 Ku-band transponders to provide internet and television services to Japan, East Asia, and the Pacific region.
+23 Ku-band, 6 Ka-band; Japan, Okinawa; business communications.
+14 Ku-band; Asia-Pacific region; voice and video communications.
+Orbiting observatory for study of high-energy processes; X-ray spectrometer (XRS) instrument failed one month into mission.
+Survey the Earth's geomagnetic field, and measure changes over time, in order to improve understanding the Earth's interior and the physics of the magnetosphere.
+Survey the Earth's geomagnetic field, and measure changes over time, in order to improve understanding the Earth's interior and the physics of the magnetosphere.
+Survey the Earth's geomagnetic field, and measure changes over time, in order to improve understanding the Earth's interior and the physics of the magnetosphere.
+Multi-wavelength observatory for study of gamma-ray burst (GRB) science; mission life 2 yrs.
+Overall SwissCube project development is primarily to educate students in space technologies and space system engineering. Official mission completed; satellite turned over to amateur community.
+Military communications; designed to integrate with UK's Skynet and Italy's Sicral.
+Completes Syracuse III system; voice communication and secure data transmission; can be integrated with NATO and German military satellites.
+10 Ultra High Frequency (UHF) channels; allows forward deployed troops to communicate using existing hand-held radios without the need to stop and point an antenna towards the satellite
+Will survey all 150 million square kilometers of earth surface. Works with TerraSAR-X for first three years.
+Collection of four spacecraft flying in formation around the earth, relaying detailed information about solar wind's affect on our planet in three dimensions.
+Tracking and communications with space shuttle, other missions.
+New generation of tracking and commmunication satellites.
+New generation of tracking and commmunication satellites.
+Backup; still partially operational.
+Tracking and communications with space shuttle, other missions; leased access to C-band by Americom.
+Tracking and communications with space shuttle, other missions; leased access to C-band by Americom.
+Tracking and communications with space shuttle, other missions.
+Tracking and communications with space shuttle, other missions; not fully functional.
+Tracking and communications with space shuttle, other missions. In storage.
+Carrying eight technology tests/experiments including measurement of sea state using radio waves reflected off the ocean surface, monitoring the space environment in the vicinity of the satellte for research into space weather, and activaion of a deOrbitSail.
+Radar reconnaissance; one meter resolution. Said to carry a Synthetic Aperture Radar (SAR).
+TV broadcasting in Indonesia.
+24 C-band transponders; internet, data, voice and video services to Indonesia.
+39 Ku-band transponders; North America, Europe, Africa, across Atlantic.
+Voice and video communications to the Americas, Europe, and Africa
+Five communications antennas and 46 Ku-band transponders -- 19 switchable and 27 fixed. Will also serve Brazil. Failed to fully deploy one of its solar panels.
+54 active transponders; one of the most powerful communications satellites built to date; coverage across East Asia and the Pacific Ocean
+X-band radar system; monitor vegetation and crops across the globe, and special emphasis will be placed on keeping tabs on environmental changes. Commercial sale to business and military clients as well.
+Largest commercial satellite ever built; 18-meter-diameter unfurlable S-band antenna; provide mobile voice and data communications in North America to smartphone-size handsets.
+Center of the OOV (On Orbit Verification) Program, initiated to offer on-orbit verification possibilities to the German industrial and scientific aerospace community.
+84 Ku-band and 18-Ka band transponders, voice, video and broadband to 14 countries. Deal signed with Measat in 2011 - capacity on Thaicom 4 to be marketed in Malaysia as Measat 5.
+Television and Internet services to the Asia-Pacific region; 25 C-band and 14 Ku-band transponders.
+Comsat to serve the mainland of south east Asia, particularly Thailand. Some services will be provided to east Africa, including Madagascar.
+Five phase mission to study earth's auroras; mission extended to 2012. Themis B and C retasked as Artemis mission to L1 and L2.
+Five phase mission to study earth's auroras; mission extended to 2012. Themis B and C retasked as Artemis mission to L1 and L2.
+Five phase mission to study earth's auroras; mission extended to 2012. Themis B and C retasked as Artemis mission to L1 and L2.
+Panchromatic imager with 2M resolution; applications in cartography, land use, agricultural monitoring, forestry management, coastal zone monitoring and flood risk management.
+14 Ku-band; Nordic region, central and eastern Europe.
+25 Ku-band transponders; direct-to-home and Internet to Scandinavia, eastern Europe, Middle East.
+36 Ku-band transponders; Central and eastern Europe and Nordic region.
+Capacity for 13,750 simultaneous calls; voice, fax, data transmissions from/to mobile telephones; Middle East, North and Central Africa, Europe, Central Asia and the Indian subcontinent.
+Mobile phone communication in eastern Asia, Middle East, Australia.
+Equipped with a 2.5 kg CCD camera that was built by Suzhou University, sporting a maximum resolution of 30 meters.
+First of the three experimental single-module orbital stations (Space Laboratory) to be launched by China between 2011 and 2016 to develop and test a range of techniques required for building a permanently-manned space station.
+Mapping  and land resource sruveys to promote economic development; 3-D survey camera, ground resolution of 5m; multi-spectrum at 10m.
+Cartographic imaging satellite capable of stereoscopic Earth photography, equipped with orbit adjustment engine to maintain height against air drag.
+China's first data relay satellite, will cover Shenzhou missions.Supports near real-time communication.
+Data relay satellite. Will cover Shenzhou missions and China's space station.
+Data relay satellite. Will cover Shenzhou missions and China's space station.
+Test new satellite sub-systems. There is also a receiver to detect AIS (Automatic Information System) data transmissions from shipping.
+The satellite carries an RGB imaging system using a dust detection algorithm to detect, monitor and study dust storm events over Iraq.
+Study influences of the sun and humans on the least explored and understood region of Earth's atmosphere � the Mesosphere and Lower Thermosphere/Ionosphere (MLTI).
+Commercial Off the Shelf (COTS) components wherever possible.
+Bolivia's first communications satellite.
+Joint mission to measure rainfall in tropical areas; to operate through spring of 2005.
+Signals intelligence; surveillance of cellular phones.
+Speculated to be SIGINT - not verified. May be new Mentor or Misty class.
+ELINT; likely the last satellite of this class; to be replaced by Liana system.
+Austria's first satellite.  Part of the international BRIght-star Target Explorer program -- The satellite will be used, along with five other spacecraft, to conduct photometric observations of stars with apparent magnitude of greater than 4.0 as seen from Earth.
+24 Ku-band transponders; television service to Turkey.
+Will move to 42 East when joined by Turksat 4B.
+Technology demonstrator to show how impacts from cosmic particles can be used to increase the security of satellite communications.
+Ultra-High Frequency (UHF) communications and Super-High Frequency (SHF) antijam command and broadcast capabilities through four pairs of geosynchronous satellites and one spare; tactical application.
+Ultra-High Frequency (UHF) communications and Super-High Frequency (SHF) antijam command and broadcast capabilities through four pairs of geosynchronous satellites and one spare; tactical application.
+Ultra-High Frequency (UHF) communications and Super-High Frequency (SHF) antijam command and broadcast capabilities through four pairs of geosynchronous satellites and one spare; tactical application. Inclined.
+Ultra-High Frequency (UHF) communications and Super-High Frequency (SHF) antijam command and broadcast capabilities through four pairs of geosynchronous satellites and one spare; tactical application.
+Ultra-High Frequency (UHF) communications and Super-High Frequency (SHF) antijam command and broadcast capabilities through four pairs of geosynchronous satellites and one spare; tactical application.
+Ultra-High Frequency (UHF) communications and Super-High Frequency (SHF) antijam command and broadcast capabilities through four pairs of geosynchronous satellites and one spare; tactical application.
+Ultra-High Frequency (UHF) communications and Super-High Frequency (SHF) antijam command and broadcast capabilities through four pairs of geosynchronous satellites and one spare; tactical application.
+Part of Disaster Monitoring Constellation second generation; five countries share all data.
+Forest fire monitoring as part of a small constellation.
+Test solar cells in the space environment.
+Onboard equiment includes the GlioSat biomedical experiment to investigate the effects of microgravity and ionizing radiation on cell behaviour, and a digital Earth-imaging system. Unisat also contains a Cubesat deployer.
+Amateur radio, but mainly a dispenser for 4 3x3U satellites.
+Russian early-warning system.
+Russian early-warning satellite of 73D6 type.
+Amateur radio.
+Study the Earth's radiation belts on various scales of space and time.
+Study the Earth's radiation belts on various scales of space and time.
+Purpose was to give students experience in mounting a satellite building and launch campaign. It carries a high resolution camera for Earth imaging.
+12 C-band, 14 Ku-band transponders.
+Testing software and an imager for an eventual lunar orbiter/lander cubesat that will be sent to the Moon
+Automatic Identification Service (AIS) enabled satellite - expected to expand the coverage of ORBCOMM's satellite AIS service in the equatorial region, where there is significant shipping activity and critical need for maritime surveillance.
+Designed to relay positions of ships around the world. Constructed by LuxSpace of Luxembourg, the spacecraft's services will supplement Orbcomm's next-generation communications satellites due to begin launching this year.
+Provide much faster Internet service to more than 1 million customers outside the reach of cable or DSL services at similar prices to existing satellite broadband; also using capacity to power in-flight Internet service by JetBlue, as well as defense and other uses.
+Provide voice, video and internet service; Asia, India, Australia, Japan, Hawaii. 12 Ku-band, 8 C-band transponders.
+24 ku-band transponders; provide independence in satellite communications.
+Better monitor and study the effects of climate change, predict and take measures to prevent natural disasters, and optimize the management of its natural resources.
+Sensors can resolve objects 2.5 meters across. Will return 350 images per day for urban planning, monitor illegal mining and drug activities, national defense.
+First of five; will provide services to the US Department of Defense and the Ministry of Defense for Canada as well as other Government and Allied users under unstressed conditions.
+X and Ka-band transponders. Will replace DSCS system.
+X and Ka-band transponders. Will replace DSCS system.
+X and Ka-band transponders. Will replace DSCS system.
+Surveillance and reconnaissance imagery at approximately three times the data rate available through the Block I satellites; the Australian Defence Force will have global access to the WGS on-orbit constellation.
+Australia supported the cost of the sixth spacecraft under a partnership agreement with U.S.
+Totally dedicated to broadband internet services; total CONUS coverage.
+Operates with "Polar"; provide complete plasma, energetic particle, and magnetic field input for magnetospheric and ionospheric studies.
+Provide data to shipping lines who are interested in the Arctic Sea ice state.
+Earth-imaging satellite; images with 0.5 meter resolution of about 290,000 square miles of Earth's surface.
+Will provide earth imaging  in eight color bands; 0.5 m resolution for panchromatic images and 1.8 m for multi-spectral.
+Will test 4 pulsed plasma thrusters, a 3 axis reaction wheel for stabilisation and a colour camera.
+Second flight of OTV-1.
+Will test a software-defined reconfigurable radio, an ionizing radiation measurement system and a solar panel deployment system. 
+130 channels of digital music uplinked in the X-band from one or more ground stations.
+S-band Digital Audio Radio Service (DARS) to homes and automobiles in Noth America.
+100 channels of digital music uplinked in the X-band from one or more ground stations.
+100 channels of digital music uplinked in the X-band from one or more ground stations.
+Detect and study celestial x-ray sources.
+Signapore's first national satellite; multi-spectral camera, will demonstrate space-based remote sensing and image processing technologies.
+X-band; designed to be compatible with U.S. and NATO SATCOM systems. Contract with US Department of State.
+China's first amateur satellite.
+First of two identical satellites; Ku, Ka, and C-band transponders. Direct-to-home television programming, secure Ka-band communications for military and government in UAE.
+Second of two identical satellites; Ku, Ka, and C-band transponders. Direct-to-home television programming, secure Ka-band communications for military and government in UAE.
+Nine C-band, 6 Ku-band; provide communications for gas corporation operations throughout Eurasian continent.
+18 C-band; provide communications for gas corporation operations throughout Eurasian continent.
+Telecommunications.
+Left in low orbit; raised itself with fuel. Shortened on-orbit life to approximately 11 years.
+Remote sensing; help with crop estimates and diasaster alert/remedy; believed to actually be a military radar satellite.
+Remote sensing; help with crop estimates and diasaster alert/remedy; believed to actually be a military radar satellite.
+Remote sensing; help with crop estimates and diasaster alert/remedy; believed to actually be a military radar satellite.
+Xinhua gave the objectives as "mainly used for scientific experiments, land resources survey, crop yield estimation of production and disaster prevention and mitigation".
+Equivalent of U.S. NOSS system
+Believed to be equivalent of US. NOSS system
+Believed to be equivalent of US. NOSS system
+Believed to be equivalent of US. NOSS system
+"...used to conduct scientific experiments, carry out land surveys, monitor crop yields and aid in preventing and reducing natural disasters."
+"probably military or government photo-reconnaissance."
+Remote sensing; help with crop estimates and diasaster alert/remedy; believed to actually be a military radar satellite.
+Remote sensing.
+Scientific research, land resources surveying, crop yield estimate and disaster prevention and relief.
+Data collection and transmission involving land resources surveys, environmental surveillance and protection, urban planning, crop yield estimates, disaster prevention and reduction, and space science experiments.
+Land resources surveys, etc. (see Yaogan 5). But western military believes it to be a reconnaissance satellite.
+Land resources surveys, etc. (see Yaogan 5). But western military believes it to be a reconnaissance satellite.
+Land resources surveys, etc. (see Yaogan 5). But western military believes it to be a reconnaissance satellite.
+Payloads a collaboration between Indian and Russian students, carries three science instruments.
+Commemorates Sputnik flight of 1957; will broadcast audio and video about the history of the Soviet and Russian space programs, as well as signals imitating those broadcast by Sputnik in 1957.
+Built by university students. Main payload is a high frequency (HF) beacon transmitter.
+Officially intended for environment monitoring and protection, city planning, crops yield estimate, disaster prevention and mitigation, space science testing.
+Third digital imaging spacecraft launched by Chinese government for reconnaissance purposes.
+Picosat for scientific research - MEMS.
+Picosat for scientific research - MEMS.
+Part of the satellite�s communications payload has been leased to Sri Lanka, co-branded as SupremeSat-II.
+Part of the satellite�s communications payload has been leased to Sri Lanka, co-branded as SupremeSat-II.
+Possible replacement for Zhongxing 22A.
+Announced as commercial communications satellite, but believed by many to be military.
+Voice and video transmissions, especially during Beijing Olympics in 2008.
+Operated by the Army and their aim is to provide secured voice and data communications services for ground users using Ku-band.
+Voice and video transmissions, especially during Beijing Olympics in 2008.
+Can acquire high-resolution data through remote-sensing; can conduct land resources surveys, reduce natural disasters, aid agriculture development and manage water resources. 
+Land survey satellite.

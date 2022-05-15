@@ -1,0 +1,92 @@
+[
+  {
+    "question": "What is the name of the satellite from Estonia?",
+    "question_id": "que_0",
+    "table_id": "table_0",
+    "nodes": [
+      [
+        "link 0",
+        [
+          26,
+          0
+        ],
+        "link_0",
+        "Korean peninsula; 15 Ku-band transponders.32 C-band, 51 Ku-band, and 6 Ka-band transpondersMost powerful telecommunications satellite in service in the Asia-Pacific region; 30 C-band, 24 Ku-band transponders; 190 high fidelity channels and 50,000 simultaneous telephone links.Purchased by ABS in 2013.28 C-band, 16 Ku-band; business services, public voice and data services, broadcasting, direct-to-home; Eastern Europe, CIS, South and Southeast Asia, Africa, Middle East, Australia.30 Ku-band, 6 Ka-band; Korean peninsula, the Japanese archipelago, and parts of China and Russia.Monitor total solar irradiance (TSI) with maximum precision; ascertain the extent of solar radiation variability.ELINT.Electronic intelligence (ELINT).",
+        0.7659574468085106,
+        "Name of Satellite, Alternate Names",
+        "string-overlap"
+      ]
+    ],
+    "target": [
+      "AISat-1",
+      [
+        26,
+        0
+      ],
+      null,
+      "Name of Satellite, Alternate Names",
+      ""
+    ],
+    "pred": "AISat-1"
+  },
+  {
+    "question": "What are the names of the satellites from India?",
+    "question_id": "que_1",
+    "table_id": "table_0",
+    "nodes": [
+      [
+        "link 0",
+        [
+          26,
+          0
+        ],
+        "link_0",
+        "Korean peninsula; 15 Ku-band transponders.32 C-band, 51 Ku-band, and 6 Ka-band transpondersMost powerful telecommunications satellite in service in the Asia-Pacific region; 30 C-band, 24 Ku-band transponders; 190 high fidelity channels and 50,000 simultaneous telephone links.Purchased by ABS in 2013.28 C-band, 16 Ku-band; business services, public voice and data services, broadcasting, direct-to-home; Eastern Europe, CIS, South and Southeast Asia, Africa, Middle East, Australia.30 Ku-band, 6 Ka-band; Korean peninsula, the Japanese archipelago, and parts of China and Russia.Monitor total solar irradiance (TSI) with maximum precision; ascertain the extent of solar radiation variability.ELINT.Electronic intelligence (ELINT).",
+        0.7916666666666666,
+        "Name of Satellite, Alternate Names",
+        "string-overlap"
+      ]
+    ],
+    "target": [
+      "AISat-1",
+      [
+        26,
+        0
+      ],
+      null,
+      "Name of Satellite, Alternate Names",
+      ""
+    ],
+    "pred": "AISat-1"
+  },
+  {
+    "question": "Which satellite has the highest Apogee?",
+    "question_id": "que_2",
+    "table_id": "table_0",
+    "nodes": [
+      [
+        "link 0",
+        [
+          2,
+          24
+        ],
+        "link_0",
+        "Korean peninsula; 15 Ku-band transponders.32 C-band, 51 Ku-band, and 6 Ka-band transpondersMost powerful telecommunications satellite in service in the Asia-Pacific region; 30 C-band, 24 Ku-band transponders; 190 high fidelity channels and 50,000 simultaneous telephone links.Purchased by ABS in 2013.28 C-band, 16 Ku-band; business services, public voice and data services, broadcasting, direct-to-home; Eastern Europe, CIS, South and Southeast Asia, Africa, Middle East, Australia.30 Ku-band, 6 Ka-band; Korean peninsula, the Japanese archipelago, and parts of China and Russia.Monitor total solar irradiance (TSI) with maximum precision; ascertain the extent of solar radiation variability.ELINT.Electronic intelligence (ELINT).",
+        0.717948717948718,
+        "Comments",
+        "string-overlap"
+      ]
+    ],
+    "target": [
+      "ABS-3 (Agila 2, Mabuhay 1)",
+      [
+        2,
+        0
+      ],
+      null,
+      "Name of Satellite, Alternate Names",
+      ""
+    ],
+    "pred": "ABS-3 (Agila 2, Mabuhay 1)"
+  }
+]

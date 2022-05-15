@@ -1,0 +1,250 @@
+SPACE SYSTEM REQUIREMENTS 
+Service and Performance 
+The IRIS Space System shall provide Air Traffic Services (ATS) and Aeronautical Operational Communications (AOC) Services as defined in [ND2] and [ND1] over ECAC member states coverage RD[8] 
+The IRIS Space System shall provide Air Traffic Services (ATS) and Aeronautical Operational Communications (AOC) Services for both COCR Phase 1 and Phase 2 as defined in [ND1].
+The IRIS Space System shall provide AOC service over the Earth surface fraction visible from the orbit.
+The IRIS Space System shall provide the required services according to the ATM practices described in [RD4][RD5]{RD6]
+The Space System design shall be compatible with the communication System requirements specified in ND[2] and any following update within the time frame of the phase A.
+Should one of the ancillary payload defined in RD[7] (and its further updates defined within the phase A) be selected, the IRIS Space System shall accommodate and operate it .
+The IRIS Space System shall provide a useful throughput of TBD kbps for forward link and TBD kbps for return link for AOC voice services.
+The IRIS Space System shall provide a useful throughput of TBD kbps for forward link and TBD kbps for return link for ATS voice services.
+The IRIS Space System shall provide a useful throughput of TBD kbps for forward link and TBD kbps for return link for AOC data services.
+The IRIS Space System shall provide a useful throughput of TBD kbps for forward link and TBD kbps for return link for ATS data services.
+The IRIS Space System shall provide a useful throughput of TBD kbps for broadcast services.
+The IRIS Space System design shall be sized for a reference ATM PIAC of TBD in 2020 and 2030.
+During the pre-operational phase, the System shall be sized for a useful throughput for ATM of TBD Kbps
+Deployment and Operations
+The IRIS Space System shall be defined so that full operation is achieved through the phases described in paragraph 3.3.
+The Pre-operational Space System shall be available in 2013 at the latest.
+The Pre-operation phase shall be completed by 2017.
+Full operational Space System shall be available no later than 2020.
+For the Pre-operational System the minimum lifetime of the space segment shall be 4 years
+After the full deployment, the minimum lifetime of each satellite should be 15 years.
+The IRIS Operational Space System design shall be such that the operational lifetime of the service has no end target.
+The launch of replacement satellites shall not impact on the system operations
+Operations of the ATM payload shall take precedence over the operations of the ancillary payload. This latter shall not reduce in any case system availability.
+The IRIS Space System shall be able to cope with an increase in the need of capacity in the covered areas of TBD% per year from 2020 to 2035 .
+Dependability
+"The availability of the both AOC and ATC services provided by the IRIS system when integrated with SESAR ATM communication infrastructure shall be compliant to availability of provision requirements as defined in COCR [ND1]., the IRIS system shall support availability better than TBD for AOC voice services in each domain, the IRIS system shall support availability better than TBD for AOC data services in each domain, The IRIS system shall support availability better than TBD for ATS voice services in each domain., The IRIS system shall support availability better than TBD for ATS data services in each domain."
+The Reliability at EOL of the IRIS service provided by the IRIS system shall be compatible with the COCR [ND1] reliability requirement of 99.9 % (TBC) at EOL.
+The maximum outage time of the IRIS service provided by the IRIS space system shall be TBD.
+The IRIS service provided by the IRIS space system shall be single failure tolerant. The failure of one satellite platform shall not impact the full operational service of the system.
+Design
+The Space System shall be designed according to the ECSS and CCSDS standards SD[1] to SD[33] unless otherwise specified in this document.
+Maturity Margins for Mass, Power and any other important applicable parameters shall be applied at appropriate levels for the ATM payload and its interfaces.
+Maturity Mass Margins shall be applied to the best engineering mass estimate of Spacecraft Composite units to take account of their design and technology maturity
+"The Maturity Mass Margins of a unit or equipment shall be calculated as follows: 5% for recurrent equipment, 10%for modified equipment, 20%for a new development"
+When calculating propellant masses, a System Margin shall be applied to the Spacecraft Composite dry mass inclusive of the Maturity Mass Margins
+"For Power, the Maturity Margin of a Payload or Payload Interface unit or equipment shall be calculated as follows: 5% for “Off-The-Shelf” items;, 10% for modified equipment;, 20% for new equipment."
+SPACE SEGMENT SYSTEM REQUIREMENTS
+Architecture
+The IRIS Space Segment shall be composed of one or more satellites in GEO serving the specified coverage area (TBC)
+During the operational phase, at any given time, the space segment configuration shall be such to ensure the compliance with the availability requirements [ND1]
+"The IRIS space segment shall be compatible with the following launch vehicles: Ariane 5 ECA, Soyuz 2.1b from Kourou (if applicable with respect to mass performance), Proton DM, Sea Launch (and Land Launch), H2A"
+Whenever applicable, the space segment design shall be compatible with a dual launch configuration.
+The Space Segment shall be designed taking into account transportation to the launch site by airplane or/and by sea.
+End-of-Life and Storage
+At the end of its nominal life, the satellite shall allow controlled transfer into a graveyard orbit or de-orbited
+The Satellite shall be capable of venting its propellant tanks on ground command in case the end of life de-orbiting would not be possible, and this to avoid in orbit explosion and debris multiplication.
+The Space Segment shall be designed to enable storage on ground of each satellite in a controlled environment for 5 years (TBC)
+Communication
+The Space Segment shall provide Air/ground and Ground/air unicast communications voice and data services as defined in [ND1] and [ND2].
+The Space Segment shall provide Ground/air broadcast data and voice communications as defined in [ND1] and [ND2]
+Operations and Autonomy
+The Space Segment level of autonomy shall be such to maximise service availability
+The Service shall remain available during Space Segment orbit maintenance manoeuvres
+Design
+Electromagnetic compatibility of the Space Segment and its constituent parts, including radio frequency shall be ensured by design. This shall include effects of conducted as well as radiated interferences.
+On-board storage of software in non-modifiable memories (ROM) shall be limited to the strict necessary (e.g. boot SW) such that software corrections/updates can be made when the satellite is in Orbit.
+The Space Segment shall provide single-point failure tolerance. Redundancy concepts shall be considered to remove single-point failures wherever possible.
+PLATFORM
+The spacecraft platform shall accommodate and provide all the required resources to the ATM payload.
+Should an ancillary payload be selected, the spacecraft platform shall accommodate and provide it with all required resources.
+The accommodation of ancillary payload (when applicable) shall be distinct from the ATM payload accommodation (e.g. there shall be no common parts or interfaces).
+The accommodation of the ancillary payloads (when applicable) shall be such that the failure of any instrument part of the ancillary payload shall not have consequences for the operation of the ATM payload.
+Should an ancillary payload be selected, the spacecraft platform shall be able to communicate with the ancillary payload ground segment, for those payloads where this is applicable.
+The Space Segment design shall be based on the re-use of existing telecom platforms
+The Platform selection shall be such that system level verification shall rely on past or already planned qualification activities.
+The number of occurrence of safe modes for the platform shall be minimised to maximise the availability of the service
+"For calculation of the propellant mass the following margins on the effective delta-V’s (e.g. including gravity losses) shall apply: 5% for transfer and insertion manoeuvres, 100% for orbit maintenance and attitude control"
+"The link budget calculations for TC and TM, including ranging and associated margins shall be according to [SD2] Annex D with: Nominal margin >3dB, RSS worst-case margin >0dB, Mean–- 3σ margin >0dB"
+The TT&C subsystem modulation schemes shall be selected according to the guidelines provided in the [SD2] whilst trying to minimise the occupied bandwidth of the transmitted signals.
+All Satellite housekeeping data (both recorded and real-time housekeeping data) shall be down-linked and be compliant with [SD2] Radio frequency and modulation and Part 1A Communications Principles and Requirements
+ATM PAYLOAD REQUIREMENTS
+The ATM payload shall operate at frequencies identified by ITU for Aeronautical Mobile-Satellite (Route) Service (AMS(R)S), in agreement to Article 1, Section III, 1.33 of ITU Radio Regulations [ND3]
+"The ATM payload should operate within frequencies currently allocated by ITU to AMS(R)S: 1545 up to 1555 MHz for the mobile downlink (from satellite to AES),, 1646.5 up to 1656.5 MHz for the mobile uplink (from AES to satellite)."
+The ATM payload for the fixed links shall operate within frequencies currently allocated by ITU for fixed satellite services (FSS): e.g. Ku/Ka [AD2]
+Each satellite shall implement cross strapped connectivity (L to Ku (Ka) and Ku (Ka) to L)
+The transponders bandwidth shall be at least 1 MHz (TBC) SAT-ATM-60 The transponder frequency shall be tuneable in steps of TBD Hz
+The total ATM payload EIRP for L Band shall be at least 50 dBW (TBC)
+The total ATM payload EIRP for Ku Band (if selected) shall be 30 dBW (TBC)
+The total ATM payload EIRP for Ka Band (if selected) shall be TBD dBW.
+The ATM payload polarization shall be RCHP (TBC) for mobile links
+The ATM payload polarization shall be orthogonal linear (TBC) for fixed links
+Return path shall support FGM
+The forward path link shall support ALC
+The forward path link shall support FGM (TBC)
+The ATM payload physical layer shall be designed in order to provide a packet loss < 10-2 for voice services (TBC).
+the ATM payload physical layer shall be designed in order to provide a packet loss < 10-6 for data services (TBC).
+The ATM payload design shall provide a Minimum G/T of - 2.1 dB/K for L Band (TBC)
+The ATM payload design shall provide a Minimum G/T of - 2.6 dB/K for Ku Band (TBC) if selected if selected for fixed links
+The ATM payload design shall provide a Minimum G/T of TBD dB/K for Ka Band (TBC) if selected for fixed links
+GROUND SEGMENT
+Satellite Control Center
+FUNCTIONAL AND PERFORMANCE REQUIREMENTS
+The SCC shall implement the telemetry, tacking and command (TT&C) functions with the satellite
+The SCC shall communicate with the satellite using the band selected for fixed links communication (TBC)
+The SCC shall use linear polarization on the link with the satellite (TBC) SAT-GS-SCC-40 The SCC shall provide ephemeris data in WGS 84 to the NMC
+The validity period of ephemeris data shall be greater than TBD days
+The new ephemeris data shall be transmitted to the NMC at least TBD days before expiry time of the previous ephemeris data
+The ephemeris accuracy shall be better than TBD Km with respect to the real satellite position for all nominal mission lifetime
+"The SCC shall provide ranging measurements of the satellite(s). 
+"
+" The SCC shall provide the following functionality: Satellite Monitoring and control, Flights dynamics and manoeuvres, Satellite validation, Satellite system maintenance"
+"The SCC shall extract the telemetry parameters from the satellite telemetry channel and perform the following functions: Parameter monitoring, Parameter calibration, Parameter integrity and validity check, State interpretation, Second order parameter calculations"
+"The SCC shall support the following telecommand functions: Command generation and automation, Command pre-transmission validation, Command transmission, Post-execution verification"
+The SCC shall be able to perform on-board software management functions
+The SCC shall be able to perform on-board scheduling management functions
+The SCC shall be able to manage the on-board generation and downlink of telemetry data
+The SCC shall derive performance metrics based on the signal strength measurements retrieved from the GES
+"The SCC performance metrics shall derive in: Notifications/warnings/alarms displayed to the satellite operators, Automatic execution of satellite recovery procedures, Historical archiving of satellite and communications payload performance metrics"
+The SCC shall include Network Management functions to support status monitoring and control of the control segment
+The SCC systems shall present a common Graphical User Interface (GUI)
+The SCC shall display satellite and payload parameters
+The SCC graphical interface shall support the display of Management Information Base (MIB) attributes as icons
+The SCC shall be synchronised with UTC time
+The SCC shall use UTC time to timestamp events, alarms, schedules, time parameters and database updates
+The SCC network management system shall use SNMP (TBC)
+Each SCC network element shall have an SNMP agent in order to exchange information with the SCC management subsystem (TBC)
+Each SCC hardware element shall have a SNMP MIB (TBC)
+The SCC shall implement authentication and authorisation operator mechanisms
+The SCC shall restrict the user rights according to the user profile
+The SCC management system shall be operated on standard PC platforms
+The SCC architecture shall be sized for a single satellite but it shall be designed to be scalable to support up to TBD satellites
+It shall be possible to deploy SCC capabilities progressively
+The telemetry system shall support simultaneous channels
+The telemetry downlink shall support data rates of at least 2000 bps (TBC)
+The telemetry downlink signal quality shall have a BER better than 10-6
+The SCC shall support the retrieval of telemetry parameter data less than 10 (TBC) days old in less than 10 (TBC) seconds
+The telecommand uplink shall support data rates of at least 200 bps (TBC)
+The SCC shall support real-time commanding of up to TBD telecommand per second
+The telecommand uplink signal quality shall have a BER better than 10-6
+The SCC shall maintain all telemetry and telecommand data for up to 5 years
+The SCC shall maintain historical data of telemetry and telecommand for a period of at least 5 years (TBC)
+ENVIRONMENTAL, EMC AND SAFETY REQUIREMENTS
+"The SCC indoor equipment shall be operational without service degradation under the following environmental conditions: Temperature: from 10 ºC to 40 ºC, Maximum humidity of 95 %"
+"The SCC outdoor equipment shall be operational without service degradation under the following environmental conditions: Temperature: from -40 ºC to 60 ºC, Maximum humidity of 100 % condensing, Maximum rain of 34 mm/h, Snow: 30mm, Maximum Wind speed of 160 km/h, Blowing dust, sand & liquid to ingress protection level: IP66, Solar radiation insolance: 7kWh/m2 per day, Atmosphere: salt, pollutants and contaminants as encountered in coastal and industrial areas, Pressure: from sea level to 3000 m altitude, Seismic pressure: up to 5 (Richter scale)"
+The SCC shall be compliant with relevant EMC regulations over the coverage area
+The SCC shall be compliant with safety applicable regulations over the coverage area
+OPERATIONAL REQUIREMENTS
+The SCC shall consist of two centres, one active + one back-up SCC in stand- by mode installed at a different location (TBC)
+The SCC shall support satellite re-configuration functions
+The SCC shall operate 24 hours per day, 7 days per week throughout its operational lifetime
+The SCC shall allow hardware, software and firmware upgrades during the mission lifetime
+The SCC shall allow fallback mechanisms in case of failure during system upgrade procedure
+Any system upgrade shall be minimise the impact upon on-going mission operations or procedures
+The SCC shall support satellite attitude orbit determination based on ranging measurements and tracking data
+The SCC shall support attitude monitoring based on telemetry data
+The SCC shall support satellite attitude control commands transmitted on telecommand messages to perform the necessary changes and manoeuvres
+The SCC shall support orbit propagation and determination of orbital events (e.g. eclipses, sensor blindings)
+The SCC shall support satellite physical state determination
+The SCC shall have a mean availability better than 99.99% (TBC)
+The SCC shall have a mean availability better than 99.99% (TBC)
+The MTBF of the SCC hardware shall be better than TBD hours
+The SCC shall create a duplicated alarm and event data file which shall be periodically sent to the back-up SCC
+"The SCC fault management functions shall cover:
+a.     Alarm reception/periodic retrieval and display
+b.     Status display
+c.     History file display
+d.     Automatic alarm recovery/healing functions"
+The SCC shall display all alarms received from SCC managed network elements in a text format
+The SCC shall support all alarms received from SCC managed network elements with audio flags and reminders
+"All alarms received from SCC managed network elements shall be displayed showing:
+a.     Network element identified
+b.     Network element sub-system identified
+c.     Occurrence time and date
+d.     Alarm criticality and severity level
+e.     Description
+f.      Probable cause
+g.     Alarm state (pending, acknowledged or terminated)"
+The SCC fault management system shall include a alarm log file
+The SCC alarm log file shall be maintained for a minimum period of TBD months
+"The alarms shall be classified in the following categories according to its criticality:
+a.     Critical
+b.     Major
+c.     Minor
+d.     Warning
+e.     Indeterminate"
+The alarms shall be classified according to the following states: pending, acknowledged and terminated
+The SCC shall support alarm filtering and sorting according to several criteria
+The SCC shall support alarm clearing for terminated and acknowledged alarms
+The SCC shall maintain a history file of cleared and acknowledged events and alarms
+The SCC shall support the display of current and historical spacecraft status
+The SCC shall support an event/failure historical data file for a minimum period of TBD months
+The SCC event/failure history file shall be updated upon operator command (manually) or automatically according to periodic update commands
+The SCC event/failure history file format shall be text format
+The SCC network management system shall allow displaying the configuration of any network element and modify it
+"The SCC network management system shall allow:
+a.     Adding hardware
+b.     Deleting hardware
+c.     Create, modify and delete parameters
+d.     Map parameters to network elements"
+The SCC management system shall allow retrieving performance data from any managed equipment
+The SCC management system shall maintain historical performance data of all managed network elements
+The SCC management system shall maintain performance historical data files
+Satellite Operation Center
+The execution of potentially hazardous functions shall only be initiated and performed by ground command.
+FUNCTIONAL AND PERFORMANCE REQUIREMENTS
+"The SOC shall provide the following functionality: Operations and mission planning, Operations automation and execution, Operations validation"
+"The SOC shall support spacecraft operations during the following phases: Pre-launch phase, Early operations phase (EOP) and commissioning phase, Routine operations, Emergency operations, De-orbiting at end-of-life"
+"The SOC shall support automatic operations at different levels: Manual operations and procedures, Scheduled operations and procedures, Contingency detection and recovery"
+"The SOC shall the following management of scheduled operations: Suspend and resume scheduled operations, Insert, modify and delete scheduled operations, Archiving, retrieval, display and redefine operation procedures"
+The SOC shall support the archiving and retrieval of operations procedures and schedules history for a minimum period of TBD
+"The SOC shall support the following initiation of operations procedures: Manual initiation, Automatic scheduled operation procedure according to pre-defined operational plan, Automatic scheduled operation procedure in response to events SAT-GS-SOC-80 The SOC procedure execution shall allow the satellite operators: Visualize operation procedures and schedules, Introduce input data, Modify operations parameters"
+The SOC shall be based to the maximum extent on COTS equipment
+The SOC shall allow hardware, software and firmware upgrades during the mission lifetime
+The SOC shall support authentication and authorisation operator mechanisms 
+The SOC shall provide satellite pointing correction mechanism
+The SOC shall support communication payload re-configuration functions
+The SOC shall use UTC time to timestamp events, alarms, schedules, operations, time parameters and database updates
+The SCC network management system shall use SNMP (TBC)
+The SOC shall restrict the user rights according to the user profile
+The SOC architecture shall be sized for a single satellite but it shall be designed to be scalable and support up to TBD satellites
+It shall be possible to deploy SOC capabilities progressively
+OPERATIONAL REQUIREMENTS
+The SOC shall support the scheduling of activities for automated execution
+The SOC shall be designed for a minimum lifetime of 15 years
+The SOC shall allow fallback mechanisms in case of failure during system upgrade procedure
+Any system upgrade shall be minimise the impact upon on-going mission operations or procedures
+The SOC shall have a mean availability better than 99.99% (TBC)
+The MTBF of the SOC hardware shall be better than TBD hours
+The SOC shall operate 24 hours per day, 7 days per week throughout its operational lifetime
+The SOC shall support the planning of operations up to 4 months
+"The SOC shall support the scheduling of automated operations up to 2 weeks SAT-GS-SOC-260 The SOC The SOC shall show:
+a.     Status of running activities
+b.     Schedule display
+c.     Completed tasks of the running activity
+d.     Procedure summary display
+e.     Procedure detail display"
+The SOC shall support manoeuvre planning including: E-W station keeping and relocation, N-S station keeping and de-orbiting at end of life
+The SOC shall include a tool for planning and preparation of operations
+The SOC planning and preparation tool shall support input, output and editing of operations procedures
+"The SOC shall include a satellite database consisting of:
+a.     Orbital parameter database
+b.     Satellite specific information including configuration, mass property, fuel information, sensor information, thrusters information, etc
+c.     Command script files required for nominal and contingent operations
+d.     Telemetry display files including conversion coefficients, derived telemetry parameters and formulas, ranging parameters, etc"
+The SOC shall require no more than one operator for nominal spacecraft and ground segment operations
+The SOC shall support off-line operations preparation and support tasks du
+ENVIRONMENTAL, EMC AND SAFETY REQUIREMENTS
+"The NOC indoor equipment shall be operational without service degradation under the following environmental conditions: Temperature: from 10 ºC to 40 ºC, Maximum humidity of 95 %"
+"The NOC outdoor equipment shall be operational without service degradation under the following environmental conditions: Temperature: from -40 ºC to 60 ºC, Maximum humidity of 100 % condensing, Maximum rain of 34 mm/h, Snow: 30mm, Maximum Wind speed of 160 km/h, Blowing dust, sand & liquid to ingress protection level: IP66, Solar radiation insolance: 7kWh/m2 per day, Atmosphere: salt, pollutants and contaminants as encountered in coastal and industrial areas, Pressure: from sea level to 3000 m altitude, Seismic pressure: up to 5 (Richter scale)"
+The SOC shall be compliant with relevant EMC regulations over the coverage area
+The SOC shall be compliant with safety applicable regulations over the coverage area
+INTERFACE REQUIREMENTS
+Payload to platform Interfaces
+ATM PAYLOAD
+The ATM payload shall be compatible with the platform TMTC
+Before launch, it shall be possible to remove and re-install ATM payload units from the spacecraft platform, should they require maintenance, repair, modification or replacement, with a minimum of disturbance to other satellite equipment and activities
+ANCILLARY PAYLOAD
+Before launch, it shall be possible to remove and re-install ancillary payload units from the spacecraft platform, should they require maintenance, repair, modification or replacement, with a minimum of disturbance to other satellite equipment and activities.

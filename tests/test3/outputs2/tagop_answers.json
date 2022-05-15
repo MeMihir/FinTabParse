@@ -1,0 +1,27 @@
+[
+    {
+        "id": "que_0",
+        "question": "What is the average of the FAT marks?",
+        "answer": "100.0 "
+    },
+    {
+        "id": "que_1",
+        "question": "What is the highest DA marks given?",
+        "answer": "[] "
+    },
+    {
+        "id": "que_2",
+        "question": "What is the sum of all marks given to Melody Penn?",
+        "answer": "30.57 "
+    },
+    {
+        "id": "que_3",
+        "question": "What is the difference between highest and the lowest FAT?",
+        "answer": " "
+    },
+    {
+        "id": "que_4",
+        "question": "Which students have more than fifty percentile in FAT?",
+        "answer": "['Cassidy Butler'] "
+    }
+]

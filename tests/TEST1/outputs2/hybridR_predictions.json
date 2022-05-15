@@ -1,0 +1,92 @@
+[
+  {
+    "question": "What is the name of the satellite from Estonia?",
+    "question_id": "que_0",
+    "table_id": "table_0",
+    "nodes": [
+      [
+        "link 470",
+        [
+          0,
+          2
+        ],
+        "link_470",
+        "Turkey's first university satellite; raise experienced staff on satellite systems in our country, and also to serve as a practical ground for the theoretically equipped graduate and undergraduate students of ?T\ufffd Astronautics Department.",
+        0.7659574468085106,
+        "Operator/Owner",
+        "string-overlap"
+      ]
+    ],
+    "target": [
+      "AAUSat-3",
+      [
+        0,
+        0
+      ],
+      null,
+      "Name of Satellite, Alternate Names",
+      ""
+    ],
+    "pred": "AAUSat-3"
+  },
+  {
+    "question": "What are the names of the satellites from India?",
+    "question_id": "que_1",
+    "table_id": "table_0",
+    "nodes": [
+      [
+        "link 470",
+        [
+          31,
+          2
+        ],
+        "link_470",
+        "Turkey's first university satellite; raise experienced staff on satellite systems in our country, and also to serve as a practical ground for the theoretically equipped graduate and undergraduate students of ?T\ufffd Astronautics Department.",
+        0.7916666666666666,
+        "Operator/Owner",
+        "string-overlap"
+      ]
+    ],
+    "target": [
+      "Akebono (EXOS-D)",
+      [
+        31,
+        0
+      ],
+      null,
+      "Name of Satellite, Alternate Names",
+      ""
+    ],
+    "pred": "Akebono (EXOS-D)"
+  },
+  {
+    "question": "Which satellite has the highest Apogee?",
+    "question_id": "que_2",
+    "table_id": "table_0",
+    "nodes": [
+      [
+        "link 470",
+        [
+          28,
+          18
+        ],
+        "link_470",
+        "Turkey's first university satellite; raise experienced staff on satellite systems in our country, and also to serve as a practical ground for the theoretically equipped graduate and undergraduate students of ?T\ufffd Astronautics Department.",
+        0.717948717948718,
+        "Contractor",
+        "string-overlap"
+      ]
+    ],
+    "target": [
+      "AISSat-2 (Automatic Identification System Satellite-2)",
+      [
+        28,
+        0
+      ],
+      null,
+      "Name of Satellite, Alternate Names",
+      ""
+    ],
+    "pred": "AISSat-2 (Automatic Identification System Satellite-2)"
+  }
+]

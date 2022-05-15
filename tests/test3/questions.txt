@@ -1,6 +1,9 @@
-what is the average payment volume per transaction for american express?
-what is the average payment volume per transaction for JCB?
-what is the difference between total volume and payment volume for american express?
-what is the difference between the total volume for JCB and total volume for mastercard?
-what is exclueded from the mastercard figures?
-which companies are the largest operators of open-loop and closed-loop retail electronic payments networks?
+What is the average of the FAT marks?
+What is the highest DA marks given?
+Which student got the lowest marks in FAT?
+Which student has the highest total marks?
+What is the sum of all marks given to Melody Penn?
+How many students got higher than 50 in FAT?
+What is the difference between highest and the lowest FAT?
+Which students have more than fifty percentile in FAT?
+Which student has the highest marks in Quiz1 and Quiz2 combined?
