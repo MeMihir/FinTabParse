@@ -4,7 +4,7 @@ from sklearn.datasets import fetch_20newsgroups
 import numpy as np
 
 
-def get_tfidf(table, paragraphs):
+def get_tfidf(table, paragraphs, threshold=0.1):
   table = np.array(table)
   para_links = np.empty(len(paragraphs))
   link_cells = []
@@ -16,7 +16,7 @@ def get_tfidf(table, paragraphs):
       tfidf = TfidfVectorizer().fit_transform(docs)
       cosine_similarities = linear_kernel(tfidf[0:1], tfidf).flatten()
       related_docs_indices = cosine_similarities.argsort()[::-1]
-      link_para_indx = [idx for idx, val in enumerate(cosine_similarities) if val>0.1 and val<=0.9999999]
+      link_para_indx = [idx for idx, val in enumerate(cosine_similarities) if val>threshold and val<=0.9999999]
       link_cells.append({'r': r, 'c': c, 'paras': [], 'cell': cell})
       # print(cosine_similarities)
       for para in link_para_indx:

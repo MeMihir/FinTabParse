@@ -47,7 +47,7 @@ def get_pos_tagging(string):
     return " ".join(pos_tagging)
 
 
-def hybridr_preprocessing(table, paragraphs, questions):
+def hybridr_preprocessing(table, paragraphs, questions, linking_threshold=0.1):
     table = np.array(table)
     links = {}
     hybridR_ques = []
@@ -80,7 +80,7 @@ def hybridr_preprocessing(table, paragraphs, questions):
         for cell in row:
             hybirdR_table["data"][-1].append([cell, []])
 
-    link_cells = get_tfidf(table, paragraphs)
+    link_cells = get_tfidf(table, paragraphs, linking_threshold)
 
     for cell in link_cells:
       if cell['r'] == 0:
