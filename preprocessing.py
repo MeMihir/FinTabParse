@@ -1,5 +1,7 @@
+import imp
 import numpy as np
 import nltk
+from utils.file_handling import file_to_list, dict_to_json, json_to_dict
 
 from models.paragraph_linking import get_tfidf
 
@@ -90,3 +92,14 @@ def hybridr_preprocessing(table, paragraphs, questions, linking_base_thresh=0.1,
 
     
     return links, hybridR_ques, hybirdR_table
+
+def prepare_AlQA_data(paragraphs):
+	return " ".join(paragraphs)
+
+
+def get_inputs(questions_path, paragraphs_path, table_path):
+	questions = file_to_list(questions_path)
+	paragraphs = file_to_list(paragraphs_path)
+	table = json_to_dict(table_path)
+	return questions, paragraphs, table
+
