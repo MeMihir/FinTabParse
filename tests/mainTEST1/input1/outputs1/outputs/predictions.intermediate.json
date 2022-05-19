@@ -1,0 +1,92 @@
+[
+  {
+    "question": "What is the name of the satellite from Estonia?",
+    "question_id": "que_0",
+    "table_id": "table_0",
+    "nodes": [
+      [
+        "link 0",
+        [
+          12,
+          24
+        ],
+        "link_0",
+        "this table is a part of the database",
+        0.8297872340425532,
+        "Comments",
+        "string-overlap"
+      ]
+    ],
+    "target": [
+      "AEHF-1 (Advanced Extremely High Frequency satellite-1, USA 214)",
+      [
+        12,
+        0
+      ],
+      null,
+      "Name of Satellite, Alternate Names",
+      ""
+    ],
+    "pred": "AEHF-1 (Advanced Extremely High Frequency satellite-1, USA 214)"
+  },
+  {
+    "question": "What are the names of the satellites from India?",
+    "question_id": "que_1",
+    "table_id": "table_0",
+    "nodes": [
+      [
+        "link 0",
+        [
+          71,
+          24
+        ],
+        "link_0",
+        "this table is a part of the database",
+        0.8333333333333334,
+        "Comments",
+        "string-overlap"
+      ]
+    ],
+    "target": [
+      "AprizeSat 8",
+      [
+        71,
+        0
+      ],
+      null,
+      "Name of Satellite, Alternate Names",
+      ""
+    ],
+    "pred": "AprizeSat 8"
+  },
+  {
+    "question": "Which satellite has the highest Apogee?",
+    "question_id": "que_2",
+    "table_id": "table_0",
+    "nodes": [
+      [
+        "link 0",
+        [
+          34,
+          24
+        ],
+        "link_0",
+        "this table is a part of the database",
+        0.8717948717948718,
+        "Comments",
+        "string-overlap"
+      ]
+    ],
+    "target": [
+      "Alsat-2A (Algeria Satellite 2A)",
+      [
+        34,
+        0
+      ],
+      null,
+      "Name of Satellite, Alternate Names",
+      ""
+    ],
+    "pred": "Alsat-2A (Algeria Satellite 2A)"
+  }
+]

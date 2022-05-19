@@ -1,0 +1,17 @@
+[
+    {
+        "question": "What is the name of the satellite from Estonia?",
+        "id": "que_0",
+        "answer": "AEHF-1 (Advanced Extremely High Frequency satellite-1, USA 214)"
+    },
+    {
+        "question": "What are the names of the satellites from India?",
+        "id": "que_1",
+        "answer": "AprizeSat 8"
+    },
+    {
+        "question": "Which satellite has the highest Apogee?",
+        "id": "que_2",
+        "answer": "Alsat-2A (Algeria Satellite 2A)"
+    }
+]

@@ -152,29 +152,13 @@ The SCC shall have a mean availability better than 99.99% (TBC)
 The SCC shall have a mean availability better than 99.99% (TBC)
 The MTBF of the SCC hardware shall be better than TBD hours
 The SCC shall create a duplicated alarm and event data file which shall be periodically sent to the back-up SCC
-"The SCC fault management functions shall cover:
-a.     Alarm reception/periodic retrieval and display
-b.     Status display
-c.     History file display
-d.     Automatic alarm recovery/healing functions"
+"The SCC fault management functions shall cover: a. Alarm reception/periodic retrieval and display. b. Status display. c. History file display. d. Automatic alarm recovery/healing functions"
 The SCC shall display all alarms received from SCC managed network elements in a text format
 The SCC shall support all alarms received from SCC managed network elements with audio flags and reminders
-"All alarms received from SCC managed network elements shall be displayed showing:
-a.     Network element identified
-b.     Network element sub-system identified
-c.     Occurrence time and date
-d.     Alarm criticality and severity level
-e.     Description
-f.      Probable cause
-g.     Alarm state (pending, acknowledged or terminated)"
+"All alarms received from SCC managed network elements shall be displayed showing: a. Network element identified. b. Network element sub-system identified. c. Occurrence time and date. d. Alarm criticality and severity level. e. Description. f.  Probable cause. g. Alarm state (pending, acknowledged or terminated)"
 The SCC fault management system shall include a alarm log file
 The SCC alarm log file shall be maintained for a minimum period of TBD months
-"The alarms shall be classified in the following categories according to its criticality:
-a.     Critical
-b.     Major
-c.     Minor
-d.     Warning
-e.     Indeterminate"
+"The alarms shall be classified in the following categories according to its criticality: a. Critical. b. Major. c. Minor. d. Warning. e. Indeterminate"
 The alarms shall be classified according to the following states: pending, acknowledged and terminated
 The SCC shall support alarm filtering and sorting according to several criteria
 The SCC shall support alarm clearing for terminated and acknowledged alarms
@@ -184,11 +168,7 @@ The SCC shall support an event/failure historical data file for a minimum period
 The SCC event/failure history file shall be updated upon operator command (manually) or automatically according to periodic update commands
 The SCC event/failure history file format shall be text format
 The SCC network management system shall allow displaying the configuration of any network element and modify it
-"The SCC network management system shall allow:
-a.     Adding hardware
-b.     Deleting hardware
-c.     Create, modify and delete parameters
-d.     Map parameters to network elements"
+"The SCC network management system shall allow: a. Adding hardware. b. Deleting hardware. c. Create, modify and delete parameters. d. Map parameters to network elements"
 The SCC management system shall allow retrieving performance data from any managed equipment
 The SCC management system shall maintain historical performance data of all managed network elements
 The SCC management system shall maintain performance historical data files
@@ -220,20 +200,11 @@ The SOC shall have a mean availability better than 99.99% (TBC)
 The MTBF of the SOC hardware shall be better than TBD hours
 The SOC shall operate 24 hours per day, 7 days per week throughout its operational lifetime
 The SOC shall support the planning of operations up to 4 months
-"The SOC shall support the scheduling of automated operations up to 2 weeks SAT-GS-SOC-260 The SOC The SOC shall show:
-a.     Status of running activities
-b.     Schedule display
-c.     Completed tasks of the running activity
-d.     Procedure summary display
-e.     Procedure detail display"
+"The SOC shall support the scheduling of automated operations up to 2 weeks SAT-GS-SOC-260 The SOC The SOC shall show: a. Status of running activities. b. Schedule display. c. Completed tasks of the running activity. d. Procedure summary display. e. Procedure detail display"
 The SOC shall support manoeuvre planning including: E-W station keeping and relocation, N-S station keeping and de-orbiting at end of life
 The SOC shall include a tool for planning and preparation of operations
 The SOC planning and preparation tool shall support input, output and editing of operations procedures
-"The SOC shall include a satellite database consisting of:
-a.     Orbital parameter database
-b.     Satellite specific information including configuration, mass property, fuel information, sensor information, thrusters information, etc
-c.     Command script files required for nominal and contingent operations
-d.     Telemetry display files including conversion coefficients, derived telemetry parameters and formulas, ranging parameters, etc"
+"The SOC shall include a satellite database consisting of: a. Orbital parameter database. b. Satellite specific information including configuration, mass property, fuel information, sensor information, thrusters information, etc. c. Command script files required for nominal and contingent operations. d. Telemetry display files including conversion coefficients, derived telemetry parameters and formulas, ranging parameters, etc"
 The SOC shall require no more than one operator for nominal spacecraft and ground segment operations
 The SOC shall support off-line operations preparation and support tasks du
 ENVIRONMENTAL, EMC AND SAFETY REQUIREMENTS

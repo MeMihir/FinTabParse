@@ -1,0 +1,92 @@
+[
+  {
+    "question": "What is the name of the satellite operated by NASA ?",
+    "question_id": "que_0",
+    "table_id": "table_0",
+    "nodes": [
+      [
+        "link 0",
+        [
+          6,
+          24
+        ],
+        "link_0",
+        "This table is part of the database.",
+        0.8461538461538461,
+        "Comments",
+        "string-overlap"
+      ]
+    ],
+    "target": [
+      "AEHF-1 (Advanced Extremely High Frequency satellite-1, USA 214)",
+      [
+        6,
+        0
+      ],
+      null,
+      "Name of Satellite, Alternate Names",
+      ""
+    ],
+    "pred": "AEHF-1 (Advanced Extremely High Frequency satellite-1, USA 214)"
+  },
+  {
+    "question": "What are the names of the satellites from USA ?",
+    "question_id": "que_1",
+    "table_id": "table_0",
+    "nodes": [
+      [
+        "USA",
+        [
+          0,
+          19
+        ],
+        null,
+        "string match",
+        1.0,
+        "Country of Contractor",
+        "links"
+      ]
+    ],
+    "target": [
+      "AcrimSat (Active Cavity Radiometer Irradiance Monitor)",
+      [
+        0,
+        0
+      ],
+      null,
+      "Name of Satellite, Alternate Names",
+      ""
+    ],
+    "pred": "AcrimSat (Active Cavity Radiometer Irradiance Monitor)"
+  },
+  {
+    "question": "Which satellite has the highest Apogee ?",
+    "question_id": "que_2",
+    "table_id": "table_0",
+    "nodes": [
+      [
+        "36,103",
+        [
+          6,
+          9
+        ],
+        null,
+        "maximum",
+        1.0,
+        "Apogee (km)",
+        "links"
+      ]
+    ],
+    "target": [
+      "AEHF-1 (Advanced Extremely High Frequency satellite-1, USA 214)",
+      [
+        6,
+        0
+      ],
+      null,
+      "Name of Satellite, Alternate Names",
+      ""
+    ],
+    "pred": "AEHF-1 (Advanced Extremely High Frequency satellite-1, USA 214)"
+  }
+]

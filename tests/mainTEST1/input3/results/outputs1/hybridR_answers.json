@@ -1,0 +1,17 @@
+[
+    {
+        "question": "What is the name of the satellite operated by NASA ?",
+        "id": "que_0",
+        "answer": "AEHF-1 (Advanced Extremely High Frequency satellite-1, USA 214)"
+    },
+    {
+        "question": "What are the names of the satellites from USA ?",
+        "id": "que_1",
+        "answer": "AcrimSat (Active Cavity Radiometer Irradiance Monitor)"
+    },
+    {
+        "question": "Which satellite has the highest Apogee ?",
+        "id": "que_2",
+        "answer": "AEHF-1 (Advanced Extremely High Frequency satellite-1, USA 214)"
+    }
+]

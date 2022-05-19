@@ -1,0 +1,7 @@
+By when shall the Pre-operational Space System be available ?
+What will be the minimum lifetime of each satellite after deployment ?
+What shall the space segment provide ?
+What will perform on-board software management functions ?
+Will the SCC implement authentication and authorisation operator mechanisms ?
+Will the ATM payload be compatible with the platform TMTC ?
+What will the satellite database consisting ?

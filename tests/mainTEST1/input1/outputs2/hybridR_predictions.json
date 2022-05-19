@@ -1,0 +1,92 @@
+[
+  {
+    "question": "What is the name of the satellite from Estonia?",
+    "question_id": "que_0",
+    "table_id": "table_0",
+    "nodes": [
+      [
+        "link 0",
+        [
+          15,
+          2
+        ],
+        "link_0",
+        "This table is part of the UCS Satellite Database which contains information of various satellites launched.",
+        0.7659574468085106,
+        "Operator/Owner",
+        "string-overlap"
+      ]
+    ],
+    "target": [
+      "Aeneas",
+      [
+        15,
+        0
+      ],
+      null,
+      "Name of Satellite, Alternate Names",
+      ""
+    ],
+    "pred": "Aeneas"
+  },
+  {
+    "question": "What are the names of the satellites from India?",
+    "question_id": "que_1",
+    "table_id": "table_0",
+    "nodes": [
+      [
+        "link 0",
+        [
+          15,
+          2
+        ],
+        "link_0",
+        "This table is part of the UCS Satellite Database which contains information of various satellites launched.",
+        0.75,
+        "Operator/Owner",
+        "string-overlap"
+      ]
+    ],
+    "target": [
+      "Aeneas",
+      [
+        15,
+        0
+      ],
+      null,
+      "Name of Satellite, Alternate Names",
+      ""
+    ],
+    "pred": "Aeneas"
+  },
+  {
+    "question": "Which satellite has the highest Apogee?",
+    "question_id": "que_2",
+    "table_id": "table_0",
+    "nodes": [
+      [
+        "link 0",
+        [
+          71,
+          24
+        ],
+        "link_0",
+        "This table is part of the UCS Satellite Database which contains information of various satellites launched.",
+        0.717948717948718,
+        "Comments",
+        "string-overlap"
+      ]
+    ],
+    "target": [
+      "AprizeSat 8",
+      [
+        71,
+        0
+      ],
+      null,
+      "Name of Satellite, Alternate Names",
+      ""
+    ],
+    "pred": "AprizeSat 8"
+  }
+]
