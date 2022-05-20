@@ -29,10 +29,14 @@ def list_to_file(list_data, file_name):
         f.write(line + '\n')
 
 def get_inputs(questions_path, paragraphs_path, table_path):
-	questions = file_to_list(questions_path)
-	paragraphs = file_to_list(paragraphs_path)
-	table = json_to_dict(table_path)
-	return questions, paragraphs, table
+  ques = file_to_list(questions_path)
+  paragraphs = file_to_list(paragraphs_path)
+  table = json_to_dict(table_path)
+  questions = map(lambda x: 
+    dict({'question': x[1], 'id': f'que_{x[0]}', 'answers' : []}), 
+    enumerate(ques)
+  )
+  return list(questions), paragraphs, table
 
 def read_inputs():
   inputs_path = '/content/FinTabParse/inputs/'

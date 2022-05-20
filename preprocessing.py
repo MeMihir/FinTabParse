@@ -24,9 +24,9 @@ def tagop_preprocessing(table, paragraphs, questions):
     tag_op_input["questions"] = []
     for i, que in enumerate(questions):
         tag_op_input["questions"].append({
-            "uid": f"que_{i}",
+            "uid": que['id'],
             "order": i,
-            "question": que,
+            "question": que['question'],
             "answer": "",
             "derivation": "",
             "answer_type": "",
@@ -58,6 +58,7 @@ def hybridr_preprocessing(table, paragraphs, questions, linking_base_thresh=0.1,
         "url": "",
         "title": "table_0"
     }
+    has_links = False
 
     for i, para in enumerate(paragraphs):
         links[f"link_{i}"] = para
@@ -65,10 +66,10 @@ def hybridr_preprocessing(table, paragraphs, questions, linking_base_thresh=0.1,
   
     for i, que in enumerate(questions):
         hybridR_ques.append({
-            "question_id" : f"que_{i}",
-            "question" : que,
+            "question_id" : que['id'],
+            "question" : que['question'],
             "table_id" : f"table_0",
-            "question_postag" : get_pos_tagging(que)
+            "question_postag" : que['question']
         })
 
 
@@ -89,18 +90,22 @@ def hybridr_preprocessing(table, paragraphs, questions, linking_base_thresh=0.1,
       if cell['r'] == 0:
         hybirdR_table["header"][cell['c']][1] = cell['paras']
       else:
+        if len(cell['paras'])!=0: has_links = True
         hybirdR_table["data"][cell['r']-1][cell['c']][1] = cell['paras']
 
     
-    return links, hybridR_ques, hybirdR_table
+    return links, hybridR_ques, hybirdR_table, has_links
 
 def prepare_AlQA_data(paragraphs):
 	return " ".join(paragraphs)
 
 
 def prepare_hybridR_data(questions, paragraphs, table, question_preds):
-  hybridR_questions = list(map(lambda x: x[1], filter(lambda x: x[0]==0, zip(question_preds, questions))))
-  hybirdR_paragraphs, hybirdR_ques, hybirdR_table = hybridr_preprocessing(table, paragraphs, hybridR_questions)
+  hybridR_questions = list(filter(lambda x: x['class']==0, question_preds))
+  hybirdR_paragraphs, hybirdR_ques, hybirdR_table, has_links = hybridr_preprocessing(table, paragraphs, hybridR_questions)
+
+  if(not has_links): 
+    return has_links
 
   os.makedirs('models/HybridR/test_inputs/', exist_ok=True)
   dict_to_json(hybirdR_ques, 'models/HybridR/test_inputs/test.json')
@@ -122,9 +127,46 @@ def prepare_hybridR_data(questions, paragraphs, table, question_preds):
   # !cp -r /content/FinTabParse/inputs/request_tok /content/FinTabParse/models/HybridR/WikiTables-WithLinks/
   # !cp -r /content/FinTabParse/inputs/tables_tok /content/FinTabParse/models/HybridR/WikiTables-WithLinks/
   # !cp -r /content/FinTabParse/inputs/tables_tmp /content/FinTabParse/models/HybridR/WikiTables-WithLinks/
+  return has_links
 
 def prepare_tagop_data(questions, paragraphs, table, question_preds):
-  tagop_questions = list(map(lambda x: x[1], filter(lambda x: x[0]==1, zip(question_preds, questions))))
+  tagop_questions = list(filter(lambda x: x['class']==1, question_preds))
   tag_op_input = tagop_preprocessing(table, paragraphs, tagop_questions)
   dict_to_json([tag_op_input], '/content/FinTabParse/models/TAT-QA/dataset_tagop/tatqa_dataset_dev.json')
   return tag_op_input
+
+from utils.file_handling import json_to_dict
+from functools import reduce
+
+def process_alqa_answers(preds, answers, chunk):
+  for pred in preds:
+    if pred['answers'][0]['answer'] == '[CLS]': continue
+    answers[pred['id']]['answers'].append({
+        'answer': pred['answers'][0]['answer'],
+        'score': pred['answers'][0]['score'],
+        'chunk': chunk,
+        'model': 'AlBERT'
+    })
+  return answers
+
+def process_tagop_answers(answers, chunk):
+  tagop_pred = json_to_dict('models/TAT-QA/tag_op/pred_result_on_dev.json')
+  for k in tagop_pred.keys():
+    answers[k]['answers'].append({
+        'answer': tagop_pred[k],
+        'chunk': chunk,
+        'model': 'TagOp'
+    })
+  return answers
+
+def process_hybridr_answers(answers, chunk):
+  hybridR_pred = json_to_dict('models/HybridR/predictions.json')
+  for pred in hybridR_pred:
+    score = reduce(lambda x, y: x[4]*y[4], pred["nodes"])
+    answers[pred['question_id']]['answers'].append({
+        'answer': pred['pred'],
+        'score': score,
+        'chunk': chunk,
+        'model': 'HybridR'
+    })
+  return answers
