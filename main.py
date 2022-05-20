@@ -3,7 +3,7 @@ import torch
 
 from utils.file_handling import file_to_list, json_to_dict
 from models.questions_classifier import BertClassifier
-from preprocessing import tagop_preprocessing
+from preprocessing.TagOp_preprop import tagop_preprocessing
 
 def get_inputs(questions_path, paragraphs_path, table_path):
 	questions = file_to_list(questions_path)
