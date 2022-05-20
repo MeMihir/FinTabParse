@@ -28,6 +28,12 @@ def list_to_file(list_data, file_name):
       if(type(line)==type(" ")):
         f.write(line + '\n')
 
+def get_inputs(questions_path, paragraphs_path, table_path):
+	questions = file_to_list(questions_path)
+	paragraphs = file_to_list(paragraphs_path)
+	table = json_to_dict(table_path)
+	return questions, paragraphs, table
+
 def read_inputs():
   inputs_path = '/content/FinTabParse/inputs/'
   paragraphs_path = os.path.join(inputs_path, 'paragraphs.txt')
@@ -64,34 +70,3 @@ def write_output(tag_op_input, AlQA, dataclass):
         'answer': que['pred']
     })
   dict_to_json(hybridR_answers, 'outputs/hybridR_answers.json')
-
-def prepare_hybridR_data(questions, paragraphs, table, question_preds):
-  hybridR_questions = list(map(lambda x: x[1], filter(lambda x: x[0]==0, zip(question_preds, questions))))
-  hybirdR_paragraphs, hybirdR_ques, hybirdR_table = hybridr_preprocessing(table, paragraphs, hybridR_questions)
-
-  os.makedirs('models/HybridR/test_inputs/', exist_ok=True)
-  dict_to_json(hybirdR_ques, 'models/HybridR/test_inputs/test.json')
-
-  os.makedirs('inputs/request_tok', exist_ok=True)
-  dict_to_json(hybirdR_paragraphs, 'inputs/request_tok/table_0.json')
-
-  os.makedirs('inputs/tables_tok', exist_ok=True)
-  dict_to_json(hybirdR_table, 'inputs/tables_tok/table_0.json')
-
-  del hybirdR_ques
-  del hybirdR_paragraphs
-  del hybirdR_table
-
-  preprocessing_main()
-
-  !rm -r /content/FinTabParse/models/HybridR/WikiTables-WithLinks/
-  !mkdir /content/FinTabParse/models/HybridR/WikiTables-WithLinks/
-  !cp -r /content/FinTabParse/inputs/request_tok /content/FinTabParse/models/HybridR/WikiTables-WithLinks/
-  !cp -r /content/FinTabParse/inputs/tables_tok /content/FinTabParse/models/HybridR/WikiTables-WithLinks/
-  !cp -r /content/FinTabParse/inputs/tables_tmp /content/FinTabParse/models/HybridR/WikiTables-WithLinks/
-
-def prepare_tagop_data(questions, paragraphs, table, question_preds):
-  tagop_questions = list(map(lambda x: x[1], filter(lambda x: x[0]==1, zip(question_preds, questions))))
-  tag_op_input = tagop_preprocessing(table, paragraphs, tagop_questions)
-  dict_to_json([tag_op_input], '/content/FinTabParse/models/TAT-QA/dataset_tagop/tatqa_dataset_dev.json')
-  return tag_op_input
