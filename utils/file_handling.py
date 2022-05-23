@@ -17,7 +17,7 @@ def file_to_list(file_name):
 
 def dict_to_json(tag_op_input, json_file):
     with open(json_file, 'w') as f:
-        json.dump(tag_op_input, f)
+        json.dump(tag_op_input, f, indent=2)
 
 def list_to_file(list_data, file_name):
   """

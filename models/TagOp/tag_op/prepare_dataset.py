@@ -2,7 +2,7 @@ import os
 import pickle
 import argparse
 from tag_op.data.tatqa_dataset import TagTaTQAReader, TagTaTQATestReader
-from transformers.tokenization_roberta import RobertaTokenizer
+from transformers import RobertaTokenizer
 
 from transformers import BertTokenizer
 

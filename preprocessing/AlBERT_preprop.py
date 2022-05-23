@@ -8,7 +8,7 @@ def process_alqa_answers(preds, answers, chunk):
     if pred['answers'][0]['answer'] == '[CLS]': continue
     answers[pred['id']]['answers'].append({
         'answer': pred['answers'][0]['answer'],
-        'score': pred['answers'][0]['score'],
+        'score': pred['answers'][0]['score'].item(),
         'chunk': chunk,
         'model': 'AlBERT'
     })
