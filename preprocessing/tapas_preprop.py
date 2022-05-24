@@ -5,7 +5,7 @@ def prepare_tapas_data(table, questions):
   queries = map(lambda x: x['question'], questions)
   return TaPaSQA, list(queries)
 
-def process_tapas_answers(predicted_answer_coordinates, predicted_aggregation_indices, table, answers, chunk):
+def process_tapas_answers(predicted_answer_coordinates, predicted_aggregation_indices, table, answers, chunk, scores):
   id2aggregation = {0: "NONE", 1: "SUM", 2: "AVERAGE", 3: "COUNT"}
   aggregation_predictions_string = [id2aggregation[x] for x in predicted_aggregation_indices]
 
@@ -18,10 +18,10 @@ def process_tapas_answers(predicted_answer_coordinates, predicted_aggregation_in
           for coordinate in coordinates:
               cell_values.append(table.iat[coordinate])
           ans.append(", ".join(cell_values))
-  for k, answer, predicted_agg in zip(answers.keys(), ans, aggregation_predictions_string):
+  for k, answer, predicted_agg, score in zip(answers.keys(), ans, aggregation_predictions_string, scores):
       answers[k]['answers'].append({
           'answer': answer if predicted_agg == "NONE" else f"{predicted_agg} > {answer}",
-          'score': None,
+          'score': score.item(),
           'chunk': chunk,
           'model': 'TaPaS'
       })
