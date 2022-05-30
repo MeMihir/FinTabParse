@@ -39,7 +39,7 @@ def tagop_preprocessing(table, paragraphs, questions):
 def prepare_tagop_data(questions, paragraphs, table, question_preds):
   tagop_questions = list(filter(lambda x: x['class']==1, question_preds))
   tag_op_input = tagop_preprocessing(table, paragraphs, tagop_questions)
-  dict_to_json([tag_op_input], '/content/FinTabParse/models/TAT-QA/dataset_tagop/tatqa_dataset_dev.json')
+  dict_to_json([tag_op_input], 'models/TAT-QA/dataset_tagop/tatqa_dataset_dev.json')
   return tag_op_input
 
 

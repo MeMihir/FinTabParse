@@ -38,8 +38,7 @@ def get_inputs(questions_path, paragraphs_path, table_path):
   )
   return list(questions), paragraphs, table
 
-def read_inputs():
-  inputs_path = '/content/FinTabParse/inputs/'
+def read_inputs(inputs_path = '/content/FinTabParse/inputs/'):
   paragraphs_path = os.path.join(inputs_path, 'paragraphs.txt')
   questions_path = os.path.join(inputs_path, 'questions.txt')
   table_path = os.path.join(inputs_path, 'table.json')
