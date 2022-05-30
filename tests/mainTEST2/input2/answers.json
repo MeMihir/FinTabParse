@@ -1,0 +1,1925 @@
+{
+   "que_0": {
+      "answers": [
+         {
+            "answer": "",
+            "chunk": 0,
+            "model": "AlBERT",
+            "score": 57.3639
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 0,
+            "model": "TagOp"
+         },
+         {
+            "answer": "the pre-operational space system shall be available in 2013",
+            "chunk": 1,
+            "model": "AlBERT",
+            "score": 66.6494
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 1,
+            "model": "TagOp"
+         },
+         {
+            "answer": "",
+            "chunk": 2,
+            "model": "AlBERT",
+            "score": 72.5348
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 2,
+            "model": "TagOp"
+         },
+         {
+            "answer": "",
+            "chunk": 3,
+            "model": "AlBERT",
+            "score": 30.5679
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 3,
+            "model": "TagOp"
+         },
+         {
+            "answer": "space segment orbit maintenance manoeuvres design",
+            "chunk": 4,
+            "model": "AlBERT",
+            "score": 53.1012
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 4,
+            "model": "TagOp"
+         },
+         {
+            "answer": "",
+            "chunk": 5,
+            "model": "AlBERT",
+            "score": 39.5280
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 5,
+            "model": "TagOp"
+         },
+         {
+            "answer": "",
+            "chunk": 6,
+            "model": "AlBERT",
+            "score": 27.5623
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 6,
+            "model": "TagOp"
+         },
+         {
+            "answer": "the atm payload for the fixed links shall operate within frequencies currently allocated by itu for fixed satellite services",
+            "chunk": 7,
+            "model": "AlBERT",
+            "score": 48.4994
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 7,
+            "model": "TagOp"
+         },
+         {
+            "answer": "",
+            "chunk": 8,
+            "model": "AlBERT",
+            "score": 49.9951
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 8,
+            "model": "TagOp"
+         },
+         {
+            "answer": "",
+            "chunk": 9,
+            "model": "AlBERT",
+            "score": 54.3814
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 9,
+            "model": "TagOp"
+         },
+         {
+            "answer": "the telemetry system shall support simultaneous channels",
+            "chunk": 10,
+            "model": "AlBERT",
+            "score": 48.0708
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 10,
+            "model": "TagOp"
+         },
+         {
+            "answer": "7 days per week throughout its operational lifetime",
+            "chunk": 11,
+            "model": "AlBERT",
+            "score": 56.3959
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 11,
+            "model": "TagOp"
+         },
+         {
+            "answer": "7 days per week",
+            "chunk": 12,
+            "model": "AlBERT",
+            "score": 45.4554
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 12,
+            "model": "TagOp"
+         },
+         {
+            "answer": "",
+            "chunk": 13,
+            "model": "AlBERT",
+            "score": 52.5955
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 13,
+            "model": "TagOp"
+         },
+         {
+            "answer": "pre-launch phase",
+            "chunk": 14,
+            "model": "AlBERT",
+            "score": 49.6319
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 14,
+            "model": "TagOp"
+         },
+         {
+            "answer": "by when shall the pre-operational space system be available? a minimum period of tbd \" the soc shall support the following initiation of operations procedures : manual initiation, automatic scheduled operation procedure according to pre-defined operational plan",
+            "chunk": 15,
+            "model": "AlBERT",
+            "score": 30.8020
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 15,
+            "model": "TagOp"
+         },
+         {
+            "answer": "24 hours per day, 7 days per week throughout its operational lifetime",
+            "chunk": 16,
+            "model": "AlBERT",
+            "score": 33.4667
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 16,
+            "model": "TagOp"
+         },
+         {
+            "answer": "",
+            "chunk": 17,
+            "model": "AlBERT",
+            "score": 31.1495
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 17,
+            "model": "TagOp"
+         },
+         {
+            "answer": "it shall be possible to remove and re-install ancillary payload units from the spacecraft platform",
+            "chunk": 18,
+            "model": "AlBERT",
+            "score": 33.0464
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 18,
+            "model": "TagOp"
+         }
+      ],
+      "class": 1,
+      "id": "que_0",
+      "question": "By when shall the Pre-operational Space System be available ?"
+   },
+   "que_1": {
+      "answers": [
+         {
+            "answer": "",
+            "chunk": 0,
+            "model": "AlBERT",
+            "score": 70.4739
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 0,
+            "model": "TagOp"
+         },
+         {
+            "answer": "15 years",
+            "chunk": 1,
+            "model": "AlBERT",
+            "score": 103.4056
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 1,
+            "model": "TagOp"
+         },
+         {
+            "answer": "",
+            "chunk": 2,
+            "model": "AlBERT",
+            "score": 50.8194
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 2,
+            "model": "TagOp"
+         },
+         {
+            "answer": "",
+            "chunk": 3,
+            "model": "AlBERT",
+            "score": 69.6269
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 3,
+            "model": "TagOp"
+         },
+         {
+            "answer": "5 years",
+            "chunk": 4,
+            "model": "AlBERT",
+            "score": 28.4181
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 4,
+            "model": "TagOp"
+         },
+         {
+            "answer": "",
+            "chunk": 5,
+            "model": "AlBERT",
+            "score": 76.5815
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 5,
+            "model": "TagOp"
+         },
+         {
+            "answer": "",
+            "chunk": 6,
+            "model": "AlBERT",
+            "score": 73.5151
+         },
+         {
+            "answer": [
+               [
+                  "u o"
+               ],
+               ""
+            ],
+            "chunk": 6,
+            "model": "TagOp"
+         },
+         {
+            "answer": "",
+            "chunk": 7,
+            "model": "AlBERT",
+            "score": 77.1675
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 7,
+            "model": "TagOp"
+         },
+         {
+            "answer": "",
+            "chunk": 8,
+            "model": "AlBERT",
+            "score": 66.1568
+         },
+         {
+            "answer": [
+               [
+                  "o r"
+               ],
+               ""
+            ],
+            "chunk": 8,
+            "model": "TagOp"
+         },
+         {
+            "answer": "",
+            "chunk": 9,
+            "model": "AlBERT",
+            "score": 82.7047
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 9,
+            "model": "TagOp"
+         },
+         {
+            "answer": "",
+            "chunk": 10,
+            "model": "AlBERT",
+            "score": 57.8291
+         },
+         {
+            "answer": [
+               [
+                  "0 1"
+               ],
+               ""
+            ],
+            "chunk": 10,
+            "model": "TagOp"
+         },
+         {
+            "answer": "7 days per week",
+            "chunk": 11,
+            "model": "AlBERT",
+            "score": 53.3617
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 11,
+            "model": "TagOp"
+         },
+         {
+            "answer": "7 days per week",
+            "chunk": 12,
+            "model": "AlBERT",
+            "score": 60.2401
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 12,
+            "model": "TagOp"
+         },
+         {
+            "answer": "",
+            "chunk": 13,
+            "model": "AlBERT",
+            "score": 95.0016
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 13,
+            "model": "TagOp"
+         },
+         {
+            "answer": "",
+            "chunk": 14,
+            "model": "AlBERT",
+            "score": 56.9775
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 14,
+            "model": "TagOp"
+         },
+         {
+            "answer": "15 years",
+            "chunk": 15,
+            "model": "AlBERT",
+            "score": 106.4340
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 15,
+            "model": "TagOp"
+         },
+         {
+            "answer": "7 days per week",
+            "chunk": 16,
+            "model": "AlBERT",
+            "score": 60.0942
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 16,
+            "model": "TagOp"
+         },
+         {
+            "answer": "",
+            "chunk": 17,
+            "model": "AlBERT",
+            "score": 82.8583
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 17,
+            "model": "TagOp"
+         },
+         {
+            "answer": "",
+            "chunk": 18,
+            "model": "AlBERT",
+            "score": 70.3872
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 18,
+            "model": "TagOp"
+         }
+      ],
+      "class": 1,
+      "id": "que_1",
+      "question": "What will be the minimum lifetime of each satellite after deployment ?"
+   },
+   "que_2": {
+      "answers": [
+         {
+            "answer": "the iris space system shall provide aoc service over the earth surface fraction visible from the orbit",
+            "chunk": 0,
+            "model": "AlBERT",
+            "score": 35.0830
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 0,
+            "model": "TagOp"
+         },
+         {
+            "answer": "",
+            "chunk": 1,
+            "model": "AlBERT",
+            "score": 80.1353
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 1,
+            "model": "TagOp"
+         },
+         {
+            "answer": "the iris service provided by the iris space system shall be single failure tolerant",
+            "chunk": 2,
+            "model": "AlBERT",
+            "score": 33.1549
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 2,
+            "model": "TagOp"
+         },
+         {
+            "answer": "the space segment configuration shall be such to ensure the compliance with the availability requirements",
+            "chunk": 3,
+            "model": "AlBERT",
+            "score": 58.4935
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 3,
+            "model": "TagOp"
+         },
+         {
+            "answer": "the space segment shall provide ground/air broadcast data and voice communications",
+            "chunk": 4,
+            "model": "AlBERT",
+            "score": 39.3549
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 4,
+            "model": "TagOp"
+         },
+         {
+            "answer": "single-point failure tolerance",
+            "chunk": 5,
+            "model": "AlBERT",
+            "score": 83.5163
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 5,
+            "model": "TagOp"
+         },
+         {
+            "answer": "for calculation of the propellant mass the following margins on the effective delta-v  ⁇  s ( e.g. including gravity losses ) shall apply",
+            "chunk": 6,
+            "model": "AlBERT",
+            "score": 41.2238
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 6,
+            "model": "TagOp"
+         },
+         {
+            "answer": "",
+            "chunk": 7,
+            "model": "AlBERT",
+            "score": 48.0083
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 7,
+            "model": "TagOp"
+         },
+         {
+            "answer": "",
+            "chunk": 8,
+            "model": "AlBERT",
+            "score": 88.2608
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 8,
+            "model": "TagOp"
+         },
+         {
+            "answer": "",
+            "chunk": 9,
+            "model": "AlBERT",
+            "score": 117.3049
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 9,
+            "model": "TagOp"
+         },
+         {
+            "answer": "the scc architecture shall be sized for a single satellite",
+            "chunk": 10,
+            "model": "AlBERT",
+            "score": 36.0717
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 10,
+            "model": "TagOp"
+         },
+         {
+            "answer": "the scc shall support satellite re-configuration functions",
+            "chunk": 11,
+            "model": "AlBERT",
+            "score": 45.2962
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 11,
+            "model": "TagOp"
+         },
+         {
+            "answer": "",
+            "chunk": 12,
+            "model": "AlBERT",
+            "score": 50.8925
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 12,
+            "model": "TagOp"
+         },
+         {
+            "answer": "",
+            "chunk": 13,
+            "model": "AlBERT",
+            "score": 39.3819
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 13,
+            "model": "TagOp"
+         },
+         {
+            "answer": "",
+            "chunk": 14,
+            "model": "AlBERT",
+            "score": 89.1131
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 14,
+            "model": "TagOp"
+         },
+         {
+            "answer": "what shall the space segment provide? a minimum period of tbd \" the soc shall support the following initiation of operations procedures : manual initiation, automatic scheduled operation procedure according to pre-defined operational plan, automatic scheduled operation procedure in response to events sat-gs-soc-80 the soc procedure execution shall allow the satellite operators : visualize operation procedures and schedules, introduce input data, modify operations parameters \" the soc shall be based to the maximum extent on cots equipment the soc shall allow hardware, software and firmware upgrades during the mission lifetime the soc shall support authentication and authorisation operator mechanisms the soc shall provide satellite pointing correction mechanism",
+            "chunk": 15,
+            "model": "AlBERT",
+            "score": 41.3256
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 15,
+            "model": "TagOp"
+         },
+         {
+            "answer": "",
+            "chunk": 16,
+            "model": "AlBERT",
+            "score": 57.2526
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 16,
+            "model": "TagOp"
+         },
+         {
+            "answer": "",
+            "chunk": 17,
+            "model": "AlBERT",
+            "score": 64.7050
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 17,
+            "model": "TagOp"
+         },
+         {
+            "answer": "a minimum of disturbance to other satellite equipment and activities",
+            "chunk": 18,
+            "model": "AlBERT",
+            "score": 34.8983
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 18,
+            "model": "TagOp"
+         }
+      ],
+      "class": 1,
+      "id": "que_2",
+      "question": "What shall the space segment provide ?"
+   },
+   "que_3": {
+      "answers": [
+         {
+            "answer": "iris space system",
+            "chunk": 0,
+            "model": "AlBERT",
+            "score": 32.6264
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 0,
+            "model": "TagOp"
+         },
+         {
+            "answer": "",
+            "chunk": 1,
+            "model": "AlBERT",
+            "score": 39.8521
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 1,
+            "model": "TagOp"
+         },
+         {
+            "answer": "",
+            "chunk": 2,
+            "model": "AlBERT",
+            "score": 38.2457
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 2,
+            "model": "TagOp"
+         },
+         {
+            "answer": "",
+            "chunk": 3,
+            "model": "AlBERT",
+            "score": 38.0845
+         },
+         {
+            "answer": [
+               [
+                  "r a e g a r"
+               ],
+               ""
+            ],
+            "chunk": 3,
+            "model": "TagOp"
+         },
+         {
+            "answer": "",
+            "chunk": 4,
+            "model": "AlBERT",
+            "score": 26.6314
+         },
+         {
+            "answer": [
+               [
+                  "s e r"
+               ],
+               ""
+            ],
+            "chunk": 4,
+            "model": "TagOp"
+         },
+         {
+            "answer": "on-board storage of software in non-modifiable memories ( rom ) shall be limited to the strict necessary ( e.g. boot sw ) such that software corrections/updates can be made when the satellite is in orbit",
+            "chunk": 5,
+            "model": "AlBERT",
+            "score": 43.2164
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 5,
+            "model": "TagOp"
+         },
+         {
+            "answer": "",
+            "chunk": 6,
+            "model": "AlBERT",
+            "score": 33.8623
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 6,
+            "model": "TagOp"
+         },
+         {
+            "answer": "",
+            "chunk": 7,
+            "model": "AlBERT",
+            "score": 59.9505
+         },
+         {
+            "answer": [
+               [
+                  "b l l"
+               ],
+               ""
+            ],
+            "chunk": 7,
+            "model": "TagOp"
+         },
+         {
+            "answer": "",
+            "chunk": 8,
+            "model": "AlBERT",
+            "score": 39.7228
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 8,
+            "model": "TagOp"
+         },
+         {
+            "answer": "the scc shall be able to perform on-board software management functions the scc shall be able to perform on-board scheduling management functions",
+            "chunk": 9,
+            "model": "AlBERT",
+            "score": 26.8672
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 9,
+            "model": "TagOp"
+         },
+         {
+            "answer": "the scc shall implement authentication and authorisation operator mechanisms",
+            "chunk": 10,
+            "model": "AlBERT",
+            "score": 43.1475
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 10,
+            "model": "TagOp"
+         },
+         {
+            "answer": "",
+            "chunk": 11,
+            "model": "AlBERT",
+            "score": 37.1687
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 11,
+            "model": "TagOp"
+         },
+         {
+            "answer": "",
+            "chunk": 12,
+            "model": "AlBERT",
+            "score": 60.1665
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 12,
+            "model": "TagOp"
+         },
+         {
+            "answer": "",
+            "chunk": 13,
+            "model": "AlBERT",
+            "score": 28.8747
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 13,
+            "model": "TagOp"
+         },
+         {
+            "answer": "",
+            "chunk": 14,
+            "model": "AlBERT",
+            "score": 33.0767
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 14,
+            "model": "TagOp"
+         },
+         {
+            "answer": "",
+            "chunk": 15,
+            "model": "AlBERT",
+            "score": 38.7541
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 15,
+            "model": "TagOp"
+         },
+         {
+            "answer": "the soc shall support the scheduling of automated operations up to 2 weeks",
+            "chunk": 16,
+            "model": "AlBERT",
+            "score": 23.7688
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 16,
+            "model": "TagOp"
+         },
+         {
+            "answer": "nominal spacecraft and ground segment operations the soc shall support off-line operations preparation and support tasks du environmental, emc and safety requirements",
+            "chunk": 17,
+            "model": "AlBERT",
+            "score": 37.9009
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 17,
+            "model": "TagOp"
+         },
+         {
+            "answer": "",
+            "chunk": 18,
+            "model": "AlBERT",
+            "score": 66.1778
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 18,
+            "model": "TagOp"
+         }
+      ],
+      "class": 1,
+      "id": "que_3",
+      "question": "What will perform on-board software management functions ?"
+   },
+   "que_4": {
+      "answers": [
+         {
+            "answer": "",
+            "chunk": 0,
+            "model": "AlBERT",
+            "score": 25.3965
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 0,
+            "model": "TagOp"
+         },
+         {
+            "answer": "the iris space system shall provide a useful throughput of tbd kbps for forward link and tbd kbps for return link for aoc data services",
+            "chunk": 1,
+            "model": "AlBERT",
+            "score": 39.9276
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 1,
+            "model": "TagOp"
+         },
+         {
+            "answer": "",
+            "chunk": 2,
+            "model": "AlBERT",
+            "score": 23.4716
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 2,
+            "model": "TagOp"
+         },
+         {
+            "answer": "design the space system shall be designed according to the ecss and ccsds standards sd [ 1 ] to sd [ 33 ] unless otherwise specified in this document",
+            "chunk": 3,
+            "model": "AlBERT",
+            "score": 38.6739
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 3,
+            "model": "TagOp"
+         },
+         {
+            "answer": "",
+            "chunk": 4,
+            "model": "AlBERT",
+            "score": 32.1383
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 4,
+            "model": "TagOp"
+         },
+         {
+            "answer": "the space segment design shall be based on the re-use of existing telecom platforms the platform selection shall be such that system level verification shall rely on past or already planned qualification activities",
+            "chunk": 5,
+            "model": "AlBERT",
+            "score": 64.6128
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 5,
+            "model": "TagOp"
+         },
+         {
+            "answer": "be such that system level verification shall rely on past or already planned qualification activities",
+            "chunk": 6,
+            "model": "AlBERT",
+            "score": 66.0179
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 6,
+            "model": "TagOp"
+         },
+         {
+            "answer": "",
+            "chunk": 7,
+            "model": "AlBERT",
+            "score": 36.4526
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 7,
+            "model": "TagOp"
+         },
+         {
+            "answer": "if selected for fixed links ground segment satellite control center functional and performance requirements the scc shall implement the telemetry, tacking and command ( tt & c ) functions with the satellite",
+            "chunk": 8,
+            "model": "AlBERT",
+            "score": 48.4037
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 8,
+            "model": "TagOp"
+         },
+         {
+            "answer": "the scc shall support the following telecommand functions",
+            "chunk": 9,
+            "model": "AlBERT",
+            "score": 43.0348
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 9,
+            "model": "TagOp"
+         },
+         {
+            "answer": "the scc shall implement authentication and authorisation operator mechanisms",
+            "chunk": 10,
+            "model": "AlBERT",
+            "score": 44.5232
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 10,
+            "model": "TagOp"
+         },
+         {
+            "answer": "the scc shall support satellite re-configuration functions",
+            "chunk": 11,
+            "model": "AlBERT",
+            "score": 58.1724
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 11,
+            "model": "TagOp"
+         },
+         {
+            "answer": "scc shall allow fallback mechanisms in case of failure during system upgrade procedure",
+            "chunk": 12,
+            "model": "AlBERT",
+            "score": 43.7903
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 12,
+            "model": "TagOp"
+         },
+         {
+            "answer": "the scc event/failure history file shall be updated upon operator command ( manually ) or automatically according to periodic update commands",
+            "chunk": 13,
+            "model": "AlBERT",
+            "score": 20.8538
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 13,
+            "model": "TagOp"
+         },
+         {
+            "answer": "the scc network management system shall allow : a. adding hardware. b. deleting hardware. c. create, modify and delete parameters. d. map parameters to network elements \" the scc management system shall allow retrieving performance data from any managed equipment",
+            "chunk": 14,
+            "model": "AlBERT",
+            "score": 34.3842
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 14,
+            "model": "TagOp"
+         },
+         {
+            "answer": "soc shall support authentication and authorisation operator mechanisms",
+            "chunk": 15,
+            "model": "AlBERT",
+            "score": 29.8711
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 15,
+            "model": "TagOp"
+         },
+         {
+            "answer": "",
+            "chunk": 16,
+            "model": "AlBERT",
+            "score": 44.9619
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 16,
+            "model": "TagOp"
+         },
+         {
+            "answer": "the soc shall support off-line operations preparation and support tasks du environmental, emc and safety requirements",
+            "chunk": 17,
+            "model": "AlBERT",
+            "score": 33.8852
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 17,
+            "model": "TagOp"
+         },
+         {
+            "answer": "it shall be possible to remove and re-install ancillary payload units from the spacecraft platform",
+            "chunk": 18,
+            "model": "AlBERT",
+            "score": 33.4910
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 18,
+            "model": "TagOp"
+         }
+      ],
+      "class": 1,
+      "id": "que_4",
+      "question": "Will the SCC implement authentication and authorisation operator mechanisms ?"
+   },
+   "que_5": {
+      "answers": [
+         {
+            "answer": "",
+            "chunk": 0,
+            "model": "AlBERT",
+            "score": 51.5467
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 0,
+            "model": "TagOp"
+         },
+         {
+            "answer": "",
+            "chunk": 1,
+            "model": "AlBERT",
+            "score": 48.1719
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 1,
+            "model": "TagOp"
+         },
+         {
+            "answer": "",
+            "chunk": 2,
+            "model": "AlBERT",
+            "score": 76.5331
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 2,
+            "model": "TagOp"
+         },
+         {
+            "answer": "",
+            "chunk": 3,
+            "model": "AlBERT",
+            "score": 77.6271
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 3,
+            "model": "TagOp"
+         },
+         {
+            "answer": "",
+            "chunk": 4,
+            "model": "AlBERT",
+            "score": 65.1175
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 4,
+            "model": "TagOp"
+         },
+         {
+            "answer": "",
+            "chunk": 5,
+            "model": "AlBERT",
+            "score": 61.8134
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 5,
+            "model": "TagOp"
+         },
+         {
+            "answer": "",
+            "chunk": 6,
+            "model": "AlBERT",
+            "score": 26.8769
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 6,
+            "model": "TagOp"
+         },
+         {
+            "answer": "",
+            "chunk": 7,
+            "model": "AlBERT",
+            "score": 34.4682
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 7,
+            "model": "TagOp"
+         },
+         {
+            "answer": "if selected if selected for fixed links",
+            "chunk": 8,
+            "model": "AlBERT",
+            "score": 57.0697
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 8,
+            "model": "TagOp"
+         },
+         {
+            "answer": "",
+            "chunk": 9,
+            "model": "AlBERT",
+            "score": 76.7285
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 9,
+            "model": "TagOp"
+         },
+         {
+            "answer": "",
+            "chunk": 10,
+            "model": "AlBERT",
+            "score": 69.2813
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 10,
+            "model": "TagOp"
+         },
+         {
+            "answer": "",
+            "chunk": 11,
+            "model": "AlBERT",
+            "score": 79.5714
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 11,
+            "model": "TagOp"
+         },
+         {
+            "answer": "",
+            "chunk": 12,
+            "model": "AlBERT",
+            "score": 51.9760
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 12,
+            "model": "TagOp"
+         },
+         {
+            "answer": "",
+            "chunk": 13,
+            "model": "AlBERT",
+            "score": 69.5260
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 13,
+            "model": "TagOp"
+         },
+         {
+            "answer": "",
+            "chunk": 14,
+            "model": "AlBERT",
+            "score": 64.5207
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 14,
+            "model": "TagOp"
+         },
+         {
+            "answer": "",
+            "chunk": 15,
+            "model": "AlBERT",
+            "score": 58.3352
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 15,
+            "model": "TagOp"
+         },
+         {
+            "answer": "",
+            "chunk": 16,
+            "model": "AlBERT",
+            "score": 64.6685
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 16,
+            "model": "TagOp"
+         },
+         {
+            "answer": "the atm payload shall be compatible with the platform tmtc before launch",
+            "chunk": 17,
+            "model": "AlBERT",
+            "score": 41.9561
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 17,
+            "model": "TagOp"
+         },
+         {
+            "answer": "",
+            "chunk": 18,
+            "model": "AlBERT",
+            "score": 43.9243
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 18,
+            "model": "TagOp"
+         }
+      ],
+      "class": 1,
+      "id": "que_5",
+      "question": "Will the ATM payload be compatible with the platform TMTC ?"
+   },
+   "que_6": {
+      "answers": [
+         {
+            "answer": "",
+            "chunk": 0,
+            "model": "AlBERT",
+            "score": 46.3214
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 0,
+            "model": "TagOp"
+         },
+         {
+            "answer": "what will the satellite database consisting? services. the iris space system shall provide a useful throughput of tbd kbps for forward link and tbd kbps for return link for aoc data services",
+            "chunk": 1,
+            "model": "AlBERT",
+            "score": 23.3461
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 1,
+            "model": "TagOp"
+         },
+         {
+            "answer": "",
+            "chunk": 2,
+            "model": "AlBERT",
+            "score": 30.6306
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 2,
+            "model": "TagOp"
+         },
+         {
+            "answer": "",
+            "chunk": 3,
+            "model": "AlBERT",
+            "score": 28.6816
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 3,
+            "model": "TagOp"
+         },
+         {
+            "answer": "",
+            "chunk": 4,
+            "model": "AlBERT",
+            "score": 31.2758
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 4,
+            "model": "TagOp"
+         },
+         {
+            "answer": "",
+            "chunk": 5,
+            "model": "AlBERT",
+            "score": 66.2985
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 5,
+            "model": "TagOp"
+         },
+         {
+            "answer": "all satellite housekeeping data",
+            "chunk": 6,
+            "model": "AlBERT",
+            "score": 49.4341
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 6,
+            "model": "TagOp"
+         },
+         {
+            "answer": "",
+            "chunk": 7,
+            "model": "AlBERT",
+            "score": 45.5134
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 7,
+            "model": "TagOp"
+         },
+         {
+            "answer": "",
+            "chunk": 8,
+            "model": "AlBERT",
+            "score": 27.3661
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 8,
+            "model": "TagOp"
+         },
+         {
+            "answer": "",
+            "chunk": 9,
+            "model": "AlBERT",
+            "score": 29.7396
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 9,
+            "model": "TagOp"
+         },
+         {
+            "answer": "what will the satellite database consisting? utc time the scc shall use utc time to timestamp events, alarms, schedules, time parameters and database updates",
+            "chunk": 10,
+            "model": "AlBERT",
+            "score": 21.1952
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 10,
+            "model": "TagOp"
+         },
+         {
+            "answer": "the scc shall consist of two centres",
+            "chunk": 11,
+            "model": "AlBERT",
+            "score": 36.5641
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 11,
+            "model": "TagOp"
+         },
+         {
+            "answer": "",
+            "chunk": 12,
+            "model": "AlBERT",
+            "score": 49.3012
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 12,
+            "model": "TagOp"
+         },
+         {
+            "answer": "what will the satellite database consisting? managed network elements with audio flags and reminders \" all alarms received from scc managed network elements shall be displayed showing : a. network element identified. b. network element sub-system identified. c. occurrence time and date. d. alarm criticality and severity level. e. description. f. probable cause. g. alarm state ( pending, acknowledged or terminated ) \" the scc fault management system shall include a alarm log file the scc alarm log file shall be maintained for a minimum period of tbd months \" the alarms shall be classified in the following categories according to its criticality : a. critical. b. major. c. minor. d. warning. e. indeterminate \" the alarms shall be classified according to the following states : pending, acknowledged and terminated the scc shall support alarm filtering and sorting according to several criteria the scc shall support alarm clearing for terminated and acknowledged alarms the scc shall maintain a history file of cleared and acknowledged events and alarms the scc shall support the display of current and historical spacecraft status",
+            "chunk": 13,
+            "model": "AlBERT",
+            "score": 33.6181
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 13,
+            "model": "TagOp"
+         },
+         {
+            "answer": "performance historical data files satellite operation center",
+            "chunk": 14,
+            "model": "AlBERT",
+            "score": 34.2961
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 14,
+            "model": "TagOp"
+         },
+         {
+            "answer": "",
+            "chunk": 15,
+            "model": "AlBERT",
+            "score": 51.8611
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 15,
+            "model": "TagOp"
+         },
+         {
+            "answer": "a. orbital parameter database",
+            "chunk": 16,
+            "model": "AlBERT",
+            "score": 48.1615
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 16,
+            "model": "TagOp"
+         },
+         {
+            "answer": "",
+            "chunk": 17,
+            "model": "AlBERT",
+            "score": 77.8563
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 17,
+            "model": "TagOp"
+         },
+         {
+            "answer": "",
+            "chunk": 18,
+            "model": "AlBERT",
+            "score": 68.8010
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 18,
+            "model": "TagOp"
+         }
+      ],
+      "class": 1,
+      "id": "que_6",
+      "question": "What will the satellite database consisting ?"
+   }
+}

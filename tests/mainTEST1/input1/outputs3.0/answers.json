@@ -1,0 +1,5797 @@
+{
+  "que_0": {
+    "question": "What is the name of the satellite from Estonia?",
+    "id": "que_0",
+    "class": 0,
+    "answers": [
+      {
+        "answer": "AAUSat-3",
+        "score": 11.967117309570312,
+        "chunk": 0,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Advanced Orion 5 (NRO L-32, USA 223)",
+        "score": 28.066797256469727,
+        "chunk": 1,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "AGILE (Astro-rivelatore Gamma a Immagini Leggaro)",
+        "score": 4.589176654815674,
+        "chunk": 2,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Akebono (EXOS-D)",
+        "score": 10.288186073303223,
+        "chunk": 3,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "AMC-11 (Americom-11, GE 11)",
+        "score": 3.1662840843200684,
+        "chunk": 4,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "AMC-6 (Americom-6, GE-6)",
+        "score": 0.2941250801086426,
+        "chunk": 5,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Anik F1 ",
+        "score": 15.646323204040527,
+        "chunk": 6,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "",
+        "score": -0.47064208984375,
+        "chunk": 7,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "",
+        "score": -0.9863042831420898,
+        "chunk": 8,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Astra 1L",
+        "score": 24.846750259399414,
+        "chunk": 9,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Astra 3B",
+        "score": 0.6175954341888428,
+        "chunk": 10,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Brazilsat B-3 (Brasilsat B-3)",
+        "score": 5.457268714904785,
+        "chunk": 11,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "BSAT-3A",
+        "score": 3.949718475341797,
+        "chunk": 12,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Can-X2 (Canadian Advanced Nanospace experiment)",
+        "score": 0.2703801393508911,
+        "chunk": 13,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "CFESat (Cibola Flight Experiment Satellite)",
+        "score": 2.011791467666626,
+        "chunk": 14,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Ciel-2",
+        "score": 7.661331653594971,
+        "chunk": 15,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Compass G-3 (Beidou G3)",
+        "score": 11.568620681762695,
+        "chunk": 16,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "COMSATBw-1 (COmmunications SATellite f\ufffdr BundesWehr)",
+        "score": 0.3440124988555908,
+        "chunk": 17,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "COSMIC-A (Formosat-3A, Constellation Observing System for Meteorology, Ionosphere and Climate)",
+        "score": 19.32168197631836,
+        "chunk": 18,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "COSMO-Skymed 4 (Constellation of small Satellites for Mediterranean basin Observation)",
+        "score": 35.49551010131836,
+        "chunk": 19,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "DirecTV-1R ",
+        "score": 5.455231666564941,
+        "chunk": 20,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "DirecTV-4S ",
+        "score": 20.852252960205078,
+        "chunk": 21,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "DMSP 5D-3 F18 (Defense Meteorological Satellites Program, USA 210)",
+        "score": 0.5876653790473938,
+        "chunk": 22,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "DubaiSat-1",
+        "score": 17.87574005126953,
+        "chunk": 23,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "DubaiSat-2",
+        "score": 11.321165084838867,
+        "chunk": 24,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "ELISA-E12 (ELectronic Intelligence by SAtellite)",
+        "score": 23.904001235961914,
+        "chunk": 25,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "ELISA-E24 (ELectronic Intelligence by SAtellite)",
+        "score": 20.04624366760254,
+        "chunk": 26,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "EstCube-1",
+        "score": 112.50678253173828,
+        "chunk": 27,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Eutelsat 25B (Es\ufffdhail 1)",
+        "score": 12.931838989257812,
+        "chunk": 28,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Eutelsat 48A (Eutelsat W-48, Eurobird 9, Hot Bird 2, Eutelsat 2-F8, Eutelsat HB2)",
+        "score": 10.10186767578125,
+        "chunk": 29,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Eutelsat 9A (Eurobird 9A, Hot Bird 7A)",
+        "score": 7.628567218780518,
+        "chunk": 30,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Express-A1R (Express 4A, Ekspress-A No. 4)",
+        "score": 22.853404998779297,
+        "chunk": 31,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "",
+        "score": -2.722170829772949,
+        "chunk": 32,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "FUNCube-1 (AO-73)",
+        "score": 7.005446910858154,
+        "chunk": 33,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Galaxy-11",
+        "score": 19.295761108398438,
+        "chunk": 34,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "GATOSS (Global Air Traffic Awareness and Optimizing through Spaceborne Surveillance)",
+        "score": 6.6765265464782715,
+        "chunk": 35,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Genesis-2",
+        "score": 31.151159286499023,
+        "chunk": 36,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Globalstar M037 (Globalstar 16)",
+        "score": 36.96161651611328,
+        "chunk": 37,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Globalstar M072 (Globalstar 72)",
+        "score": 38.101139068603516,
+        "chunk": 38,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Globalstar M083 (Globalstar 83, Globalstar 2-7)",
+        "score": 40.028045654296875,
+        "chunk": 39,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Glonass 701 (Glonass-K, Cosmos 2471)",
+        "score": 5.834100246429443,
+        "chunk": 40,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Glonass 721 (Glonass 37-1, Cosmos 2434)",
+        "score": 37.50175094604492,
+        "chunk": 41,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Glonass 733 (Glonass 41-2, Cosmos 2457)",
+        "score": 38.57024002075195,
+        "chunk": 42,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Glonass 747 (Glonass-M, Cosmos 2485)",
+        "score": 2.5399668216705322,
+        "chunk": 43,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Gonets M-12",
+        "score": 36.64923095703125,
+        "chunk": 44,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Grace 2 (Gravity Recovery and Climate Experiment, \"Tom and Jerry\")",
+        "score": 28.588031768798828,
+        "chunk": 45,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Helios 2A ",
+        "score": 6.962505340576172,
+        "chunk": 46,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Hispasat 1D ",
+        "score": 6.26807165145874,
+        "chunk": 47,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Hubble Space Telescope (HST, Space Telescope)",
+        "score": 13.371597290039062,
+        "chunk": 48,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "IGS-8A (Information Gathering Satellite 8A, IGS Radar 4)",
+        "score": 22.98402214050293,
+        "chunk": 49,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Integral (INTErnational Gamma-Ray Astrophysics Laboratory)",
+        "score": 12.437224388122559,
+        "chunk": 50,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Intelsat 10 (PAS-10)",
+        "score": 24.948074340820312,
+        "chunk": 51,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Intelsat 21 (IS-21)",
+        "score": 38.167884826660156,
+        "chunk": 52,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Intelsat 706 ",
+        "score": 35.74534225463867,
+        "chunk": 53,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Intelsat New Dawn",
+        "score": 7.34217643737793,
+        "chunk": 54,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Iridium 18 (Iridium SV018)",
+        "score": 52.62322998046875,
+        "chunk": 55,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Iridium 31 (Iridium SVO31)",
+        "score": 52.41905975341797,
+        "chunk": 56,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Iridium 45 (Iridium SV045)",
+        "score": 53.86754608154297,
+        "chunk": 57,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Iridium 56 (Iridium SV056)",
+        "score": 49.74763870239258,
+        "chunk": 58,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Iridium 66 (Iridium SV066)",
+        "score": 52.412906646728516,
+        "chunk": 59,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Iridium 8 (Iridium SV008)",
+        "score": 53.37535095214844,
+        "chunk": 60,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Iridium 95 (Iridium SV095)",
+        "score": 11.337797164916992,
+        "chunk": 61,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "JCSat 10 (Japan Communications Satellite 10, JCSat 3A)",
+        "score": 4.279354095458984,
+        "chunk": 62,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Kalpana-1 (Metsat-1)",
+        "score": 32.26969909667969,
+        "chunk": 63,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Kondor",
+        "score": 3.3378429412841797,
+        "chunk": 64,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Koreasat 5 (Mugungwha 5)",
+        "score": 0.14752107858657837,
+        "chunk": 65,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Lotos-S (Cosmos 2455)",
+        "score": 0.6102657318115234,
+        "chunk": 66,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Megha-Tropiques",
+        "score": 1.5577983856201172,
+        "chunk": 67,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Meteosat 10 (MSGalaxy-3,MSG 3)",
+        "score": 10.034502983093262,
+        "chunk": 68,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "MKA-FKI-1 (Zond PP)",
+        "score": 8.029154777526855,
+        "chunk": 69,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "MTI (Multispectral Thermal Imager)",
+        "score": 12.099916458129883,
+        "chunk": 70,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Navstar GPS II-14 (Navstar SVN 26, PRN 26, USA 83)",
+        "score": 30.5222225189209,
+        "chunk": 71,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Navstar GPS IIF-3 (Navstar SVN 65, USA 239)",
+        "score": 26.879547119140625,
+        "chunk": 72,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Navstar GPS IIR-3 (Navstar SVN 46, PRN 11, USA 145)",
+        "score": 25.33014678955078,
+        "chunk": 73,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Navstar GPS IIR-M-3 (Navstar SVN 58, PRN 12, USA 192)",
+        "score": 8.5235595703125,
+        "chunk": 74,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Nilesat 102 ",
+        "score": 2.0350916385650635,
+        "chunk": 75,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "NSS-10 (AMC-12, Americom 12, Worldsat 2)",
+        "score": 11.210958480834961,
+        "chunk": 76,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "NSS-9",
+        "score": 32.45792007446289,
+        "chunk": 77,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Odin ",
+        "score": 20.403255462646484,
+        "chunk": 78,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Optus D1 ",
+        "score": 30.44723892211914,
+        "chunk": 79,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "ORBCOMM FM-19 (ORBCOMM B7)",
+        "score": 30.164941787719727,
+        "chunk": 80,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "ORBCOMM FM-5 (ORBCOMM A6)",
+        "score": 35.55746841430664,
+        "chunk": 81,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "\ufffdrsted ",
+        "score": 0.04959297180175781,
+        "chunk": 82,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Parus-92 (Cosmos 2378)",
+        "score": 22.577373504638672,
+        "chunk": 83,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Proba 1 (Project for On-Board Autonomy)",
+        "score": 3.8950514793395996,
+        "chunk": 84,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Proba 2 (Project for On-Board Autonomy)",
+        "score": 42.512542724609375,
+        "chunk": 85,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "",
+        "score": -0.6374341249465942,
+        "chunk": 86,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Rapid Pathfinder Program (NROL-66, USA 225)",
+        "score": 30.43208885192871,
+        "chunk": 87,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Rodnik (Cosmos 2438, Strela 3M), Rodnik (Cosmos 2439, Strela 3M)",
+        "score": 0.8734495043754578,
+        "chunk": 88,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Rodnik (Cosmos 2451, Strela 3M)",
+        "score": 37.75910949707031,
+        "chunk": 89,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Rodnik (Cosmos 2496, Strela 3M)",
+        "score": 3.0566587448120117,
+        "chunk": 90,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Sapphire (Space Surveillance Mission of Canada)",
+        "score": 16.26592445373535,
+        "chunk": 91,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Saudicomsat-1",
+        "score": 23.488054275512695,
+        "chunk": 92,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "SBIRS GEO 2 (Space Based Infrared System Geosynchronous 2, USA 241)",
+        "score": 2.5087151527404785,
+        "chunk": 93,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "SB-WASS 3-3 (Space Based Wide Area Surveillance System) (NOSS 3-3, USA 181, NRO L23) ",
+        "score": 19.13147735595703,
+        "chunk": 94,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "SCD-1 (Sat\ufffdlite de Coleta de Dados)",
+        "score": 7.067781925201416,
+        "chunk": 95,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "SDS-4 (Small Demonstration Satellite-4)",
+        "score": 5.5911149978637695,
+        "chunk": 96,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "SES-8",
+        "score": 42.217552185058594,
+        "chunk": 97,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Shijian 16 (SJ-16)",
+        "score": 9.856565475463867,
+        "chunk": 98,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Shijian 6G (SJ6-04A)",
+        "score": 6.224640846252441,
+        "chunk": 99,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Sirius 1 (SD Radio 1)",
+        "score": 4.423437595367432,
+        "chunk": 100,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Sirius 2 (SD Radio 2)",
+        "score": 15.098133087158203,
+        "chunk": 101,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Skynet 5C",
+        "score": 24.899747848510742,
+        "chunk": 102,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "SNaP-3-1\ufffd\ufffd(Space and Missile Defense Command NanoSat Program)",
+        "score": 9.380706787109375,
+        "chunk": 103,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Spot 5 (Syst\ufffdme Probatoire d\ufffdObservation de la Terre)",
+        "score": 10.400167465209961,
+        "chunk": 104,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "STRaND-1 (Surrey Training, Research and Nanosatellite Demonstrator 1)",
+        "score": 8.811675071716309,
+        "chunk": 105,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Strela 3 (Cosmos 2400)",
+        "score": 10.8683500289917,
+        "chunk": 106,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "STUDSat (Student Satellite)",
+        "score": 12.329278945922852,
+        "chunk": 107,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Syracuse 3B (Systeme de Radio Communications Utilisant un Satellite)",
+        "score": 8.383210182189941,
+        "chunk": 108,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "TDRS-5 (Tracking and Data Relay Satellite, TDRS-E)",
+        "score": 26.73735809326172,
+        "chunk": 109,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "",
+        "score": -0.1251220703125,
+        "chunk": 110,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Thor-5 (Thor 2R)",
+        "score": 9.584548950195312,
+        "chunk": 111,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Tiangong-1 (TG-1)",
+        "score": 14.86854362487793,
+        "chunk": 112,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Turksat 3A",
+        "score": 8.529605865478516,
+        "chunk": 113,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "UKube-1 (UK Cubesat 1)",
+        "score": 4.410308361053467,
+        "chunk": 114,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Unisat-3 (University Satellite 3)",
+        "score": 7.082563400268555,
+        "chunk": 115,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "",
+        "score": -0.07886719703674316,
+        "chunk": 116,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Wren",
+        "score": 16.531702041625977,
+        "chunk": 117,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "XM Radio 3 (Rhythm)",
+        "score": 4.606482028961182,
+        "chunk": 118,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Yahsat-1A (Y1A)",
+        "score": 7.638433933258057,
+        "chunk": 119,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Yaogan 14 (Remote Sensing Satellite 14)",
+        "score": 19.580564498901367,
+        "chunk": 120,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Yaogan 17C (Remote Sensing Satellite 17C)",
+        "score": 11.023250579833984,
+        "chunk": 121,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Yaogan 6 (Remote Sensing Satellite 6, Jian Bing 7-A)",
+        "score": 3.1662380695343018,
+        "chunk": 122,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Zhongxing 10 (XZ-10, Chinasat 10)",
+        "score": 1.8945670127868652,
+        "chunk": 123,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Zhongxing 20A ",
+        "score": 2.865185499191284,
+        "chunk": 124,
+        "model": "TaPaS"
+      }
+    ]
+  },
+  "que_1": {
+    "question": "What are the names of the satellites from India?",
+    "id": "que_1",
+    "class": 0,
+    "answers": [
+      {
+        "answer": "AAUSat-3, ABS-2 (Koreasat-8, ST-3), ABS-3 (Agila 2, Mabuhay 1), ABS-4 (ABS-2i, MBSat, Mobile Broadcasting Satellite, Han Byul), ABS-6 (ABS-1, LMI-1, Lockheed Martin-Intersputnik-1), ABS-7 (Koreasat 3, Mugungwha 3), AcrimSat (Active Cavity Radiometer Irradiance Monitor), Advanced Orion 2 (NROL 6, USA 139), Advanced Orion 3 (NROL 19, USA 171), Advanced Orion 4 (NRO L-26, USA 202)",
+        "score": 92.00596618652344,
+        "chunk": 0,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Advanced Orion 5 (NRO L-32, USA 223), Advanced Orion 6 (NRO L-15, USA 237), AEHF-1 (Advanced Extremely High Frequency satellite-1, USA 214), AEHF-2 (Advanced Extremely High Frequency satellite-2, USA 235), AEHF-3 (Advanced Extremely High Frequency satellite-3, USA 246), Aeneas, Aerocube 4.5A, Aerocube 4.5B, Aerocube 5A, Aerocube 5B, Aerocube 6A",
+        "score": 89.53026580810547,
+        "chunk": 1,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Aerocube 6B, Afghansat-1 (Eutelsat 28B, Eutelsat 48B, Eutelsat W2M), Afristar , AGILE (Astro-rivelatore Gamma a Immagini Leggaro), AIM (Aeronomy of Ice in Mesosphere), AISat-1, AISSat-1 (Automatic Identification System Satellite-1), AISSat-2 (Automatic Identification System Satellite-2), AIST-1, AIST-2",
+        "score": 133.259765625,
+        "chunk": 2,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Akebono (EXOS-D), ALiCE\ufffd\ufffd(AFIT LEO iMESA CNT E), Alphasat I-XL\ufffd\ufffd(Inmarsat IV-A F4), Alsat-2A (Algeria Satellite 2A), Amazonas-1 , Amazonas-2, Amazonas-3, Amazonas-4A, AMC-1 (Americom 1, GE-1), AMC-10 (Americom-10, GE 10)",
+        "score": 123.1959457397461,
+        "chunk": 3,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "AMC-11 (Americom-11, GE 11), AMC-15 (Americom-15), AMC-16 (Americom-16), AMC-18 (Americom 18), AMC-2 (Americom 2, GE-2), AMC-21 (Americom 21), AMC-3 (Americom 3, GE-3), AMC-4 (Americom-4, GE-4), AMC-5 (Americom-5, GE-5)",
+        "score": 96.745361328125,
+        "chunk": 4,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "AMC-6 (Americom-6, GE-6), AMC-7 (Americom-7, GE-7), AMC-8 (Americom-8, GE-8, Aurora 3), AMC-9 (Americom 9, GE-12), Amos 2 , Amos 3, Amos 5, Amsat-Oscar 7 (AO-7), Angels (Automated Navigation and Guidance Experiment for Local Space, USA 255)",
+        "score": 56.633487701416016,
+        "chunk": 5,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Anik F1 , Anik F1R, Anik F2 , Anik F3, Anik G1, AntelSat, AprizeSat 1 (LatinSat-C), AprizeSat 10, AprizeSat 2 (LatinSat-D), AprizeSat 3, AprizeSat 4, AprizeSat 8",
+        "score": 156.05404663085938,
+        "chunk": 6,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "AprizeSat 9, Apstar 1, Apstar 1A, Apstar 6, Apstar 7, Arabsat 5C, Arabsat 7F (Nimiq 1) , Ardusat-1, Artemis (Advanced Data Relay and Technology Mission Satellite) , AsiaSat-3S (Asiasat 3SA)",
+        "score": 93.2017593383789,
+        "chunk": 7,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "AsiaSat-4 , AsiaSat-5, AsiaSat-7",
+        "score": 113.62275695800781,
+        "chunk": 8,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Astra 1L, Astra 1M, Astra 1N, Astra 2A , Astra 2B , Astra 2C , Astra 2D, Astra 2E, Astra 2F, Astra 3A ",
+        "score": 64.09992980957031,
+        "chunk": 9,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Astra 3B, Astra 5B, Athena-Fidus\ufffd\ufffd(Access on THeatres for European Nations Allied forces - French Italian Dual Use Satellite), Aurora\ufffd\ufffd(Tabletsat-2U-EO), Azerspace/Africasat-1a (Azersat-1), Badr 2 (Badr B), Badr 4 (Arabsat 4B), Badr 5 (Arabsat 5B), Badr 5A (Arabsat 5A), Badr 6 (Arabsat 4AR)",
+        "score": 133.36354064941406,
+        "chunk": 10,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "BeeSat-1 (Berlin Experimental and Educational Satellite 1), BeeSat-2 (Berlin Experimental and Educational Satellite 2), BeeSat-3 (Berlin Experimental and Educational Satellite 3), BeijinGalaxy-1 (Beijing 1 [Tsinghua], Tsinghau-2, China DMC+4), Bird 2 (Bispectral InfraRed Detector 2), BKA (BelKA 2), Bonum 1 (Most 1), Brazilsat B-2 (Brasilsat B-2), Brazilsat B-3 (Brasilsat B-3)",
+        "score": 128.60569763183594,
+        "chunk": 11,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Brazilsat B-4 (Brasilsat B-4), BRITE-CA-1 (BRITE Toronto), BRITE-PL-1 (BRIght-star Target Explorer - Poland), BSAT-3A, BSAT-3B, BSAT-3C/JCSat 110-R, Bugsat-1 (Tita), C/NOFS (Communication/Navigation Outage Forecasting System), Calipso (Cloud-Aerosol Lidar and Infrared Pathfinder Satellite Observation), Canopus-B\ufffd(Kanopus Vulcan 1)\ufffd",
+        "score": 110.68563079833984,
+        "chunk": 12,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "CartoSat 1 (IRS P5), CartoSat 2 (IRS P7, CartoSat 2AT), CartoSat 2A",
+        "score": 82.60320281982422,
+        "chunk": 13,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "CartoSat 2B",
+        "score": 144.70228576660156,
+        "chunk": 14,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Ciel-2, CINEMA-1 (Cubesat for Ion, Neutral, Electron, Magnetic fields), CINEMA-2 (Cubesat for Ion, Neutral, Electron, Magnetic fields), CINEMA-3 (Cubesat for Ion, Neutral, Electron, Magnetic fields), Cloudsat, Compass G-1 (Beidou G1), Compass G-10 (Beidou ISGO-5), Compass G-11 (Beidou G5)",
+        "score": 117.16310119628906,
+        "chunk": 15,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Compass G-3 (Beidou G3), Compass G-4 (Beidou G4), Compass G-5 (Beidou IGSO-1), Compass G-6 (Beidou 2-16), Compass G-7 (Beidou IGSO-2), Compass G-8 (Beidou IGSO-3), Compass G-9 (Beidou ISGO-4), Compass M1 (Beidou M1)",
+        "score": 139.43466186523438,
+        "chunk": 16,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Compass M3 (Beidou 2-12), Compass M4 (Beidou 2-13), Compass M5 (Beidou 2-14), Compass M6 (Beidou 2-15), COMS-1 (Communication, Ocean and Meteorological Satellite; Cheollian), COMSATBw-1 (COmmunications SATellite f\ufffdr BundesWehr), COMSATBw-2 (COmmunications SATellite f\ufffdr BundesWehr), Coriolis (Windsat)",
+        "score": 130.738037109375,
+        "chunk": 17,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "COSMIC-A (Formosat-3A, Constellation Observing System for Meteorology, Ionosphere and Climate), COSMIC-B (Formosat-3B, Constellation Observing System for Meteorology, Ionosphere and Climate), COSMIC-D (Formosat-3D, Constellation Observing System for Meteorology, Ionosphere and Climate), COSMIC-E (Formosat-3E, Constellation Observing System for Meteorology, Ionosphere and Climate), COSMIC-F (Formosat-3F, Constellation Observing System for Meteorology, Ionosphere and Climate), COSMO-Skymed 1 (Constellation of small Satellites for Mediterranean basin Observation), COSMO-Skymed 2 (Constellation of small Satellites for Mediterranean basin Observation), COSMO-Skymed 3 (Constellation of small Satellites for Mediterranean basin Observation)",
+        "score": 90.11225891113281,
+        "chunk": 18,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "COSMO-Skymed 4 (Constellation of small Satellites for Mediterranean basin Observation), Cryosat-2 , Cubebug 1\ufffd\ufffd(Capit\ufffdn Beto), Cubebug 2 (Manolito, LO-74), Cubesat XI-IV (Oscar 57, CO-57), Cubesat XI-V (Oscar 58, CO-58), CUNYSat-1\ufffd\ufffd(City University of New York Satellite-1), CUSat-1 (Cornell University Satellite 1), Cute-1 (Cubical Titech Engineering satellite, Oscar 55, CO-55), Cute-1.7 + APD II (Cubical Titech Engineering satellite+Avalanche Photodiode)",
+        "score": 101.9793472290039,
+        "chunk": 19,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Daichi-2 (Advanced Land Observing Satellite-2, ALOS 2 2), Daichi-2 (ALOS -2, Advanced Land Observing Satellite-2), DANDE (Drag and Atmospheric Neutral Density Explorer), Deimos 1, Deimos 2 , Delfi-C3 (DO-64), DirecTV-10, DirecTV-11, DirecTV-12, DirecTV-1R ",
+        "score": 47.08821105957031,
+        "chunk": 20,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "DirecTV-4S , DLR Tubsat ",
+        "score": 16.40335464477539,
+        "chunk": 21,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "DMSP 5D-3 F18 (Defense Meteorological Satellites Program, USA 210), DMSP 5D-3 F19 (Defense Meteorological Satellites Program, USA 249), Dove-2, Dove-3, Dove-4, DRTS (Data Relay Test Satellite, Kodama), DSCS III-A3 (USA 167, DSCS III-A3) (Defense Satellite Communications System), DSCS III-B6 (USA 170, DSCS III B-6) (Defense Satellite Communications System), DSCS III-F10 (USA 135, DSCS III B-13) (Defense Satellite Communications System)",
+        "score": 63.87236022949219,
+        "chunk": 22,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "DSCS III-F11 (USA 148, DSCS III B-8) (Defense Satellite Communications System), DSCS III-F12 (USA 153, DSCS III B-11) (Defense Satellite Communications System), DSCS III-F6 (USA 82, DSCS III B-12) (Defense Satellite Communications System), DSCS III-F8 (USA 97, DSCS III B-10) (Defense Satellite Communications System), DSCS III-F9 (USA 113, DSCS III B-7) (Defense Satellite Communications System), DSP 18 (USA 130) (Defense Support Program), DSP 20 (USA 149) (Defense Support Program), DSP 21 (USA 159) (Defense Support Program), DSP 22 (USA 176) (Defense Support Program), DubaiSat-1",
+        "score": 78.52497100830078,
+        "chunk": 23,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "DubaiSat-2, DX-1 (Dauria Experimental 1), Echostar 1 ",
+        "score": 52.763023376464844,
+        "chunk": 24,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Echostar 3 , Egyptsat-2 (Misrsat 2), Electro-L1 (GOMS 2 [Geostationary Ioperational Meteorological Satellite 2], ELISA-E12 (ELectronic Intelligence by SAtellite)",
+        "score": 43.5745964050293,
+        "chunk": 25,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "ELISA-E24 (ELectronic Intelligence by SAtellite), ELISA-W11 (ELectronic Intelligence by SAtellite), ELISA-W23 (ELectronic Intelligence by SAtellite), EO-1 (Earth Observing 1), EOS-AM Terra , EOS-CHEM Aura , EOS-PM Aqua (Advanced Microwave Scanning Radiometer for EOS, EOS PM-1), EROS A1 (Earth Resources Observation Satellite), EROS B1 (Earth Resources Observation Satellite), e-st@r",
+        "score": 110.45964813232422,
+        "chunk": 26,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "EstCube-1, Eurasiasat 1 (Turksat 2A), Europe*Star 1 (Intelsat 12, Europe*Star FM1, IS-12, PAS-12), Eutelsat 10A (Eutelsat W-2A), Eutelsat 12 West A (Atlantic Bird 1) , Eutelsat 16A (Eutelsat W3C), Eutelsat 16B (Eurobird 16, Atlantic Bird 4, Hot Bird 4) , Eutelsat 16C (SESAT-1, Siberia-Europe Satellite), Eutelsat 172A (GE-23, AMC-23, Worldsat 3, Americom 23)",
+        "score": 132.57479858398438,
+        "chunk": 27,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Eutelsat 25B (Es\ufffdhail 1), Eutelsat 25C (Eutelsat 70A, Eutelsat W-5) , Eutelsat 28A (Eurobird 1, Eurosat 1), Eutelsat 33A (Eurobird 3, E-bird) , Eutelsat 36A (Eutelsat W-4) , Eutelsat 36B (Eutelsat W-7), Eutelsat 3A (Sinosat-5C, Sinosat-3, Xinnuo 3, Chinasat-5C, XN-3), Eutelsat 3B, Eutelsat 3D ",
+        "score": 129.17237854003906,
+        "chunk": 28,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Eutelsat 48A (Eutelsat W-48, Eurobird 9, Hot Bird 2, Eutelsat 2-F8, Eutelsat HB2), Eutelsat 48B (Eutelsat 21B, Eutelsat W-6A), Eutelsat 48C (Eutelsat 21A, W-6, Eutelsat W-3), Eutelsat 5 West A (Atlantic Bird 3, Stellat 5), Eutelsat 7 West A (Atlantic Bird 7), Eutelsat 70B (Eutelsat W5A), Eutelsat 7A (Eutelsat W3A) , Eutelsat 8 West A (Atlantic Bird 2) , Eutelsat 8 West C (Eutelsat Hot Bird 13A, Hot Bird 6)",
+        "score": 144.58201599121094,
+        "chunk": 29,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Eutelsat 9A (Eurobird 9A, Hot Bird 7A), Eutelsat Hot Bird  13D (Eutelsat 3C, Hot Bird 10, Atlantic Bird 4A), Eutelsat Hot Bird 13B (Hot Bird 8), Eutelsat Hot Bird 13C (Hot Bird 9), Eutelsat KA-SAT 9A (KA-SAT), exactView 1, exactView 5 (AprizeSat 5), exactView5R, exactView6 (AprizeSat 6), Express AM22 (Sesat 2), Express-2A (Ekspress A No. 2)",
+        "score": 168.8777618408203,
+        "chunk": 30,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Express-A1R (Express 4A, Ekspress-A No. 4), Express-AM2, Express-AM3, Express-AM33, Express-AM44, Express-AM5, Express-AT1, Express-AT2, Falconsat-3, FAST 1 (Sara Lilly and Emma, USA 222), Fengniao 1 (Hummingbird 1)",
+        "score": 99.69342041015625,
+        "chunk": 31,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Fengniao 1A (Hummingbird 1A), Fengyun 2D (FY-2D), Fengyun 2E (FY-2E), Fengyun 2F (FY-2F), Fengyun 3A (FY-3A), Fengyun 3B (FY-3B), Fengyun 3C (FY-3C), Fermi Gamma-Ray Space Telescope (formerly GLAST), FIA Radar 1 (Future Imagery Architecture (FIA) Radar 1, NROL-41, USA 215, Topaz)",
+        "score": 157.05555725097656,
+        "chunk": 32,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "FIA Radar 2 (Future Imagery Architecture (FIA) Radar 2, NROL-25, USA 234, Topaz), FIA Radar 3 (Future Imagery Architecture (FIA) Radar 3, NROL-39 , USA 247, Topaz), Firebird-A (Focused Investigations of Relativistic Electron Burst, Intensity, Range, and Dynamics), Firebird-B (Focused Investigations of Relativistic Electron Burst, Intensity, Range, and Dynamics), Firefly, FLTSATCOM-8 (USA 46), Formosat-2 (ROCSAT-2, Republic of China Satellite 2) , FORT\ufffd (Fast On-orbit Recording of Transient Events), FUNCube-1 (AO-73)",
+        "score": 139.601318359375,
+        "chunk": 33,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Galaxy-11, Galaxy-12, Galaxy-13 (Horizons 1, Galaxy 13L), Galaxy-14, Galaxy-15, Galaxy-16 , Galaxy-17, Galaxy-18, Galaxy-19, Galaxy-25 (G-25, Intelsat 1A-5, Telstar 5), Galaxy-27 (G-27, Intelsat IA-7, Telstar 7)",
+        "score": 80.34148406982422,
+        "chunk": 34,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Galaxy-28 (G-28, Intelsat IA-8, Telstar 8), Galaxy-3C, Galileo IOV-1 FM2, Galileo IOV-1 PFM, Galileo IOV-2 FM3, Galileo IOV-2 FM4, Gaofen 1, Garpun-1 (Cosmos 2473), Garuda-1 (Aces 1), GATOSS (Global Air Traffic Awareness and Optimizing through Spaceborne Surveillance), Genesis-1",
+        "score": 97.91939544677734,
+        "chunk": 35,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Genesis-2, GeoEye-1 (Orbview 5), Geotail (Geomagnetic Tail Laboratory), Global Change Observation Mission - 1 Water (GCOM-1, Shikuzu), Globalstar M004 (Globalstar 4), Globalstar M006 (Globalstar 6), Globalstar M023 (Globalstar 9), Globalstar M027 (Globalstar 34), Globalstar M028 (Globalstar 30), Globalstar M029 (Globalstar 47), Globalstar M031 (Globalstar 44)",
+        "score": 63.15318298339844,
+        "chunk": 36,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Globalstar M037 (Globalstar 16)",
+        "score": 56.93754959106445,
+        "chunk": 37,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Globalstar M072 (Globalstar 72), Globalstar M073 (Globalstar 73, Globalstar 2-6), Globalstar M074 (Globalstar 74, Globalstar 2-2), Globalstar M075 (Globalstar 75, Globalstar 2-5), Globalstar M076 (Globalstar 76, Globalstar 2-3), Globalstar M077 (Globalstar 77, Globalstar 2-4), Globalstar M078 (Globalstar 95, Globalstar 2-23), Globalstar M079 (Globalstar 79, Globalstar 2-1), Globalstar M080 (Globalstar 80, Globalstar 2-14), Globalstar M081 (Globalstar 81, Globalstar 2-11), Globalstar M082 (Globalstar 82, Globalstar 2-15)",
+        "score": 96.39653778076172,
+        "chunk": 38,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Globalstar M083 (Globalstar 83, Globalstar 2-7), Globalstar M084 (Globalstar 84, Globalstar 2-13) , Globalstar M085 (Globalstar 85, Globalstar 2-10), Globalstar M086 (Globalstar 86, Globalstar 2-18), Globalstar M088 (Globalstar 88, Globalstar 2-8), Globalstar M089 (Globalstar 89, Globalstar 2-12), Globalstar M090 (Globalstar 90, Globalstar 2-17), Globalstar M091 (Globalstar 91, Globalstar 2-9), Globalstar M092 (Globalstar 92, Globalstar 2-16), Globalstar M093 (Globalstar 87, Globalstar 2-20), Globalstar M094 (Globalstar 93, Globalstar 2-21)",
+        "score": 87.87458801269531,
+        "chunk": 39,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Globalstar M095 (Globalstar 96, Globalstar 2-24), Globalstar M096 (Globalstar 94, Globalstar 2-22), Globalstar M097 (Globalstar 78, Globalstar 2-19), Glonass 701 (Glonass-K, Cosmos 2471), Glonass 712 (Glonass M, Cosmos 2413), Glonass 714 (Cosmos 2419), Glonass 715 (Glonass 35-1, Cosmos 2424), Glonass 716 (Glonass 35-2, Cosmos 2425), Glonass 717 (Glonass 35-3, Cosmos 2426), Glonass 719 (Glonass 36-2, Cosmos 2432), Glonass 720 (Glonass 36-3, Cosmos 2433)",
+        "score": 146.7766876220703,
+        "chunk": 40,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Glonass 721 (Glonass 37-1, Cosmos 2434), Glonass 722 (Glonass 37-2, Cosmos 2435), Glonass 723 (Glonass 37-3, Cosmos 2436), Glonass 724 (Glonass 38-1, Cosmos 2442), Glonass 725 (Glonass 38-2, Cosmos 2443), Glonass 726 (Glonass 38-3, Cosmos 2444), Glonass 727 (Glonass 39-1, Cosmos 2447), Glonass 729 (Glonass 39-3, Cosmos 2449), Glonass 730 (Glonass 41-1, Cosmos 2456), Glonass 731 (Glonass 42-1, Cosmos 2459), Glonass 732 (Glonass 42-3, Cosmos 2460)",
+        "score": 162.07275390625,
+        "chunk": 41,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Glonass 733 (Glonass 41-2, Cosmos 2457), Glonass 734 (Glonass 41-3, Cosmos 2458), Glonass 735 (Glonass 42-2, Cosmos 2461), Glonass 736 (Glonass 43-1, Cosmos 2464), Glonass 737 (Glonass 43-2, Cosmos 2465), Glonass 738 (Glonass 43-3, Cosmos 2466), Glonass 742 (Glonass-M, Cosmos 2474), Glonass 743 (Glonass 44-2, Cosmos 2476), Glonass 744 (Glonass 44-3, Cosmos 2477), Glonass 745 (Glonass 44-1, Cosmos 2475), Glonass 746 (Glonass-M, Cosmos 2478)",
+        "score": 154.18472290039062,
+        "chunk": 42,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Glonass 747 (Glonass-M, Cosmos 2485), Glonass 754 (Glonass-M, Cosmos 2491), Glonass 755 (Glonass-M, Cosmos 2500), Gonets D1-2",
+        "score": 106.41316986083984,
+        "chunk": 43,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Gonets M-12, Gonets M-13, Gonets M-14, Gonets M-15, Gonets M-16, Gonets M-17, Gonets M-18, Gonets M-19, Gonets M-20, GPM Core Observatory (Global Precipitation Measurement), Grace 1 (Gravity Recovery and Climate Experiment, \"Tom and Jerry\")",
+        "score": 76.84864807128906,
+        "chunk": 44,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "GSAT-10, GSAT-12, GSAT-14, GSAT-2, GSAT-7, GSAT-8",
+        "score": 67.20268249511719,
+        "chunk": 45,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "HAMSat (VUSat Oscar 52)",
+        "score": 100.69471740722656,
+        "chunk": 46,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Hispasat 1D , Hispasat 1E, HJ-1A (Huan Jing 1A), HJ-1B (Huan Jing 1B), HJ-1C (Huan Jing 1C), Hodoyoshi-3, Horizons 2, Horyu-2 (High Voltage Technology Demonstration Satellite-2)",
+        "score": 61.5078125,
+        "chunk": 47,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Hubble Space Telescope (HST, Space Telescope), HumSat-D, HYLAS 1 (Highly Adaptable Satellite), HYLAS 2 (Highly Adaptable Satellite), ICube, IGS-1A (Information Gathering Satellite 1A), IGS-3A (Information Gathering Satellite 3A), IGS-5A (Information Gathering Satellite 5A, IGS Optical 3), IGS-6A (Information Gathering Satellite 6A, IGS Optical 4), IGS-7A (Information Gathering Satellite 7A, IGS Radar 3)",
+        "score": 130.64231872558594,
+        "chunk": 48,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "IGS-8A (Information Gathering Satellite 8A, IGS Radar 4), IGS-8B (Information Gathering Satellite 8B, IGS Optical Demonstrator), Ikonos-2 , Improved Trumpet 4 (NROL-22, National Reconnaissance Office Launch-22, SBIRS HEO-1, Twins 1, USA 184), Improved Trumpet 5 (NROL-28, National Reconnaissance Office Launch-28, SBIRS HEO-2, Twins 2, USA 200), INMARSAT 3 F1 , INMARSAT 3 F2 , INMARSAT 3 F4 , INMARSAT 3 F5 , INMARSAT 4 F1",
+        "score": 64.31898498535156,
+        "chunk": 49,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "INSAT 3A (Indian National Satellite), INSAT 3C (Indian National Satellite), INSAT 3D (Indian National Satellite), INSAT 4A (Indian National Satellite), INSAT 4B (Indian National Satellite), INSAT 4CR (Indian National Satellite)",
+        "score": 59.04264831542969,
+        "chunk": 50,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Intelsat 10 (PAS-10)",
+        "score": 55.946998596191406,
+        "chunk": 51,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Intelsat 21 (IS-21)",
+        "score": 50.89728546142578,
+        "chunk": 52,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Intelsat 706 , Intelsat 8 (IS-8, PAS-8) , Intelsat 805 ",
+        "score": 56.912445068359375,
+        "chunk": 53,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Intelsat New Dawn, International Space Station (ISS [first element Zarya]), Interstellar Boundary EXplorer (IBEX), IPEX (Intelligent Payload Experiment, CalPoly 8), Iridium 10 (Iridium SV010), Iridium 11A (Iridium SVO88), Iridium 12 (Iridium SV012), Iridium 13 (Iridium SV013), Iridium 14A (Iridium SV092), Iridium 15 (Iridium SV015)",
+        "score": 110.73799133300781,
+        "chunk": 54,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Iridium 18 (Iridium SV018)",
+        "score": 70.98104858398438,
+        "chunk": 55,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Iridium 31 (Iridium SVO31)",
+        "score": 78.20684814453125,
+        "chunk": 56,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Iridium 45 (Iridium SV045)",
+        "score": 68.64769744873047,
+        "chunk": 57,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Iridium 56 (Iridium SV056)",
+        "score": 73.04364776611328,
+        "chunk": 58,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Iridium 66 (Iridium SV066)",
+        "score": 74.63926696777344,
+        "chunk": 59,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Iridium 8 (Iridium SV008)",
+        "score": 72.17459106445312,
+        "chunk": 60,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "IRNSS-1A (Indian Regional Navigation Satellite System), IRNSS-1B (Indian Regional Navigation Satellite System), IRS-P6 (Resourcesat-1) ",
+        "score": 52.71002197265625,
+        "chunk": 61,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Jugnu",
+        "score": 56.033607482910156,
+        "chunk": 62,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Kalpana-1 (Metsat-1)",
+        "score": 106.6546401977539,
+        "chunk": 63,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Keyhole 7 (NRO L65, Advanced KH-11, Improved Crystal, USA 245), Kiku-8 (ETS-8, Engineering Test Satellite 8), Kizuna (WINDS - Wideband InterNetworking engineering Demonstration Satellite), KKS-1 (Kouku Kousen Satellite One, Kiseki), Kobalt-M (Cosmos 2495), Kompsat-2 (Arirang 2, Korean planned Multipurpose Satellite-2), Kompsat-3 (Arirang 3, Korean Multipurpose Satellite-3), Kompsat-5 (Arirang 5, Korean Multipurpose Satellite-4), Kondor",
+        "score": 116.49756622314453,
+        "chunk": 64,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Koreasat 5 (Mugungwha 5), Koreasat 6 (Mugungwha 6), Kuaizhou-1 (KZ-1), Lacrosse/Onyx 3 (Lacrosse-3, USA 133), Lacrosse/Onyx 4 (Lacrosse-4, USA 152), Lacrosse/Onyx 5 (Lacrosse-5, NROL 16, USA 182), Landsat 7 , Landsat 8, LAPAN-Tubsat, LatinSat A, LatinSat B ",
+        "score": 99.16452026367188,
+        "chunk": 65,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Leasat 5 (Syncom IV-5, Leased Satellite F5), Lemur-1, Lotos-S (Cosmos 2455), Luch 5A, Luch 5B, Luch 5V, Maroc Tubsat , MaSat 1  (Magyar Satellite/Oscar 72) , M-Cubed/E1P-U2 (Michigan Multipurpose Minisat; Explorer 1 Prime - Unit 2 -  HRBE [William A. Hiscock Radiation Belt Explorer]), Measat 2 (Malaysia East Asia Sat 2)",
+        "score": 135.78868103027344,
+        "chunk": 66,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Megha-Tropiques",
+        "score": 76.14665222167969,
+        "chunk": 67,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Meteosat 10 (MSGalaxy-3,MSG 3), Meteosat 7 (MTP 1) , Meteosat 8 (MSGalaxy-1, MSG-1), Meteosat 9 (MSGalaxy-2, MSG 2), MetOp-A (Meteorological Operational satellite), MetOp-B (Meteorological Operational satellite), Mexsat-3 (Mexsat Bicentenario), Milstar DFS-1 (USA 99, Milstar 1-F1) (Military Strategic and Tactical Relay)",
+        "score": 123.97537994384766,
+        "chunk": 68,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Milstar DFS-2 (USA 115, Milstar 1-F2) (Military Strategic and Tactical Relay), Milstar DFS-4 (USA 157, Milstar 2-F2) (Military Strategic and Tactical Relay), Milstar DFS-5 (USA 164, Milstar 2-F3) (Military Strategic and Tactical Relay), Milstar DFS-6 (USA 169) (Military Strategic and Tactical Relay), MiR\ufffd\ufffd(Mikhail Reshetnev [MiR], Yubileiny-2/RS-40), MKA-FKI-1 (Zond PP), MOST (Microvariability & Oscillations of STars), Mozhayets 4 (RS-22), MSAT 1 , MSAT 2 (AMSC-1, ACTel-1)",
+        "score": 119.19084167480469,
+        "chunk": 69,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "MTI (Multispectral Thermal Imager), MTSAT-1R (Himawari 6), MTSAT-2 (Multi-Functional Transport Satellite), MUOS-1 (Mobile User Objective System 1), MUOS-2 (Mobile User Objective System 2), Nanosat-1, Nanosat-1B, NanosatC-Br1\ufffd, NATO 4-B (USA 98), Navstar GPS II-10 (Navstar SVN 23, PRN 32,  USA 66)",
+        "score": 109.50464630126953,
+        "chunk": 70,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Navstar GPS II-14 (Navstar SVN 26, PRN 26, USA 83), Navstar GPS II-21 (Navstar SVN 39, PRN 09, USA 92), Navstar GPS II-23 (Navstar SVN 34, PRN 04, USA 96), Navstar GPS II-24 (Navstar SVN 36, PRN 06, USA 100), Navstar GPS II-25 (Navstar SVN 33, PRN 03, USA 117), Navstar GPS II-26 (Navstar SVN 40, PRN 10, USA 126), Navstar GPS II-28 (Navstar SVN 38, PRN 08, USA 135), Navstar GPS II-35 (Navstar SVN 35, PRN 30, USA 94), Navstar GPS IIF-1 (Navstar SVN 62, PRN 25, USA 213), Navstar GPS IIF-2 (Navstar SVN 63, PRN 01, USA 232)",
+        "score": 158.1626434326172,
+        "chunk": 71,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Navstar GPS IIF-3 (Navstar SVN 65, USA 239), Navstar GPS IIF-4 (Navstar SVN 66, USA 242), Navstar GPS IIF-5 (Navstar SVN 64, USA 248), Navstar GPS IIF-6 (Navstar SVN 67, USA 251), Navstar GPS IIR-10 (Navstar SVN 47, PRN 22, USA 175), Navstar GPS IIR-11 (Navstar SVN 59, PRN 19, USA 177), Navstar GPS IIR-12 (Navstar SVN 60, PRN 23, USA 178), Navstar GPS IIR-13 (Navstar SVN 61, PRN 02, USA 180), Navstar GPS IIR-2 (Navstar SVN 43, PRN 13, USA 132)",
+        "score": 118.03340911865234,
+        "chunk": 72,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Navstar GPS IIR-3 (Navstar SVN 46, PRN 11, USA 145), Navstar GPS IIR-4 (Navstar SVN 51, PRN 20, USA 150), Navstar GPS IIR-5 (Navstar SVN 44, PRN 28, USA 151), Navstar GPS IIR-6 (Navstar SVN 41, PRN 14, USA 154), Navstar GPS IIR-7 (Navstar SVN 54, PRN 18, USA 156), Navstar GPS IIR-8 (Navstar SVN 56, PRN 16, USA 166), Navstar GPS IIR-9 (Navstar SVN 45, PRN 21, USA 168), Navstar GPS IIR-M-1 (Navstar SVN 53, PRN 17, USA 183), Navstar GPS IIR-M-2 (Navstar SVN 52, PRN 31, USA 190)",
+        "score": 134.1425018310547,
+        "chunk": 73,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Navstar GPS IIR-M-3 (Navstar SVN 58, PRN 12, USA 192), Navstar GPS IIR-M-4 (Navstar SVN 55, PRN 15, USA 196), Navstar GPS IIR-M-5 (Navstar SVN 57, PRN 29, USA 199), Navstar GPS IIR-M-6 (Navstar SVN 48, PRN 07, USA 201), Navstar GPS IIR-M-8 (Navstar SVN 50, PRN 05, USA 206), NEOSSat\ufffd(Near Earth Object Surveillance Satellite), NFIRE (Near Field InfraRed Experiment), NigComSat-1R, NigeriaSat-2, Nigeriasat-X",
+        "score": 153.83949279785156,
+        "chunk": 74,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Nilesat 102 , Nilesat 201, Nimiq 2 , Nimiq 4, Nimiq 5, Nimiq 6, NOAA-15 (NOAA-K), NOAA-18 (NOAA-N, COSPAS-SARSAT), NOAA-19 (NOAA-N Prime, COSPAS-SARSAT), NPP (National Polar-orbiting Operational Environmental Satellite System [NPOESS])",
+        "score": 146.53271484375,
+        "chunk": 75,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "NPS-SCAT\ufffd(Naval Post-graduate School - Solar Cell Array Tester), NSS-10 (AMC-12, Americom 12, Worldsat 2)",
+        "score": 19.491086959838867,
+        "chunk": 76,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "NSS-9, N-Star C , NuSTAR (Nuclear Spectroscopic Telescope Array), O/OREOS (Organism/Organic Exposure to Orbital Stresses, USA 219), O3b FM02, O3b FM03, O3b FM04, O3b FM05 (Other 3 Billion), O3b FM06, O3B FM07, O3B FM08, O3b PFM",
+        "score": 64.30091094970703,
+        "chunk": 77,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Oceansat-2",
+        "score": 125.41172790527344,
+        "chunk": 78,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Optus D1 , Optus D2, Optus D3, ORBCOMM FM-10 (ORBCOMM A2), ORBCOMM FM-11 (ORBCOMM A3), ORBCOMM FM-12 (ORBCOMM A4), ORBCOMM FM-13 (ORBCOMM B1), ORBCOMM FM-14 (ORBCOMM B2), ORBCOMM FM-15 (ORBCOMM B3), ORBCOMM FM-16 (ORBCOMM B4), ORBCOMM FM-18 (ORBCOMM B6)",
+        "score": 108.17073059082031,
+        "chunk": 79,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "ORBCOMM FM-19 (ORBCOMM B7)",
+        "score": 60.770721435546875,
+        "chunk": 80,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "ORBCOMM FM-5 (ORBCOMM A6)",
+        "score": 60.85734558105469,
+        "chunk": 81,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "ORS - Tech 2, ORS-1 (Operationally Responsive Space One, USA 231), ORSES (ORS Enabler Satellite), \ufffdrsted , Paksat-1R , Palapa C2 , Palapa D1, PAN-1 (Palladium at Night, P360, USA 207), PARASOL (Polarization and Anistropy of Reflectances for Atmospheric Science coupled with Observations from LIDAR), Parus-90 (Cosmos 2361), Parus-91 (Cosmos 2366)",
+        "score": 121.73902893066406,
+        "chunk": 82,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Parus-92 (Cosmos 2378), Parus-93 (Cosmos 2389), Parus-94 (Cosmos 2398), Parus-95 (Cosmos 2407), Parus-96 (Cosmos 2414), Parus-97 (Cosmos 2429), Parus-98 (Cosmos 2454), Parus-99 (Cosmos 2463), PCSat (Prototype Communications SATellite, Navy-Oscar 44, NO-44), Perseus M1, Perseus M2, Persona-2 (Cosmos 2486)",
+        "score": 135.02178955078125,
+        "chunk": 83,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Phonesat 2.4, Photon M4, Picard, PicoDragon, Pl\ufffdiades HR1A, Pl\ufffdiades HR1B, PolyITAN-1, Popsat-HIP, Prism (Pico-satellite for Remote-sensing and Innovative Space Missions, Hitomi), Proba 1 (Project for On-Board Autonomy)",
+        "score": 110.87158966064453,
+        "chunk": 84,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Proba 2 (Project for On-Board Autonomy), Proba V (Project for On-Board Autonomy)",
+        "score": 108.94283294677734,
+        "chunk": 85,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "QB50P1\ufffd(EO 79), QB50P2 (EO 80), QuetzSat-1, Quickbird 2, QZS-1 (Quazi-Zenith Satellite System, Michibiki), Radarsat-2 , Radio-ROSTO (RS-15, Radio Sputnik 15, Russian Defence, Sports and Technical Organization - ROSTO), Raduga 1-8 (Raduga 1-M1, Cosmos 2450), Raduga 1-M2 (Raduga 1-9), Raduga 1-M3 ",
+        "score": 124.82452392578125,
+        "chunk": 86,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Rapid Pathfinder Program (NROL-66, USA 225), RapidEye-1 (RapidEye-C), RapidEye-2 (RapidEye A), RapidEye-3 (RapidEye D), RapidEye-4 (RapidEye E), RapidEye-5 (RapidEye B), RASAT, Rascom-QAF 1R, RazakSat (MACSat), Reimei (Innovative Technology Demonstration Experiment Satellite - INDEX), Relek (ICA-FC1)",
+        "score": 100.933349609375,
+        "chunk": 87,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Resourcesat 2, RISat-1 (Radar Imaging Satellite 1), RISat-2 (Radar Imaging Satellite 2)",
+        "score": 48.53560256958008,
+        "chunk": 88,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Rodnik (Cosmos 2451, Strela 3M)",
+        "score": 66.54782104492188,
+        "chunk": 89,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Rodnik (Cosmos 2496, Strela 3M), Rodnik (Cosmos 2497, Strela 3M), Rodnik (Cosmos 2498, Strela 3M), Rumba (part of Cluster quartet, Cluster 2 FM5), SAC-C (Satellite for Scientific Applications), SAC-D (Satellite for Scientific Applications), Salsa (part of Cluster quartet, Cluster 2 FM6), Samba (part of Cluster quartet, Cluster 2 FM7)",
+        "score": 113.87022399902344,
+        "chunk": 90,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "SARAL (Satellite with ARGOS and ALTIKA)",
+        "score": 82.09368896484375,
+        "chunk": 91,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Saudicomsat-1, Saudicomsat-2 , Saudicomsat-3, Saudicomsat-4, Saudicomsat-5, Saudicomsat-6, Saudicomsat-7, Saudisat 1C (Oscar 50, SO 50), Saudisat-2 , Saudisat-3 ",
+        "score": 114.6158447265625,
+        "chunk": 92,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Saudisat-4, SBIRS GEO 1 (Space Based Infrared System Geosynchronous 1, USA 230), SBIRS GEO 2 (Space Based Infrared System Geosynchronous 2, USA 241), SBSS-1 (Space Based Space Surveillance Satellite, SBSS Block 10 SV1, USA 216), SB-WASS 3-1 (Space Based Wide Area Surveillance System) (NOSS 3-1, NOSS C1-1, USA 160), SB-WASS 3-1 (Space Based Wide Area Surveillance System) (NOSS 3-1,USA 160, NOSS C1-2) , SB-WASS 3-2 (Space Based Wide Area Surveillance System) (NOSS 3-2, USA 173, NOSS C2-1) , SB-WASS 3-2 (Space Based Wide Area Surveillance System) (NOSS 3-2, USA 173, NOSS C2-2) ",
+        "score": 103.5355224609375,
+        "chunk": 93,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "SB-WASS 3-3 (Space Based Wide Area Surveillance System) (NOSS 3-3, USA 181, NRO L23) , SB-WASS 3-3 (Space Based Wide Area Surveillance System) (NOSS 3-3, USA 181, NRO L28) , SB-WASS 3-4 (Space Based Wide Area Surveillance System) NOSS 3-4, USA 194, NRO L30), SB-WASS 3-4 (Space Based Wide Area Surveillance System) NOSS 3-4, USA 194, NRO L30), SB-WASS 3-5 (Space Based Wide Area Surveillance System) NOSS 3-5, USA 229, NRO L34), SB-WASS 3-5 (Space Based Wide Area Surveillance System) NOSS 3-5, USA 229, NRO L34), SB-WASS 3-6 (Space Based Wide Area Surveillance System) NOSS 3-6, USA 238, NRO L36), SB-WASS 3-6 (Space Based Wide Area Surveillance System) NOSS 3-6, USA 238, NRO L36)",
+        "score": 88.458984375,
+        "chunk": 94,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "SCD-1 (Sat\ufffdlite de Coleta de Dados), SCD-2 (Sat\ufffdlite de Coleta de Dados), Scisat-1 (Atmospheric Chemistry Experiment), SDO (Solar Dynamics Observatory), SDS III-4 (Satellite Data System) (NRO L-1, Nemesis, USA 179) , SDS III-5 (Satellite Data System) (NRO L-24, Scorpius, USA 198) , SDS III-6 (Satellite Data System) NRO L-27, Gryphon, USA 227), SDS III-7 (Satellite Data System) NRO L-38, Drake, USA 236), SDS III-8 (Satellite Data System) NRO L-33, USA 252)",
+        "score": 106.65550994873047,
+        "chunk": 95,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "SDS-4 (Small Demonstration Satellite-4), SEEDS 2, Sentinel 1A, SES-1 (AMC-4R), SES-2, SES-3, SES-4, SES-5 (Sirius 5, Astra 4B), SES-6, SES-7 (Protostar 2, Indostar 2)",
+        "score": 65.24575805664062,
+        "chunk": 96,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "SES-8, Shijian 11-01 (SJ-11-01), Shijian 11-02 (SJ-11-02), Shijian 11-03 (SJ-11-03), Shijian 11-05 (SJ-11-05), Shijian 11-06 (SJ-11-06), Shijian 12 (SJ-12), Shijian 15 (SJ-15)",
+        "score": 75.08099365234375,
+        "chunk": 97,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Shijian 16 (SJ-16), Shijian 6A (SJ-6A, Dong Fang Hong 60), Shijian 6B (SJ-6B), Shijian 6C (SJ-6-02A), Shijian 6D (SJ-6-02B), Shijian 6E (SJ6-03A, SJ-6E)",
+        "score": 67.44735717773438,
+        "chunk": 98,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Shijian 6G (SJ6-04A), Shijian 6H (SJ6_04B), Shijian 7 (SJ7, Dong Fang Hong 65), Shijian 9A (SJ 9A), Shijian 9B (SJ 9B), ShindaiSat (Shinshu University Satellite), Shiyan 1 (SY 1, Tansuo 1, Experimental Satellite 1), Shiyan 3 (SY3, Experimental Satellite 3)",
+        "score": 131.78164672851562,
+        "chunk": 99,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Shiyan 4 (SY4, Experimental Satellite 4), Shiyan 5 (SY5, Experimental Satellite 5), Shiyan 7 (SY7, Experimental Satellite 7), Sich 2, Sicral 1A , Sicral 1B, Sina-1 (Sinah 1, ZS1), Sinosat-6 (Chinasat-6A, XN-6), Sirius 1 (SD Radio 1)",
+        "score": 140.438232421875,
+        "chunk": 100,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Sirius 2 (SD Radio 2), Skynet 4C , Skynet 4E , Skynet 4F , Skynet 5A, Skynet 5B",
+        "score": 68.10364532470703,
+        "chunk": 101,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Skynet 5C, Skynet 5D, SkySat-1, SkySat-2, SkyTerra 1, SLDCOM-3 (Satellite Launch Dispenser Communications System) (USA 119), SMDC-ONE 1.1 (Techsat), SMDC-ONE 1.2 (ORSES [Operationally Responsive Space Enabler Satellite]), SMDC-ONE 2.3, SMDC-ONE 2.4, SMOS (Soil Moisture and Ocean Salinity satellite)",
+        "score": 116.7040786743164,
+        "chunk": 102,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "SNaP-3-1\ufffd\ufffd(Space and Missile Defense Command NanoSat Program), SOCRATES\ufffd\ufffd(Space Optical Communications Research Advanced TEchnology Satellite), SOHLA 1 (Space Oriented Higashiosaka Leading Association, Maido 1), SORCE (SOlar Radiation and Climate Experiment), Spaceway 3, Spaceway F1, Spaceway F2, Spainsat, Spektr-R/RadioAstron, SPIRALE-A (Syst\ufffdme Pr\ufffdparatoire Infra-Rouge pour l'Alerte), SPIRALE-B (Syst\ufffdme Pr\ufffdparatoire Infra-Rouge pour l'Alerte)",
+        "score": 130.6749267578125,
+        "chunk": 103,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "SRMSat (Sri Ramaswamy Memorial Satellite)",
+        "score": 72.282958984375,
+        "chunk": 104,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "STARE-B (Horus [Space-Based Telescopes for Actionable Refinement of Ephemeris]), STPSat-2 (USA 217), STPSat-3 (Space Test Program Satellite-3) , STRaND-1 (Surrey Training, Research and Nanosatellite Demonstrator 1), Strela 3 (Cosmos 2384), Strela 3 (Cosmos 2385), Strela 3 (Cosmos 2386), Strela 3 (Cosmos 2390), Strela 3 (Cosmos 2391)",
+        "score": 76.7682113647461,
+        "chunk": 105,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Strela 3 (Cosmos 2400), Strela 3 (Cosmos 2401), Strela 3 (Cosmos 2408), Strela 3 (Cosmos 2409), STSat-2C, STSat-3",
+        "score": 88.2702865600586,
+        "chunk": 106,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "STUDSat (Student Satellite)",
+        "score": 132.2935791015625,
+        "chunk": 107,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Syracuse 3B (Systeme de Radio Communications Utilisant un Satellite), TacSat 4, TacSat 6, TanDEM-X (TerraSAR-X add-on for Digital Elevation Measurement), Tango (part of Cluster quartet, Cluster 2 FM8), TDRS-10 (Tracking and Data Relay Satellite, TDRS-J), TDRS-11 (Tracking and Data Relay Satellite, TDRS K), TDRS-12 (Tracking and Data Relay Satellite, TDRS L), TDRS-3 (Tracking and Data Relay Satellite, TDRS-C) ",
+        "score": 69.87417602539062,
+        "chunk": 108,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "TDRS-5 (Tracking and Data Relay Satellite, TDRS-E), TDRS-6 (Tracking and Data Relay Satellite, TDRS-F), TDRS-7 (Tracking and Data Relay Satellite, TDRS-G), TDRS-8 (Tracking and Data Relay Satellite, TDRS-H), TDRS-9 (Tracking and Data Relay Satellite, TDRS-I), TechDemoSat-1, TecSAR (Ofeq 8, Polaris), Telkom 1 , Telkom 2",
+        "score": 65.7425765991211,
+        "chunk": 109,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Telstar 11N, Telstar 12 (Orion 2), Telstar 14R (Estrela do Sul 2), Telstar 18 (Apstar 5), TerraSAR-X\ufffd1 (Terra Synthetic Aperture Radar X-Band), TerraStar 1, TET-1 (Technologieerprobungstr\ufffdger 1, Technology Experiment Carrier), Thaicom-4 (Ipstar 1, Measat 5), Thaicom-5, Thaicom-6",
+        "score": 132.2769317626953,
+        "chunk": 110,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "THEMIS A (Time History of Events and Macroscale Interactions during Substorms) , THEMIS D (Time History of Events and Macroscale Interactions during Substorms) , THEMIS E (Time History of Events and Macroscale Interactions during Substorms) , THEOS (Thailand Earth Observation System), Thor-3 , Thor-5 (Thor 2R), Thor-6, Thuraya 2 , Thuraya 3, Tian Xun-1 (TX-1)",
+        "score": 109.22771453857422,
+        "chunk": 111,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Tiangong-1 (TG-1), Tianhui 1-01, Tianhui 1-02, TianLian 1 (TL-1-01, CTDRS), TianLian 2 (TL-1-02, CTDRS), TianLian 3 (TL-1-03, CTDRS), Tiantuo 1, TIGRISat",
+        "score": 143.26080322265625,
+        "chunk": 112,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "TIMED (Thermosphere \ufffd Ionosphere \ufffd Mesosphere \ufffd Energetics and Dynamics), TISat-1 (Ticano Satellite), TKSat-1 (T\ufffdpac Katari Satellite 1), TRMM (Tropical Rainfall Measuring Mission), Trumpet 3 (NROL-4, National Reconnaissance Office Launch-4, USA 136), Trumpet 4 (NRO L-67, USA 250), Tselina-2 (Cosmos 2428), TUGSat-1\ufffd\ufffd(Technische Universit\ufffdt Graz Satellit, CanX-3b, BRITE-Austria), Turksat 3A, Turksat 4A",
+        "score": 131.08802795410156,
+        "chunk": 113,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "UKube-1 (UK Cubesat 1), UFO-10 (USA 146, UHF F/O F10) \"UHF Follow-On\", UFO-11  (USA 174) \"UHF Follow-On\", UFO-2 (USA 95) \"UHF Follow-On\", UFO-4 (USA 108, UFO F4 EHF) \"UHF Follow-On\", UFO-6 (USA 114, UFO F6 EHF) \"UHF Follow-On\", UFO-7 (USA 127, F7 EHF) \"UHF Follow-On\", UFO-8 (USA 138, UHF F/O F8) \"UHF Follow-On\", UK-DMC-2 (BNSCSat-2, British National Science Center Satellite 2), UNIFORM 1\ufffd\ufffd(UNiversity International FORmation Mission 1)",
+        "score": 74.4981918334961,
+        "chunk": 114,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Unisat-3 (University Satellite 3), Unisat-5 (University Satellite 5), Unisat-6 (University Satellite 6), US-KS Oko 87 (Cosmos-2422), US-KS Oko 89 (Cosmos 2446), UWE-3 (University of W\ufffdrzburg Experimental Satellite 3), Van Allen Probe A (RBSP-A, Radiation Belt Storm Probes), Van Allen Probe B (RBSP-B, Radiation Belt Storm Probes), Velox 1, VeneSat 1 (Simon Bolivar)",
+        "score": 112.68439483642578,
+        "chunk": 115,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Vermont Lunar Cubesat, Vesselsat-1, Vesselsat-2, ViaSat-1, Vinasat 1, Vinasat 2, VNREDSat 1A\ufffd\ufffd(Vietnam Natural Resources Environment and Disaster monitoring small Satellite), VRSS-1 (Venezuelan Remote Sensing Satellite, Francisco Miranda), Wideband Global Satcom 1 (WGS-1, USA 195), Wideband Global Satcom 2 (WGS-2, USA 204)",
+        "score": 132.03236389160156,
+        "chunk": 116,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Wideband Global Satcom 3 (WGS-3, USA 211), Wideband Global Satcom 4 (WGS-4, USA 233), Wideband Global Satcom 5 (WGS-5, USA 243), Wideband Global Satcom 6 (WGS-6, USA 244), WildBlue 1, Wind (International Solar-Terrestrial Program), WNISat-1 Weather News Inc. Satellite 1), Worldview 1, Worldview 2, Wren, X37-B OTV-1 (USA 240), XaTcobeo",
+        "score": 98.31646728515625,
+        "chunk": 117,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Xinyan 1 (XY-1)",
+        "score": 60.39542770385742,
+        "chunk": 118,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Yahsat-1A (Y1A), Yahsat-1B (Y1B), Yamal-201 , Yamal-202 , Yamal-300K, Yamal-402, Yaogan 10 (Remote Sensing Satellite 10), Yaogan 11 (Remote Sensing Satellite 11), Yaogan 12 (Remote Sensing Satellite 12), Yaogan 13 (Remote Sensing Satellite 13)",
+        "score": 144.53631591796875,
+        "chunk": 119,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Yaogan 14 (Remote Sensing Satellite 14), Yaogan 15 (Remote Sensing Satellite 15), Yaogan 16A (Remote Sensing Satellite 16A, Yaogan Weixing 16), Yaogan 16B (Remote Sensing Satellite 16B), Yaogan 16C (Remote Sensing Satlelite 16C), Yaogan 17A (Remote Sensing Satellite 17A, Yaogan Weixing 17), Yaogan 17B (Remote Sensing Satellite 17B)",
+        "score": 111.4835205078125,
+        "chunk": 120,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Yaogan 17C (Remote Sensing Satellite 17C), Yaogan 18 (Remote Sensing Satellite 18), Yaogan 19 (Remote Sensing Satellite 19), Yaogan 2 (Remote Sensing Satellite 2, Jian Bing 5-2, JB 5-2), Yaogan 3 (Remote Sensing Satellite 3, Jian Bing 5-3, JB 5-3), Yaogan 4 (Remote Sensing Satellite 4), Yaogan 5 (Remote Sensing Satellite 5, JB 5-C, Jian Bing 5-C)",
+        "score": 116.89741516113281,
+        "chunk": 121,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Youthsat",
+        "score": 75.92985534667969,
+        "chunk": 122,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Zhangguo Ziyuan 2B (ZY-2B, JB-3B), Zhangguo Ziyuan 2C (ZY-2C, JB-3C), Zheda Pixing 1B (ZP-1B, Zhejiang University-1B), Zheda Pixing 1C (ZP-1C, Zhejiang University-1B, Zhongxing 10 (XZ-10, Chinasat 10), Zhongxing 11 (Chinasat 11), Zhongxing 12 (Chinasat 12, ZX-12), Zhongxing 1A (Chinasat 1A, Fenghuo 2)",
+        "score": 118.4952392578125,
+        "chunk": 123,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Zhongxing 20A , Zhongxing 22A (Chinastar 22A), Zhongxing 2A (Chinasat 2A), Zhongxing 9 (Chinasat 9, Chinastar 9), Ziyuan 1-02C, Ziyuan 3 (ZY-3)",
+        "score": 164.25770568847656,
+        "chunk": 124,
+        "model": "TaPaS"
+      }
+    ]
+  },
+  "que_2": {
+    "question": "Which satellite has the highest Apogee?",
+    "id": "que_2",
+    "class": 0,
+    "answers": [
+      {
+        "answer": "Advanced Orion 2 (NROL 6, USA 139)",
+        "score": 78.76141357421875,
+        "chunk": 0,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "AEHF-1 (Advanced Extremely High Frequency satellite-1, USA 214)",
+        "score": 65.78270721435547,
+        "chunk": 1,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Afghansat-1 (Eutelsat 28B, Eutelsat 48B, Eutelsat W2M)",
+        "score": 82.95323181152344,
+        "chunk": 2,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Amazonas-2",
+        "score": 48.57975769042969,
+        "chunk": 3,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "AMC-18 (Americom 18)",
+        "score": 75.87165832519531,
+        "chunk": 4,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Amos 5",
+        "score": 11.120370864868164,
+        "chunk": 5,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Anik G1",
+        "score": 63.67951965332031,
+        "chunk": 6,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Apstar 7",
+        "score": 51.25203323364258,
+        "chunk": 7,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Astra 1KR",
+        "score": 49.04887390136719,
+        "chunk": 8,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Astra 1M",
+        "score": 53.42547607421875,
+        "chunk": 9,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Badr 5 (Arabsat 5B)",
+        "score": 46.71788787841797,
+        "chunk": 10,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Brazilsat B-3 (Brasilsat B-3)",
+        "score": 62.105201721191406,
+        "chunk": 11,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Brazilsat B-4 (Brasilsat B-4)",
+        "score": 70.25465393066406,
+        "chunk": 12,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Can-X3a\ufffd\ufffd(BRIght-star Target Explorer (BRITE), UniBRITE-1)",
+        "score": 78.58221435546875,
+        "chunk": 13,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Chandra X-Ray Observatory (CXO)",
+        "score": 75.73860168457031,
+        "chunk": 14,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Compass G-10 (Beidou ISGO-5)",
+        "score": 62.5758056640625,
+        "chunk": 15,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Compass G-8 (Beidou IGSO-3)",
+        "score": 84.86195373535156,
+        "chunk": 16,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "COMSATBw-1 (COmmunications SATellite f\ufffdr BundesWehr)",
+        "score": 128.0279998779297,
+        "chunk": 17,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "COSMIC-E (Formosat-3E, Constellation Observing System for Meteorology, Ionosphere and Climate)",
+        "score": 49.829063415527344,
+        "chunk": 18,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "CUSat-1 (Cornell University Satellite 1)",
+        "score": 100.64208984375,
+        "chunk": 19,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "DirecTV-1R ",
+        "score": 51.514671325683594,
+        "chunk": 20,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "DirecTV-5 (Tempo 1)",
+        "score": 63.300506591796875,
+        "chunk": 21,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "DSCS III-F10 (USA 135, DSCS III B-13) (Defense Satellite Communications System)",
+        "score": 45.6895751953125,
+        "chunk": 22,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "DubaiSat-1",
+        "score": 54.20121765136719,
+        "chunk": 23,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Echostar 15",
+        "score": 11.049628257751465,
+        "chunk": 24,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "ELISA-E12 (ELectronic Intelligence by SAtellite)",
+        "score": 12.280153274536133,
+        "chunk": 25,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "e-st@r",
+        "score": 63.81147766113281,
+        "chunk": 26,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Eutelsat 10A (Eutelsat W-2A)",
+        "score": 39.0869255065918,
+        "chunk": 27,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Eutelsat 36A (Eutelsat W-4) ",
+        "score": 57.38778305053711,
+        "chunk": 28,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Eutelsat 48A (Eutelsat W-48, Eurobird 9, Hot Bird 2, Eutelsat 2-F8, Eutelsat HB2)",
+        "score": 3.217506170272827,
+        "chunk": 29,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Eutelsat KA-SAT 9A (KA-SAT)",
+        "score": 47.40044021606445,
+        "chunk": 30,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Express-AM44",
+        "score": 56.88880157470703,
+        "chunk": 31,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Fengyun 2F (FY-2F)",
+        "score": 48.15291213989258,
+        "chunk": 32,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "FLTSATCOM-8 (USA 46)",
+        "score": 97.61143493652344,
+        "chunk": 33,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Galaxy-25 (G-25, Intelsat 1A-5, Telstar 5)",
+        "score": 50.454376220703125,
+        "chunk": 34,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Garuda-1 (Aces 1)",
+        "score": 16.24802589416504,
+        "chunk": 35,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Geotail (Geomagnetic Tail Laboratory)",
+        "score": 138.08599853515625,
+        "chunk": 36,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Globalstar M037 (Globalstar 16)",
+        "score": 67.01874542236328,
+        "chunk": 37,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Globalstar M072 (Globalstar 72)",
+        "score": 57.52101516723633,
+        "chunk": 38,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Globalstar M089 (Globalstar 89, Globalstar 2-12)",
+        "score": 66.867919921875,
+        "chunk": 39,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Glonass 719 (Glonass 36-2, Cosmos 2432)",
+        "score": 55.2724723815918,
+        "chunk": 40,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Glonass 730 (Glonass 41-1, Cosmos 2456)",
+        "score": 23.06369972229004,
+        "chunk": 41,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Glonass 737 (Glonass 43-2, Cosmos 2465)",
+        "score": 64.71477508544922,
+        "chunk": 42,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "GOES 13 (Geostationary Operational Environmental Satellite, GOES-N)",
+        "score": 57.16497039794922,
+        "chunk": 43,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Gonets M-19",
+        "score": 65.10928344726562,
+        "chunk": 44,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "GSSAP 2 (Geosynchronous Space Situational Awareness Program, USA 254)",
+        "score": 35.51362609863281,
+        "chunk": 45,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Hispasat 1C ",
+        "score": 65.29373168945312,
+        "chunk": 46,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Hispasat 1D ",
+        "score": 134.7987518310547,
+        "chunk": 47,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "HYLAS 1 (Highly Adaptable Satellite)",
+        "score": 121.2439956665039,
+        "chunk": 48,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Improved Trumpet 5 (NROL-28, National Reconnaissance Office Launch-28, SBIRS HEO-2, Twins 2, USA 200)",
+        "score": 70.55111694335938,
+        "chunk": 49,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Integral (INTErnational Gamma-Ray Astrophysics Laboratory)",
+        "score": 83.17616271972656,
+        "chunk": 50,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Intelsat 1R (IS-1R, PAS-1R, PanAmSat 1R)",
+        "score": 1.571664571762085,
+        "chunk": 51,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Intelsat 21 (IS-21)",
+        "score": 75.28163146972656,
+        "chunk": 52,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Intelsat 903 ",
+        "score": 8.626311302185059,
+        "chunk": 53,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Interstellar Boundary EXplorer (IBEX)",
+        "score": 113.07810974121094,
+        "chunk": 54,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Iridium 21A (Iridium SVO93)",
+        "score": 27.54952049255371,
+        "chunk": 55,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Iridium 31 (Iridium SVO31)",
+        "score": 13.818260192871094,
+        "chunk": 56,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Iridium 47 (Iridium SV047)",
+        "score": 60.70093536376953,
+        "chunk": 57,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Iridium 6 (Iridium SV006)",
+        "score": 3.422140121459961,
+        "chunk": 58,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Iridium 77 (Iridium SV077)",
+        "score": 15.843857765197754,
+        "chunk": 59,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Iridium 94 (Iridium SV094)",
+        "score": 41.4059944152832,
+        "chunk": 60,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "IRNSS-1B (Indian Regional Navigation Satellite System)",
+        "score": 25.499849319458008,
+        "chunk": 61,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "JCSat 4A (JCSAT 6, Japan Communications Satellite 6)",
+        "score": 64.39317321777344,
+        "chunk": 62,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Kalpana-1 (Metsat-1)",
+        "score": 64.52274322509766,
+        "chunk": 63,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Kizuna (WINDS - Wideband InterNetworking engineering Demonstration Satellite)",
+        "score": 48.74967956542969,
+        "chunk": 64,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Koreasat 6 (Mugungwha 6)",
+        "score": 65.81832122802734,
+        "chunk": 65,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Leasat 5 (Syncom IV-5, Leased Satellite F5)",
+        "score": 146.46951293945312,
+        "chunk": 66,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Meridian-4",
+        "score": 35.74831771850586,
+        "chunk": 67,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Milstar DFS-1 (USA 99, Milstar 1-F1) (Military Strategic and Tactical Relay)",
+        "score": 54.696746826171875,
+        "chunk": 68,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Milstar DFS-5 (USA 164, Milstar 2-F3) (Military Strategic and Tactical Relay)",
+        "score": 71.76608276367188,
+        "chunk": 69,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "MUOS-2 (Mobile User Objective System 2)",
+        "score": 41.5509147644043,
+        "chunk": 70,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Navstar GPS IIF-2 (Navstar SVN 63, PRN 01, USA 232)",
+        "score": 73.1500473022461,
+        "chunk": 71,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Navstar GPS IIF-5 (Navstar SVN 64, USA 248)",
+        "score": 129.9794464111328,
+        "chunk": 72,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Navstar GPS IIR-6 (Navstar SVN 41, PRN 14, USA 154)",
+        "score": 69.29814910888672,
+        "chunk": 73,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "NigComSat-1R",
+        "score": 33.410980224609375,
+        "chunk": 74,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Nilesat 201",
+        "score": 85.44219970703125,
+        "chunk": 75,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "NSS-11 (Worldsat-1, AAP-1, GE-1A) , NSS-7 ",
+        "score": 71.43812561035156,
+        "chunk": 76,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "N-Star C ",
+        "score": 102.0172119140625,
+        "chunk": 77,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Optus B3",
+        "score": 37.30234909057617,
+        "chunk": 78,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Optus D2",
+        "score": 65.95954895019531,
+        "chunk": 79,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "ORBCOMM FM-4 (ORBCOM G2)",
+        "score": 81.87266540527344,
+        "chunk": 80,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "ORBCOMM FM-8 (ORBCOMM A1)",
+        "score": 39.63300323486328,
+        "chunk": 81,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Paksat-1R ",
+        "score": 91.99701690673828,
+        "chunk": 82,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Parus-99 (Cosmos 2463)",
+        "score": 73.90113830566406,
+        "chunk": 83,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Picard",
+        "score": 73.5279769897461,
+        "chunk": 84,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Proba V (Project for On-Board Autonomy)",
+        "score": 126.91551208496094,
+        "chunk": 85,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "QZS-1 (Quazi-Zenith Satellite System, Michibiki)",
+        "score": 153.30538940429688,
+        "chunk": 86,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Rascom-QAF 1R",
+        "score": 23.80899429321289,
+        "chunk": 87,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Rodnik (Cosmos 2437, Strela 3M)",
+        "score": 42.518638610839844,
+        "chunk": 88,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Rodnik (Cosmos 2482, Strela 3M)",
+        "score": 18.78318214416504,
+        "chunk": 89,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Samba (part of Cluster quartet, Cluster 2 FM7)",
+        "score": 85.60282897949219,
+        "chunk": 90,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Satmex 6",
+        "score": 62.096893310546875,
+        "chunk": 91,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Saudicomsat-2 ",
+        "score": 89.39849853515625,
+        "chunk": 92,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "SBIRS GEO 1 (Space Based Infrared System Geosynchronous 1, USA 230)",
+        "score": 122.70062255859375,
+        "chunk": 93,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "SB-WASS 3-5 (Space Based Wide Area Surveillance System) NOSS 3-5, USA 229, NRO L34)",
+        "score": 127.48051452636719,
+        "chunk": 94,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "SDS III-5 (Satellite Data System) (NRO L-24, Scorpius, USA 198) ",
+        "score": 90.35859680175781,
+        "chunk": 95,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "SES-3",
+        "score": 75.32516479492188,
+        "chunk": 96,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "SES-8",
+        "score": 92.76409912109375,
+        "chunk": 97,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Shijian 16 (SJ-16)",
+        "score": 68.22039031982422,
+        "chunk": 98,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Shiyan 3 (SY3, Experimental Satellite 3)",
+        "score": 55.990535736083984,
+        "chunk": 99,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Sirius 1 (SD Radio 1)",
+        "score": 45.66089630126953,
+        "chunk": 100,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Sirius 3 (SD Radio 3)",
+        "score": 27.262004852294922,
+        "chunk": 101,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Skynet 5C",
+        "score": 146.74403381347656,
+        "chunk": 102,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Spektr-R/RadioAstron",
+        "score": 61.42518997192383,
+        "chunk": 103,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Star One C3",
+        "score": 61.58186340332031,
+        "chunk": 104,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Strela 3 (Cosmos 2391)",
+        "score": 44.61088180541992,
+        "chunk": 105,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Strela 3 (Cosmos 2400)",
+        "score": 91.00448608398438,
+        "chunk": 106,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Superbird 7 (Superbird C2)",
+        "score": 54.98482131958008,
+        "chunk": 107,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Tango (part of Cluster quartet, Cluster 2 FM8)",
+        "score": 77.39327239990234,
+        "chunk": 108,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "TDRS-9 (Tracking and Data Relay Satellite, TDRS-I)",
+        "score": 38.25281524658203,
+        "chunk": 109,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Telstar 11N",
+        "score": 77.66845703125,
+        "chunk": 110,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "THEMIS E (Time History of Events and Macroscale Interactions during Substorms) ",
+        "score": 56.799339294433594,
+        "chunk": 111,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "TianLian 2 (TL-1-02, CTDRS)",
+        "score": 41.29878234863281,
+        "chunk": 112,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Trumpet 3 (NROL-4, National Reconnaissance Office Launch-4, USA 136)",
+        "score": 96.14167022705078,
+        "chunk": 113,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "UFO-7 (USA 127, F7 EHF) \"UHF Follow-On\"",
+        "score": 14.268054008483887,
+        "chunk": 114,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "US-KS Oko 87 (Cosmos-2422)",
+        "score": 69.66532135009766,
+        "chunk": 115,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "ViaSat-1",
+        "score": 65.37351989746094,
+        "chunk": 116,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Wind (International Solar-Terrestrial Program)",
+        "score": 96.32394409179688,
+        "chunk": 117,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "XMM Newton (High Throughput X-ray Spectroscopy Mission)",
+        "score": 85.54000091552734,
+        "chunk": 118,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Yamal-300K",
+        "score": 67.2052993774414,
+        "chunk": 119,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Yaogan 15 (Remote Sensing Satellite 15)",
+        "score": 64.51039123535156,
+        "chunk": 120,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Yaogan 19 (Remote Sensing Satellite 19)",
+        "score": 60.62989807128906,
+        "chunk": 121,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Yubileiny (Jubilejnyj, Radio Sputnik 30 (RS-30))",
+        "score": 65.36209106445312,
+        "chunk": 122,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Zhongxing 12 (Chinasat 12, ZX-12)",
+        "score": 91.859130859375,
+        "chunk": 123,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Zhongxing 9 (Chinasat 9, Chinastar 9)",
+        "score": 78.24851989746094,
+        "chunk": 124,
+        "model": "TaPaS"
+      }
+    ]
+  },
+  "que_3": {
+    "question": "What is the expected lifetime of INSAT 4A satellite?",
+    "id": "que_3",
+    "class": 1,
+    "answers": [
+      {
+        "answer": "15 yrs., 15 yrs.",
+        "score": 21.244131088256836,
+        "chunk": 0,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 0,
+        "model": "TagOp"
+      },
+      {
+        "answer": "14 yrs.",
+        "score": 53.47210693359375,
+        "chunk": 1,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 1,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 15 yrs.",
+        "score": 58.40413284301758,
+        "chunk": 2,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 2,
+        "model": "TagOp"
+      },
+      {
+        "answer": "15 yrs.",
+        "score": 55.9283561706543,
+        "chunk": 3,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 3,
+        "model": "TagOp"
+      },
+      {
+        "answer": "15 yrs.",
+        "score": 34.9004020690918,
+        "chunk": 4,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 4,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 15 yrs.",
+        "score": 2.3411378860473633,
+        "chunk": 5,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 5,
+        "model": "TagOp"
+      },
+      {
+        "answer": "nan, nan",
+        "score": 7.037434101104736,
+        "chunk": 6,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 6,
+        "model": "TagOp"
+      },
+      {
+        "answer": "15 yrs.",
+        "score": 6.945200443267822,
+        "chunk": 7,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 7,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 15 yrs.",
+        "score": 30.62285041809082,
+        "chunk": 8,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 8,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > ",
+        "score": -11.230125427246094,
+        "chunk": 9,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 9,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 15 yrs.",
+        "score": 35.75926971435547,
+        "chunk": 10,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 10,
+        "model": "TagOp"
+      },
+      {
+        "answer": "12 yrs.",
+        "score": 19.30565071105957,
+        "chunk": 11,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 11,
+        "model": "TagOp"
+      },
+      {
+        "answer": "13 yrs.",
+        "score": 4.098705768585205,
+        "chunk": 12,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 12,
+        "model": "TagOp"
+      },
+      {
+        "answer": "nan",
+        "score": 18.63916778564453,
+        "chunk": 13,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 13,
+        "model": "TagOp"
+      },
+      {
+        "answer": "2 yrs., nan",
+        "score": 3.1203956604003906,
+        "chunk": 14,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 14,
+        "model": "TagOp"
+      },
+      {
+        "answer": "15 yrs.",
+        "score": 34.45402145385742,
+        "chunk": 15,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 15,
+        "model": "TagOp"
+      },
+      {
+        "answer": "8 yrs.",
+        "score": 77.9498519897461,
+        "chunk": 16,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 16,
+        "model": "TagOp"
+      },
+      {
+        "answer": "15 yrs.",
+        "score": 4.003542423248291,
+        "chunk": 17,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 17,
+        "model": "TagOp"
+      },
+      {
+        "answer": "5 yrs.",
+        "score": 9.28818416595459,
+        "chunk": 18,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 18,
+        "model": "TagOp"
+      },
+      {
+        "answer": "5 yrs.",
+        "score": 21.077762603759766,
+        "chunk": 19,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 19,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 15 yrs.",
+        "score": 9.598907470703125,
+        "chunk": 20,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 20,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > ",
+        "score": -4.769407272338867,
+        "chunk": 21,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 21,
+        "model": "TagOp"
+      },
+      {
+        "answer": "10 yrs.",
+        "score": 12.029559135437012,
+        "chunk": 22,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 22,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > ",
+        "score": -9.432374000549316,
+        "chunk": 23,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 23,
+        "model": "TagOp"
+      },
+      {
+        "answer": "5 yrs.",
+        "score": 54.98844909667969,
+        "chunk": 24,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 24,
+        "model": "TagOp"
+      },
+      {
+        "answer": "12 yrs., 15 yrs.",
+        "score": 6.687076091766357,
+        "chunk": 25,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 25,
+        "model": "TagOp"
+      },
+      {
+        "answer": "6 yrs.",
+        "score": 11.780099868774414,
+        "chunk": 26,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 26,
+        "model": "TagOp"
+      },
+      {
+        "answer": "18 yrs.",
+        "score": 7.601125240325928,
+        "chunk": 27,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 27,
+        "model": "TagOp"
+      },
+      {
+        "answer": "12 yrs.",
+        "score": 14.014777183532715,
+        "chunk": 28,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 28,
+        "model": "TagOp"
+      },
+      {
+        "answer": "12 yrs.",
+        "score": 7.869752407073975,
+        "chunk": 29,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 29,
+        "model": "TagOp"
+      },
+      {
+        "answer": "15 yrs.",
+        "score": 43.084754943847656,
+        "chunk": 30,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 30,
+        "model": "TagOp"
+      },
+      {
+        "answer": "7-10 yrs., 12 yrs.",
+        "score": 0.823998212814331,
+        "chunk": 31,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 31,
+        "model": "TagOp"
+      },
+      {
+        "answer": "nan",
+        "score": 4.90548849105835,
+        "chunk": 32,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 32,
+        "model": "TagOp"
+      },
+      {
+        "answer": "3 yrs.",
+        "score": 43.12370681762695,
+        "chunk": 33,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 33,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > ",
+        "score": -3.771939992904663,
+        "chunk": 34,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 34,
+        "model": "TagOp"
+      },
+      {
+        "answer": "13 trs,",
+        "score": 14.855061531066895,
+        "chunk": 35,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 35,
+        "model": "TagOp"
+      },
+      {
+        "answer": "5 yrs.",
+        "score": 68.19371032714844,
+        "chunk": 36,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 36,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 10 yrs.",
+        "score": 92.40343475341797,
+        "chunk": 37,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          [
+            "1,500"
+          ],
+          ""
+        ],
+        "chunk": 37,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 10 yrs.",
+        "score": 2.4618911743164062,
+        "chunk": 38,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 38,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 15 yrs.",
+        "score": 89.8588638305664,
+        "chunk": 39,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 39,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 15 yrs.",
+        "score": 15.255209922790527,
+        "chunk": 40,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          [
+            "2/6/2013"
+          ],
+          ""
+        ],
+        "chunk": 40,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 7 yrs.",
+        "score": 91.7332763671875,
+        "chunk": 41,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 41,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 7 yrs.",
+        "score": 83.40013885498047,
+        "chunk": 42,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 42,
+        "model": "TagOp"
+      },
+      {
+        "answer": "10 yrs.",
+        "score": 13.680131912231445,
+        "chunk": 43,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 43,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 5-7 yrs.",
+        "score": 97.49845123291016,
+        "chunk": 44,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 44,
+        "model": "TagOp"
+      },
+      {
+        "answer": "15 yrs.",
+        "score": 50.43474197387695,
+        "chunk": 45,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 45,
+        "model": "TagOp"
+      },
+      {
+        "answer": "15 yrs.",
+        "score": 9.66122817993164,
+        "chunk": 46,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 46,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 15 yrs.",
+        "score": 41.59903335571289,
+        "chunk": 47,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 47,
+        "model": "TagOp"
+      },
+      {
+        "answer": "10 yrs.",
+        "score": 4.700066566467285,
+        "chunk": 48,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 48,
+        "model": "TagOp"
+      },
+      {
+        "answer": "5 yrs.",
+        "score": 35.97822952270508,
+        "chunk": 49,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 49,
+        "model": "TagOp"
+      },
+      {
+        "answer": "12 yrs., 12 yrs.",
+        "score": 19.78449249267578,
+        "chunk": 50,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 50,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 15 yrs.",
+        "score": 9.298758506774902,
+        "chunk": 51,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 51,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 15 yrs.",
+        "score": 52.75634765625,
+        "chunk": 52,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 52,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > ",
+        "score": -6.093472480773926,
+        "chunk": 53,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 53,
+        "model": "TagOp"
+      },
+      {
+        "answer": "15 yrs.",
+        "score": 14.055270195007324,
+        "chunk": 54,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 54,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 8 yrs.",
+        "score": 54.499454498291016,
+        "chunk": 55,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 55,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 8 yrs.",
+        "score": 73.51478576660156,
+        "chunk": 56,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 56,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 8 yrs.",
+        "score": 52.20478439331055,
+        "chunk": 57,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 57,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 8 yrs.",
+        "score": 58.16043472290039,
+        "chunk": 58,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 58,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 8 yrs.",
+        "score": 44.2026252746582,
+        "chunk": 59,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 59,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 8 yrs.",
+        "score": 45.160552978515625,
+        "chunk": 60,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 60,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > ",
+        "score": -13.751383781433105,
+        "chunk": 61,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 61,
+        "model": "TagOp"
+      },
+      {
+        "answer": "15 yrs.",
+        "score": 23.9055118560791,
+        "chunk": 62,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 62,
+        "model": "TagOp"
+      },
+      {
+        "answer": "5-7 yrs.",
+        "score": 45.37966537475586,
+        "chunk": 63,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 63,
+        "model": "TagOp"
+      },
+      {
+        "answer": "5+ yrs.",
+        "score": 3.4917662143707275,
+        "chunk": 64,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 64,
+        "model": "TagOp"
+      },
+      {
+        "answer": "5 yrs.",
+        "score": 25.448970794677734,
+        "chunk": 65,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 65,
+        "model": "TagOp"
+      },
+      {
+        "answer": "10 yrs.",
+        "score": 26.735708236694336,
+        "chunk": 66,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 66,
+        "model": "TagOp"
+      },
+      {
+        "answer": "5 yrs.",
+        "score": 13.28382396697998,
+        "chunk": 67,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 67,
+        "model": "TagOp"
+      },
+      {
+        "answer": "15 yrs.",
+        "score": 4.769883632659912,
+        "chunk": 68,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 68,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 12 yrs.",
+        "score": 12.703441619873047,
+        "chunk": 69,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 69,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 10-12 yrs.",
+        "score": 4.934840202331543,
+        "chunk": 70,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 70,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 7.5 yrs.",
+        "score": 15.873326301574707,
+        "chunk": 71,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 71,
+        "model": "TagOp"
+      },
+      {
+        "answer": "10 yrs.",
+        "score": 18.004520416259766,
+        "chunk": 72,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 72,
+        "model": "TagOp"
+      },
+      {
+        "answer": "10 yrs.",
+        "score": 36.98995590209961,
+        "chunk": 73,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 73,
+        "model": "TagOp"
+      },
+      {
+        "answer": "10 yrs.",
+        "score": 14.90617561340332,
+        "chunk": 74,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 74,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 12 yrs.",
+        "score": 5.200099468231201,
+        "chunk": 75,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 75,
+        "model": "TagOp"
+      },
+      {
+        "answer": "16 yrs., 15 yrs.",
+        "score": 12.862579345703125,
+        "chunk": 76,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 76,
+        "model": "TagOp"
+      },
+      {
+        "answer": "15 yrs.",
+        "score": 59.81637191772461,
+        "chunk": 77,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 77,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 5 yrs.",
+        "score": 34.507808685302734,
+        "chunk": 78,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 78,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 15 yrs.",
+        "score": 32.950008392333984,
+        "chunk": 79,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 79,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 5 yrs.",
+        "score": 69.84510040283203,
+        "chunk": 80,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          [
+            "8/2/1998"
+          ],
+          ""
+        ],
+        "chunk": 80,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 5 yrs.",
+        "score": 79.6451416015625,
+        "chunk": 81,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          [
+            "12/23/1997"
+          ],
+          ""
+        ],
+        "chunk": 81,
+        "model": "TagOp"
+      },
+      {
+        "answer": "5 yrs., 2 yrs., 2-3 yrs.",
+        "score": 9.349069595336914,
+        "chunk": 82,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 82,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 2-3 yrs.",
+        "score": 1.5838769674301147,
+        "chunk": 83,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 83,
+        "model": "TagOp"
+      },
+      {
+        "answer": "2 yrs.",
+        "score": 17.099565505981445,
+        "chunk": 84,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 84,
+        "model": "TagOp"
+      },
+      {
+        "answer": "2 yrs.",
+        "score": 50.519771575927734,
+        "chunk": 85,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 85,
+        "model": "TagOp"
+      },
+      {
+        "answer": "15+ yrs.",
+        "score": 32.06390380859375,
+        "chunk": 86,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 86,
+        "model": "TagOp"
+      },
+      {
+        "answer": "3 yrs.",
+        "score": 25.710948944091797,
+        "chunk": 87,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 87,
+        "model": "TagOp"
+      },
+      {
+        "answer": "5 yrs.",
+        "score": 52.4163932800293,
+        "chunk": 88,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 88,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 5 yrs.",
+        "score": 36.45491027832031,
+        "chunk": 89,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 89,
+        "model": "TagOp"
+      },
+      {
+        "answer": "4 yrs.",
+        "score": 5.414701461791992,
+        "chunk": 90,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 90,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 5 yrs.",
+        "score": 16.10893440246582,
+        "chunk": 91,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 91,
+        "model": "TagOp"
+      },
+      {
+        "answer": "nan",
+        "score": 47.95798110961914,
+        "chunk": 92,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 92,
+        "model": "TagOp"
+      },
+      {
+        "answer": "12 yrs.",
+        "score": 14.238875389099121,
+        "chunk": 93,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 93,
+        "model": "TagOp"
+      },
+      {
+        "answer": "nan",
+        "score": 43.448883056640625,
+        "chunk": 94,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          [
+            "107.4"
+          ],
+          ""
+        ],
+        "chunk": 94,
+        "model": "TagOp"
+      },
+      {
+        "answer": "3 yrs.",
+        "score": 8.7781400680542,
+        "chunk": 95,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 95,
+        "model": "TagOp"
+      },
+      {
+        "answer": "7 yrs.",
+        "score": 9.43813419342041,
+        "chunk": 96,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 96,
+        "model": "TagOp"
+      },
+      {
+        "answer": "15 yrs.",
+        "score": 46.91926193237305,
+        "chunk": 97,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 97,
+        "model": "TagOp"
+      },
+      {
+        "answer": "2 yrs.",
+        "score": 10.899604797363281,
+        "chunk": 98,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 98,
+        "model": "TagOp"
+      },
+      {
+        "answer": "3 yrs.",
+        "score": 5.145378589630127,
+        "chunk": 99,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 99,
+        "model": "TagOp"
+      },
+      {
+        "answer": "15 yrs.",
+        "score": 54.34495162963867,
+        "chunk": 100,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 100,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 15 yrs.",
+        "score": 2.4756100177764893,
+        "chunk": 101,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 101,
+        "model": "TagOp"
+      },
+      {
+        "answer": "nan",
+        "score": 14.742483139038086,
+        "chunk": 102,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 102,
+        "model": "TagOp"
+      },
+      {
+        "answer": "12.6 yrs.",
+        "score": 16.069900512695312,
+        "chunk": 103,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 103,
+        "model": "TagOp"
+      },
+      {
+        "answer": "5 yrs.",
+        "score": 7.420526504516602,
+        "chunk": 104,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 104,
+        "model": "TagOp"
+      },
+      {
+        "answer": "3 yrs.",
+        "score": 22.01495361328125,
+        "chunk": 105,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 105,
+        "model": "TagOp"
+      },
+      {
+        "answer": "3 yrs.",
+        "score": 21.097084045410156,
+        "chunk": 106,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 106,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > .5 yrs.",
+        "score": 23.61382293701172,
+        "chunk": 107,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 107,
+        "model": "TagOp"
+      },
+      {
+        "answer": "4 yrs.",
+        "score": 2.2888541221618652,
+        "chunk": 108,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 108,
+        "model": "TagOp"
+      },
+      {
+        "answer": "10 yrs.",
+        "score": 10.1559419631958,
+        "chunk": 109,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 109,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > ",
+        "score": -7.014660835266113,
+        "chunk": 110,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 110,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 2 yrs.",
+        "score": 6.187344551086426,
+        "chunk": 111,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 111,
+        "model": "TagOp"
+      },
+      {
+        "answer": "2 yrs.",
+        "score": 40.552730560302734,
+        "chunk": 112,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 112,
+        "model": "TagOp"
+      },
+      {
+        "answer": "15 yrs.",
+        "score": 11.689138412475586,
+        "chunk": 113,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 113,
+        "model": "TagOp"
+      },
+      {
+        "answer": "4 yrs.",
+        "score": 11.115811347961426,
+        "chunk": 114,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 114,
+        "model": "TagOp"
+      },
+      {
+        "answer": "15 yrs.",
+        "score": 11.516897201538086,
+        "chunk": 115,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 115,
+        "model": "TagOp"
+      },
+      {
+        "answer": "15 yrs.",
+        "score": 16.535120010375977,
+        "chunk": 116,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 116,
+        "model": "TagOp"
+      },
+      {
+        "answer": "nan",
+        "score": 24.279403686523438,
+        "chunk": 117,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 117,
+        "model": "TagOp"
+      },
+      {
+        "answer": "15 yrs.",
+        "score": 37.15933609008789,
+        "chunk": 118,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 118,
+        "model": "TagOp"
+      },
+      {
+        "answer": "12 yrs.",
+        "score": 18.322460174560547,
+        "chunk": 119,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 119,
+        "model": "TagOp"
+      },
+      {
+        "answer": "nan",
+        "score": 65.61679077148438,
+        "chunk": 120,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 120,
+        "model": "TagOp"
+      },
+      {
+        "answer": "nan",
+        "score": 40.947017669677734,
+        "chunk": 121,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 121,
+        "model": "TagOp"
+      },
+      {
+        "answer": "nan",
+        "score": 8.222843170166016,
+        "chunk": 122,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 122,
+        "model": "TagOp"
+      },
+      {
+        "answer": "3-5 yrs., nan",
+        "score": 4.736278533935547,
+        "chunk": 123,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 123,
+        "model": "TagOp"
+      },
+      {
+        "answer": "nan",
+        "score": 20.6549129486084,
+        "chunk": 124,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 124,
+        "model": "TagOp"
+      }
+    ]
+  },
+  "que_4": {
+    "question": "What is the average Launch Mass of satellites by Germany?",
+    "id": "que_4",
+    "class": 1,
+    "answers": [
+      {
+        "answer": "AVERAGE > 1, 6,330, 3,775, 4,143, 2,894, 3,500, 115, 4,500, 4,500, 5,000",
+        "score": 93.90670776367188,
+        "chunk": 0,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          0.0215,
+          ""
+        ],
+        "chunk": 0,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 5,000, 6,169",
+        "score": 45.18299102783203,
+        "chunk": 1,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          1.0056,
+          "million"
+        ],
+        "chunk": 1,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 14",
+        "score": 67.88262939453125,
+        "chunk": 2,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          0.8771,
+          "million"
+        ],
+        "chunk": 2,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 6,650",
+        "score": 103.96418762207031,
+        "chunk": 3,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          14360900.0,
+          ""
+        ],
+        "chunk": 3,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 2,340, 4,200, 4,312, 2,081, 2,648, 2,500, 2,845, 3,909, 1,698",
+        "score": 106.1693115234375,
+        "chunk": 4,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          "",
+          ""
+        ],
+        "chunk": 4,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 3,901, 1,935, 2,015, 4,100, 29",
+        "score": 52.34746170043945,
+        "chunk": 5,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          -0.002,
+          ""
+        ],
+        "chunk": 5,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 4,710, 4,500, 5,910, 4,715, 4,905, 2, 12, 12, 12, 12, 12, 12",
+        "score": 35.833187103271484,
+        "chunk": 6,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          0.9996,
+          "million"
+        ],
+        "chunk": 6,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 12, 1,383, 1,383, 4,680, 5,054, 4,630, 3,600, 1, 3,105, 3,480",
+        "score": 90.16487884521484,
+        "chunk": 7,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          0.0256,
+          "million"
+        ],
+        "chunk": 7,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 4,137, 3,760, 3,813, 2,775, 2,924, 3,010, 3,690",
+        "score": 58.18556213378906,
+        "chunk": 8,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          "",
+          "million"
+        ],
+        "chunk": 8,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 4,500, 5,345, 5,350, 3,635, 3,315, 3,643, 1,420, 6,052, 6,000, 1,500",
+        "score": 54.34971237182617,
+        "chunk": 9,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          0.9993,
+          ""
+        ],
+        "chunk": 9,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 5,471, 5,724, 3,080, 25, 3,250, 70, 3,304, 5,420, 4,940, 3,400",
+        "score": 41.911949157714844,
+        "chunk": 10,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          0.0007,
+          "million"
+        ],
+        "chunk": 10,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 1, 1, 1, 92",
+        "score": 55.51013946533203,
+        "chunk": 11,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          Infinity,
+          "million"
+        ],
+        "chunk": 11,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 2,495, 10, 10, 1,980, 2,060, 2,910, 25, 384, 587, 400",
+        "score": 75.04206848144531,
+        "chunk": 12,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          -0.0023,
+          ""
+        ],
+        "chunk": 12,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 5, 15",
+        "score": 23.687828063964844,
+        "chunk": 13,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          "",
+          ""
+        ],
+        "chunk": 13,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 159, 4,742, 4,600",
+        "score": 66.71159362792969,
+        "chunk": 14,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          "",
+          "million"
+        ],
+        "chunk": 14,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 5,585, 3, 3, 3, 848, 2,200, 2,300, 2,300",
+        "score": 50.792274475097656,
+        "chunk": 15,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          "",
+          "million"
+        ],
+        "chunk": 15,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 2,200, 6,000, 2,200, 3,800, 2,200, 2,300, 2,300, 2,200",
+        "score": 84.27775573730469,
+        "chunk": 16,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          "",
+          ""
+        ],
+        "chunk": 16,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 2,440, 2,440",
+        "score": 48.98686218261719,
+        "chunk": 17,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          "",
+          ""
+        ],
+        "chunk": 17,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 70, 70, 70, 70, 70, 1,700, 1,700, 1,700",
+        "score": 86.31423950195312,
+        "chunk": 18,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          "",
+          ""
+        ],
+        "chunk": 18,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 1,700, 720, 2, 2, 1",
+        "score": 52.519020080566406,
+        "chunk": 19,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          "",
+          ""
+        ],
+        "chunk": 19,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 2,120, 2,120, 50, 90, 310, 5,900, 5,900, 3,420",
+        "score": 61.26896667480469,
+        "chunk": 20,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          0.9921,
+          "million"
+        ],
+        "chunk": 20,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 45",
+        "score": 64.9378662109375,
+        "chunk": 21,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          0.0401,
+          ""
+        ],
+        "chunk": 21,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 1,155, 1,230, 6, 6, 6, 2,650, 1,156, 1,156, 1,156",
+        "score": 70.93479919433594,
+        "chunk": 22,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          "",
+          ""
+        ],
+        "chunk": 22,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 1,156, 1,156, 2,380, 2,380, 2,380, 200",
+        "score": 24.061880111694336,
+        "chunk": 23,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          0.0,
+          ""
+        ],
+        "chunk": 23,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 300, 27, 2, 3,287",
+        "score": 35.0280647277832,
+        "chunk": 24,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          0.0022,
+          ""
+        ],
+        "chunk": 24,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 3,674, 3,700, 4,027, 4,660, 4,000, 6,600, 10, 1,050, 1,766, 120",
+        "score": 41.79253387451172,
+        "chunk": 25,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          -0.0017,
+          "million"
+        ],
+        "chunk": 25,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 120, 120, 120, 572, 4,854, 2,967, 2,934, 240, 350",
+        "score": 52.54961395263672,
+        "chunk": 26,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          0.9783,
+          ""
+        ],
+        "chunk": 26,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 1, 3,535, 4,167, 5,900, 2,700, 5,400, 2,885, 2,500, 5,000",
+        "score": 100.58464050292969,
+        "chunk": 27,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          "",
+          ""
+        ],
+        "chunk": 27,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > nan, 3,170, 2,950, 1,525, 3,190, 5,600, 2,200, 5,967, 5,404",
+        "score": 98.22549438476562,
+        "chunk": 28,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          0.0007,
+          "million"
+        ],
+        "chunk": 28,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 2,915, 5,102, 2,490, 4,050, 4,600, 5,250, 4,300, 3,150, 3,800",
+        "score": 84.25628662109375,
+        "chunk": 29,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          3937.9956,
+          ""
+        ],
+        "chunk": 29,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 4,100, 4,892, 4,900, 4,880, 6,150, 2,600, 2,600",
+        "score": 60.57454299926758,
+        "chunk": 30,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          14.1429,
+          ""
+        ],
+        "chunk": 30,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 2,600, 2,542, 2,600, 2,600, 2,532, 3,400, 1,726, 1,427, 46, 55",
+        "score": 51.62755584716797,
+        "chunk": 31,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          "",
+          ""
+        ],
+        "chunk": 31,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 1,390, 1,390, 1,390, 2,300, 2,300, 2,300",
+        "score": 80.78605651855469,
+        "chunk": 32,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          27.3734,
+          "million"
+        ],
+        "chunk": 32,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 2, 2, 3, 2,310, 764, 215, 1",
+        "score": 45.05825424194336,
+        "chunk": 33,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          "",
+          ""
+        ],
+        "chunk": 33,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 4,488, 1,760, 4,060, 2,086, 2,033, 4,640, 4,100, 4,642, 4,690, 3,515, 3,790",
+        "score": 45.256404876708984,
+        "chunk": 34,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          0.9997,
+          "million"
+        ],
+        "chunk": 34,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 0.0011, 0.0011099999999999999, 0.000321, 0.000169",
+        "score": 36.242637634277344,
+        "chunk": 35,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          16.3676,
+          ""
+        ],
+        "chunk": 35,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 586, 686, 104,552, 704",
+        "score": 50.75135040283203,
+        "chunk": 36,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          0.8669,
+          "million"
+        ],
+        "chunk": 36,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 450",
+        "score": 73.2220230102539,
+        "chunk": 37,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          "",
+          ""
+        ],
+        "chunk": 37,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 450, 700, 700, 700, 700, 700",
+        "score": 45.460174560546875,
+        "chunk": 38,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          0.9993,
+          ""
+        ],
+        "chunk": 38,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 700, 700, 700, 700, 700",
+        "score": 74.32332611083984,
+        "chunk": 39,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          1.0007,
+          "million"
+        ],
+        "chunk": 39,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 700, 700, 700, 935, 1,480, 1,480, 1,480, 1,480, 1,480, 1,480, 1,480",
+        "score": 69.25567626953125,
+        "chunk": 40,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          "",
+          "million"
+        ],
+        "chunk": 40,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > Baikonur Cosmodrome, Baikonur Cosmodrome, Baikonur Cosmodrome",
+        "score": 47.54616165161133,
+        "chunk": 41,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          "",
+          "million"
+        ],
+        "chunk": 41,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 1,415",
+        "score": 27.58680534362793,
+        "chunk": 42,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          "",
+          "million"
+        ],
+        "chunk": 42,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 1,415, 1,415",
+        "score": 29.559303283691406,
+        "chunk": 43,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          "",
+          ""
+        ],
+        "chunk": 43,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 480",
+        "score": 44.859619140625,
+        "chunk": 44,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          "",
+          ""
+        ],
+        "chunk": 44,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 434",
+        "score": 51.09075164794922,
+        "chunk": 45,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          4.8764,
+          ""
+        ],
+        "chunk": 45,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 4,200, 4,200",
+        "score": 89.77861022949219,
+        "chunk": 46,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          "",
+          ""
+        ],
+        "chunk": 46,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 3,288, 5,320, 470, 470, 890, 60, 60, 4, 2,300, 7",
+        "score": 68.02720642089844,
+        "chunk": 47,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          -0.0008,
+          ""
+        ],
+        "chunk": 47,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 11,110, 1, 2,242, 3,311, 1, 850, 850, 1,600, 1,600, 1,600",
+        "score": 51.53001022338867,
+        "chunk": 48,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          "",
+          "million"
+        ],
+        "chunk": 48,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 1,600, 726, 4,000, 4,200, 2,064, 2,070, 2,066, 2,000, 5,959",
+        "score": 52.131134033203125,
+        "chunk": 49,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          "",
+          ""
+        ],
+        "chunk": 49,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 5,458, 6,070",
+        "score": 80.45121765136719,
+        "chunk": 50,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          0.9992,
+          "million"
+        ],
+        "chunk": 50,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 3,739, 5,576, 2,491, 5,613, 2,550, 2,450, 5,540, 3,200, 4,793",
+        "score": 43.3415641784668,
+        "chunk": 51,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          522.1249,
+          ""
+        ],
+        "chunk": 51,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 5,984, 6,199, 3,200, 4,100, 3,124, 2,730, 4,200, 3,833, 3,642, 3,642",
+        "score": 48.804752349853516,
+        "chunk": 52,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          -616.7931,
+          ""
+        ],
+        "chunk": 52,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 3,653, 3,592, 3,420, 3,659, 4,723, 4,723, 4,723, 4,680, 4,723, 4,723, 4,685, 2,550",
+        "score": 38.85007095336914,
+        "chunk": 53,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          0.9995,
+          "million"
+        ],
+        "chunk": 53,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 3,000, 462, 1, 689, 689, 689, 689, 689, 689",
+        "score": 100.005126953125,
+        "chunk": 54,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          0.0009,
+          "million"
+        ],
+        "chunk": 54,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 689, 689, 689, 689, 689, 689, 689, 689, 689, 689",
+        "score": 105.44557189941406,
+        "chunk": 55,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          1.0039,
+          ""
+        ],
+        "chunk": 55,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 689, 689, 689, 689, 689, 689, 689, 689, 689, 689",
+        "score": 93.34547424316406,
+        "chunk": 56,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          Infinity,
+          ""
+        ],
+        "chunk": 56,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 689, 689, 689, 689, 689, 689, 689, 689, nan, 689",
+        "score": 99.97926330566406,
+        "chunk": 57,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          "",
+          ""
+        ],
+        "chunk": 57,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 689, 689, 689, 689, 689, 689, 689, 689, 689, 689, 689",
+        "score": 102.8634262084961,
+        "chunk": 58,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          1.0039,
+          ""
+        ],
+        "chunk": 58,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 689, 689, 689, 689, 689, 689, 689, 689, 689, 689",
+        "score": 92.59919738769531,
+        "chunk": 59,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          0.1109,
+          ""
+        ],
+        "chunk": 59,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 689, 689, 689, 689, 689, 689, 689, 689, 689, 689",
+        "score": 94.16342163085938,
+        "chunk": 60,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          1.0039,
+          ""
+        ],
+        "chunk": 60,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 689, 689, 689, 689",
+        "score": 86.06685638427734,
+        "chunk": 61,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          "",
+          ""
+        ],
+        "chunk": 61,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 4,400, 3,531, 4,500, 2,982, 2,500, 2,900, 4,400, 4,000",
+        "score": 106.82682037353516,
+        "chunk": 62,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          280.5427,
+          ""
+        ],
+        "chunk": 62,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 830, 185, 1,300, nan",
+        "score": 41.389705657958984,
+        "chunk": 63,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          1851.75,
+          "million"
+        ],
+        "chunk": 63,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 5,800, 4,850, 3, 6,000, 800, 980, 1,400, 1,150",
+        "score": 96.94756317138672,
+        "chunk": 64,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          "",
+          "million"
+        ],
+        "chunk": 64,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 60",
+        "score": 24.768083572387695,
+        "chunk": 65,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          1.0003,
+          ""
+        ],
+        "chunk": 65,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 3,400, 4, 5,000, 950, 1,282, 1,148, 47, 1, 2, 1,450",
+        "score": 78.03497314453125,
+        "chunk": 66,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          357.3141,
+          "million"
+        ],
+        "chunk": 66,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 4,900, 2,417, 1,000, 8,000, 3,900, 2,500, 2,500, nan, 2,700, 2,778",
+        "score": 27.341650009155273,
+        "chunk": 67,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          -3.2751,
+          ""
+        ],
+        "chunk": 67,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 2,000, 696, 2,000, 2,000, 4,193, 4,085, 2,900",
+        "score": 110.24163818359375,
+        "chunk": 68,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          "",
+          ""
+        ],
+        "chunk": 68,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 4,536, 4,536, 4,536, 4,536, 65, 110, 53, 64, 2,850, 2,850",
+        "score": 57.74930191040039,
+        "chunk": 69,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          0.0001,
+          "million"
+        ],
+        "chunk": 69,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 587, 2,900, 2,900, 6,804, 6,804, 1,430, 1,816",
+        "score": 46.394493103027344,
+        "chunk": 70,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          "",
+          ""
+        ],
+        "chunk": 70,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 1,816, 1,816, 1,816, 1,816, 1,816, 1,816, 1,816, 1,816, 1,630, 1,630",
+        "score": 76.67483520507812,
+        "chunk": 71,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          "",
+          ""
+        ],
+        "chunk": 71,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 1,630, 1,630, 1,630, 1,630, 2,217, 2,217, 2,217, 2,217, 2,217",
+        "score": 93.1053466796875,
+        "chunk": 72,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          0.9992,
+          ""
+        ],
+        "chunk": 72,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 2,217, 2,217, 2,217, 2,217, 2,217, 2,217, 2,217, 2,217, 2,060",
+        "score": 116.10538482666016,
+        "chunk": 73,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          "",
+          ""
+        ],
+        "chunk": 73,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 2,060, 2,217, 2,060, 2,217, 2,059, 74, 494, 300, 100",
+        "score": 37.740291595458984,
+        "chunk": 74,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          "",
+          ""
+        ],
+        "chunk": 74,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 1,825, 3,200, 3,600, 4,850, 4,745, 4,745, 2,223, 2,223, 1,420, 2,128",
+        "score": 38.19865798950195,
+        "chunk": 75,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          -0.0002,
+          ""
+        ],
+        "chunk": 75,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 1, 5,396, 3,582, 3,412, 4,575, 4,500, 3,642, 3,720",
+        "score": 67.13446044921875,
+        "chunk": 76,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          "",
+          "million"
+        ],
+        "chunk": 76,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 2,238, 1,625, 360, 6, 700, 650, 700, 700, 650, 650, 650, 700",
+        "score": 40.04937744140625,
+        "chunk": 77,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          0.0051,
+          ""
+        ],
+        "chunk": 77,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > Svobodny Cosmodrome",
+        "score": 55.81831359863281,
+        "chunk": 78,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          "",
+          "million"
+        ],
+        "chunk": 78,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 2,300, 2,501",
+        "score": 51.039485931396484,
+        "chunk": 79,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          223.5037,
+          "million"
+        ],
+        "chunk": 79,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 45",
+        "score": 41.7071533203125,
+        "chunk": 80,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          "",
+          ""
+        ],
+        "chunk": 80,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 45, 45, 45, 5",
+        "score": 51.6113395690918,
+        "chunk": 81,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          "",
+          ""
+        ],
+        "chunk": 81,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 5, 434, 5, 61, 5,120, 3,014, 4,100, 120, 795, 795",
+        "score": 34.706207275390625,
+        "chunk": 82,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          Infinity,
+          "million"
+        ],
+        "chunk": 82,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 825, 825, 820, 825, 825, 810, 810, 820, 10, 6, 6, 7,000",
+        "score": 71.1332778930664,
+        "chunk": 83,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          "",
+          ""
+        ],
+        "chunk": 83,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 1, 6,800, 150, 1, 1,000, 970, 1, 5, 100",
+        "score": 41.581947326660156,
+        "chunk": 84,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          "",
+          ""
+        ],
+        "chunk": 84,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 130",
+        "score": 80.50508117675781,
+        "chunk": 85,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          "",
+          "million"
+        ],
+        "chunk": 85,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 2, 2, 5,514, nan, 4,000, 2,924, nan, 2,400, 2,500, 2,400",
+        "score": 40.45012283325195,
+        "chunk": 86,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          "",
+          "million"
+        ],
+        "chunk": 86,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 175, 175, 175, 175, 175",
+        "score": 79.78751373291016,
+        "chunk": 87,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          1.0131,
+          "million"
+        ],
+        "chunk": 87,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 1,206, 6,650, 5,900, 1,858, 93, 41, 225, 280, 280, 280",
+        "score": 58.82379150390625,
+        "chunk": 88,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          "",
+          ""
+        ],
+        "chunk": 88,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 280, 280, 280, 225, 225, 280, 250, 250, 250, 280",
+        "score": 53.82083511352539,
+        "chunk": 89,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          "",
+          ""
+        ],
+        "chunk": 89,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 280, 280, 280, 1,200, 485, 1,600, 1,200, 1,200",
+        "score": 43.181007385253906,
+        "chunk": 90,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          0.1428,
+          ""
+        ],
+        "chunk": 90,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 770, 770, 770, 770, 770",
+        "score": 59.86554718017578,
+        "chunk": 91,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          1.0791,
+          "million"
+        ],
+        "chunk": 91,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > Saudicomsat-1, Saudicomsat-3, Saudicomsat-6, Saudicomsat-7, Saudisat 1C (Oscar 50, SO 50)",
+        "score": 25.520599365234375,
+        "chunk": 92,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          "",
+          ""
+        ],
+        "chunk": 92,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 100, 4,500, 4,500, 1,031, 5,000+, 5,000+, 5,000+, 5,000+",
+        "score": 118.11769104003906,
+        "chunk": 93,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          "",
+          "million"
+        ],
+        "chunk": 93,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 5,000+, 5,000+, 5,000+, 5,000+, 5,000+, nan, 6,500, 6,500",
+        "score": 92.40100860595703,
+        "chunk": 94,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          63.4,
+          ""
+        ],
+        "chunk": 94,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 110, 3,100",
+        "score": 25.90279769897461,
+        "chunk": 95,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          0.5323,
+          "million"
+        ],
+        "chunk": 95,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 50, 3, 2,300, nan, 3,200, 3,112, nan, 6,007, 6,140, 4,007",
+        "score": 64.8304672241211,
+        "chunk": 96,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          -354.2673,
+          ""
+        ],
+        "chunk": 96,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 3,138, nan, nan, nan, nan, nan, nan, nan",
+        "score": 23.230104446411133,
+        "chunk": 97,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          "",
+          ""
+        ],
+        "chunk": 97,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > Long March 4B, Long March 4B, Long March 4B, Long March 4B, Long March 4B, Long March 4B, Long March 4B",
+        "score": 39.80322265625,
+        "chunk": 98,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          "",
+          ""
+        ],
+        "chunk": 98,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > nan, nan, nan, nan, nan, 35, 204, 300",
+        "score": 30.241348266601562,
+        "chunk": 99,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          "",
+          ""
+        ],
+        "chunk": 99,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 300, 204, 169, 2,596, 3,038, 170, 5,000, 3,727",
+        "score": 56.63231658935547,
+        "chunk": 100,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          "",
+          "million"
+        ],
+        "chunk": 100,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 3,792, 3,727, 4,400, 5,800, 6,020, 5,983, 1,474, 1,510, 1,510, 4,700, 4,635",
+        "score": 44.03288650512695,
+        "chunk": 101,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          0.2731,
+          ""
+        ],
+        "chunk": 101,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 4,600, 4,638, nan, 90, 5,360, 5, 3, 5, 5, 658",
+        "score": 45.27249526977539,
+        "chunk": 102,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          "",
+          ""
+        ],
+        "chunk": 102,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 48, 50, 315, 6,100, 5,993, 5,993, 3,680, 3,660, 117, 117",
+        "score": 42.60171890258789,
+        "chunk": 103,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          "",
+          "million"
+        ],
+        "chunk": 103,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 3,030, 714, 7, 4,100",
+        "score": 31.613956451416016,
+        "chunk": 104,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          "",
+          "million"
+        ],
+        "chunk": 104,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 3, 180, 137, 4, 225, 225, 225, 225, 225",
+        "score": 67.39582061767578,
+        "chunk": 105,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          "",
+          ""
+        ],
+        "chunk": 105,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 225, 225, 225, 93",
+        "score": 36.641700744628906,
+        "chunk": 106,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          "",
+          ""
+        ],
+        "chunk": 106,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 1, 5,000, 4,051, 3,130, 1,600, 468, 468, 468, 1,463, 1, 3,725",
+        "score": 72.47677612304688,
+        "chunk": 107,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          0.004,
+          "million"
+        ],
+        "chunk": 107,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 1,350",
+        "score": 79.37103271484375,
+        "chunk": 108,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          0.0,
+          ""
+        ],
+        "chunk": 108,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 3,180, 3,180, 3,180, 3,180, 3,180",
+        "score": 78.67234802246094,
+        "chunk": 109,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          -0.0047,
+          ""
+        ],
+        "chunk": 109,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 1,230, 120",
+        "score": 30.404447555541992,
+        "chunk": 110,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          "",
+          ""
+        ],
+        "chunk": 110,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 126, 126, 750, 1,400, 2,024, 3,050",
+        "score": 49.84489059448242,
+        "chunk": 111,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          0.0053,
+          ""
+        ],
+        "chunk": 111,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 8,506, 2,500, 2,500, 3,750, 2,250, 2,200, 9, 1",
+        "score": 85.63496398925781,
+        "chunk": 112,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          0.0022,
+          "million"
+        ],
+        "chunk": 112,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 587, 1, 5,000, 3,820, 3,900, 3,200, 14, 3,100, 4,869",
+        "score": 37.86172103881836,
+        "chunk": 113,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          0.9993,
+          ""
+        ],
+        "chunk": 113,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 3, 3,200, 97",
+        "score": 31.28569793701172,
+        "chunk": 114,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          0.9921,
+          "million"
+        ],
+        "chunk": 114,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 1",
+        "score": 55.97459411621094,
+        "chunk": 115,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          0.8755,
+          ""
+        ],
+        "chunk": 115,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 1, 29, 29, 6,740, 2,600, 2,970, 115, 880, 5,900, 5,987",
+        "score": 95.09237670898438,
+        "chunk": 116,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          0.0037,
+          ""
+        ],
+        "chunk": 116,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 3",
+        "score": 49.92576599121094,
+        "chunk": 117,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          1.0,
+          "million"
+        ],
+        "chunk": 117,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 4,703, 5,193, 4,682, 4,667",
+        "score": 105.03084564208984,
+        "chunk": 118,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          73.1738,
+          "million"
+        ],
+        "chunk": 118,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 5,953, 6,000, 1,360, 1,320, 1,640, 4,463",
+        "score": 52.67422103881836,
+        "chunk": 119,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          "",
+          ""
+        ],
+        "chunk": 119,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > Long March 4B, Long March 4C, Long March 4C, Long March 4C, Long March 4C, Long March 4C, Long March 4C",
+        "score": 25.24679946899414,
+        "chunk": 120,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          "",
+          ""
+        ],
+        "chunk": 120,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > nan, nan, 1,200, 2,700, 2,700, 2,700",
+        "score": 52.787071228027344,
+        "chunk": 121,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          "",
+          ""
+        ],
+        "chunk": 121,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > Long March 2C, Long March 2D, Long March 4C, Long March 4C, Long March 4C, Long March 4C, PSLV C16, Rokot, Dnepr",
+        "score": 29.62810516357422,
+        "chunk": 122,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          "",
+          ""
+        ],
+        "chunk": 122,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 1,500, 4, 4, 5,000, 5,100, 5,500, 5,200",
+        "score": 74.77869415283203,
+        "chunk": 123,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          "",
+          ""
+        ],
+        "chunk": 123,
+        "model": "TagOp"
+      },
+      {
+        "answer": "AVERAGE > 2,300, 2,300, 5,200, nan, 1,500, 2,650",
+        "score": 90.66473388671875,
+        "chunk": 124,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          "",
+          ""
+        ],
+        "chunk": 124,
+        "model": "TagOp"
+      }
+    ]
+  }
+}

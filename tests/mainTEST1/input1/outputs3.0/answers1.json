@@ -1,0 +1,635 @@
+{
+   "que_0": {
+      "answers": [
+         {
+            "answer": "AAUSat-3",
+            "chunk": 0,
+            "model": "TaPaS",
+            "score": "None"
+         },
+         {
+            "answer": "Advanced Orion 5 (NRO L-32, USA 223)",
+            "chunk": 1,
+            "model": "TaPaS",
+            "score": "None"
+         },
+         {
+            "answer": "AGILE (Astro-rivelatore Gamma a Immagini Leggaro)",
+            "chunk": 2,
+            "model": "TaPaS",
+            "score": "None"
+         },
+         {
+            "answer": "Akebono (EXOS-D)",
+            "chunk": 3,
+            "model": "TaPaS",
+            "score": "None"
+         },
+         {
+            "answer": "AMC-11 (Americom-11, GE 11)",
+            "chunk": 4,
+            "model": "TaPaS",
+            "score": "None"
+         },
+         {
+            "answer": "AMC-6 (Americom-6, GE-6)",
+            "chunk": 5,
+            "model": "TaPaS",
+            "score": "None"
+         },
+         {
+            "answer": "Anik F1 ",
+            "chunk": 6,
+            "model": "TaPaS",
+            "score": "None"
+         },
+         {
+            "answer": "",
+            "chunk": 7,
+            "model": "TaPaS",
+            "score": "None"
+         },
+         {
+            "answer": "",
+            "chunk": 8,
+            "model": "TaPaS",
+            "score": "None"
+         },
+         {
+            "answer": "Astra 1L",
+            "chunk": 9,
+            "model": "TaPaS",
+            "score": "None"
+         },
+         {
+            "answer": "Astra 3B",
+            "chunk": 10,
+            "model": "TaPaS",
+            "score": "None"
+         },
+         {
+            "answer": "Brazilsat B-3 (Brasilsat B-3)",
+            "chunk": 11,
+            "model": "TaPaS",
+            "score": "None"
+         },
+         {
+            "answer": "BSAT-3A",
+            "chunk": 12,
+            "model": "TaPaS",
+            "score": "None"
+         }
+      ],
+      "class": 0,
+      "id": "que_0",
+      "question": "What is the name of the satellite from Estonia?"
+   },
+   "que_1": {
+      "answers": [
+         {
+            "answer": "AAUSat-3, ABS-2 (Koreasat-8, ST-3), ABS-3 (Agila 2, Mabuhay 1), ABS-4 (ABS-2i, MBSat, Mobile Broadcasting Satellite, Han Byul), ABS-6 (ABS-1, LMI-1, Lockheed Martin-Intersputnik-1), ABS-7 (Koreasat 3, Mugungwha 3), AcrimSat (Active Cavity Radiometer Irradiance Monitor), Advanced Orion 2 (NROL 6, USA 139), Advanced Orion 3 (NROL 19, USA 171), Advanced Orion 4 (NRO L-26, USA 202)",
+            "chunk": 0,
+            "model": "TaPaS",
+            "score": "None"
+         },
+         {
+            "answer": "Advanced Orion 5 (NRO L-32, USA 223), Advanced Orion 6 (NRO L-15, USA 237), AEHF-1 (Advanced Extremely High Frequency satellite-1, USA 214), AEHF-2 (Advanced Extremely High Frequency satellite-2, USA 235), AEHF-3 (Advanced Extremely High Frequency satellite-3, USA 246), Aeneas, Aerocube 4.5A, Aerocube 4.5B, Aerocube 5A, Aerocube 5B, Aerocube 6A",
+            "chunk": 1,
+            "model": "TaPaS",
+            "score": "None"
+         },
+         {
+            "answer": "Aerocube 6B, Afghansat-1 (Eutelsat 28B, Eutelsat 48B, Eutelsat W2M), Afristar , AGILE (Astro-rivelatore Gamma a Immagini Leggaro), AIM (Aeronomy of Ice in Mesosphere), AISat-1, AISSat-1 (Automatic Identification System Satellite-1), AISSat-2 (Automatic Identification System Satellite-2), AIST-1, AIST-2",
+            "chunk": 2,
+            "model": "TaPaS",
+            "score": "None"
+         },
+         {
+            "answer": "Akebono (EXOS-D), ALiCE��(AFIT LEO iMESA CNT E), Alphasat I-XL��(Inmarsat IV-A F4), Alsat-2A (Algeria Satellite 2A), Amazonas-1 , Amazonas-2, Amazonas-3, Amazonas-4A, AMC-1 (Americom 1, GE-1), AMC-10 (Americom-10, GE 10)",
+            "chunk": 3,
+            "model": "TaPaS",
+            "score": "None"
+         },
+         {
+            "answer": "AMC-11 (Americom-11, GE 11), AMC-15 (Americom-15), AMC-16 (Americom-16), AMC-18 (Americom 18), AMC-2 (Americom 2, GE-2), AMC-21 (Americom 21), AMC-3 (Americom 3, GE-3), AMC-4 (Americom-4, GE-4), AMC-5 (Americom-5, GE-5)",
+            "chunk": 4,
+            "model": "TaPaS",
+            "score": "None"
+         },
+         {
+            "answer": "AMC-6 (Americom-6, GE-6), AMC-7 (Americom-7, GE-7), AMC-8 (Americom-8, GE-8, Aurora 3), AMC-9 (Americom 9, GE-12), Amos 2 , Amos 3, Amos 5, Amsat-Oscar 7 (AO-7), Angels (Automated Navigation and Guidance Experiment for Local Space, USA 255)",
+            "chunk": 5,
+            "model": "TaPaS",
+            "score": "None"
+         },
+         {
+            "answer": "Anik F1 , Anik F1R, Anik F2 , Anik F3, Anik G1, AntelSat, AprizeSat 1 (LatinSat-C), AprizeSat 10, AprizeSat 2 (LatinSat-D), AprizeSat 3, AprizeSat 4, AprizeSat 8",
+            "chunk": 6,
+            "model": "TaPaS",
+            "score": "None"
+         },
+         {
+            "answer": "AprizeSat 9, Apstar 1, Apstar 1A, Apstar 6, Apstar 7, Arabsat 5C, Arabsat 7F (Nimiq 1) , Ardusat-1, Artemis (Advanced Data Relay and Technology Mission Satellite) , AsiaSat-3S (Asiasat 3SA)",
+            "chunk": 7,
+            "model": "TaPaS",
+            "score": "None"
+         },
+         {
+            "answer": "AsiaSat-4 , AsiaSat-5, AsiaSat-7",
+            "chunk": 8,
+            "model": "TaPaS",
+            "score": "None"
+         },
+         {
+            "answer": "Astra 1L, Astra 1M, Astra 1N, Astra 2A , Astra 2B , Astra 2C , Astra 2D, Astra 2E, Astra 2F, Astra 3A ",
+            "chunk": 9,
+            "model": "TaPaS",
+            "score": "None"
+         },
+         {
+            "answer": "Astra 3B, Astra 5B, Athena-Fidus��(Access on THeatres for European Nations Allied forces - French Italian Dual Use Satellite), Aurora��(Tabletsat-2U-EO), Azerspace/Africasat-1a (Azersat-1), Badr 2 (Badr B), Badr 4 (Arabsat 4B), Badr 5 (Arabsat 5B), Badr 5A (Arabsat 5A), Badr 6 (Arabsat 4AR)",
+            "chunk": 10,
+            "model": "TaPaS",
+            "score": "None"
+         },
+         {
+            "answer": "BeeSat-1 (Berlin Experimental and Educational Satellite 1), BeeSat-2 (Berlin Experimental and Educational Satellite 2), BeeSat-3 (Berlin Experimental and Educational Satellite 3), BeijinGalaxy-1 (Beijing 1 [Tsinghua], Tsinghau-2, China DMC+4), Bird 2 (Bispectral InfraRed Detector 2), BKA (BelKA 2), Bonum 1 (Most 1), Brazilsat B-2 (Brasilsat B-2), Brazilsat B-3 (Brasilsat B-3)",
+            "chunk": 11,
+            "model": "TaPaS",
+            "score": "None"
+         },
+         {
+            "answer": "Brazilsat B-4 (Brasilsat B-4), BRITE-CA-1 (BRITE Toronto), BRITE-PL-1 (BRIght-star Target Explorer - Poland), BSAT-3A, BSAT-3B, BSAT-3C/JCSat 110-R, Bugsat-1 (Tita), C/NOFS (Communication/Navigation Outage Forecasting System), Calipso (Cloud-Aerosol Lidar and Infrared Pathfinder Satellite Observation), Canopus-B�(Kanopus Vulcan 1)�",
+            "chunk": 12,
+            "model": "TaPaS",
+            "score": "None"
+         }
+      ],
+      "class": 0,
+      "id": "que_1",
+      "question": "What are the names of the satellites from India?"
+   },
+   "que_2": {
+      "answers": [
+         {
+            "answer": "Advanced Orion 2 (NROL 6, USA 139)",
+            "chunk": 0,
+            "model": "TaPaS",
+            "score": "None"
+         },
+         {
+            "answer": "AEHF-1 (Advanced Extremely High Frequency satellite-1, USA 214)",
+            "chunk": 1,
+            "model": "TaPaS",
+            "score": "None"
+         },
+         {
+            "answer": "Afghansat-1 (Eutelsat 28B, Eutelsat 48B, Eutelsat W2M)",
+            "chunk": 2,
+            "model": "TaPaS",
+            "score": "None"
+         },
+         {
+            "answer": "Amazonas-2",
+            "chunk": 3,
+            "model": "TaPaS",
+            "score": "None"
+         },
+         {
+            "answer": "AMC-18 (Americom 18)",
+            "chunk": 4,
+            "model": "TaPaS",
+            "score": "None"
+         },
+         {
+            "answer": "Amos 5",
+            "chunk": 5,
+            "model": "TaPaS",
+            "score": "None"
+         },
+         {
+            "answer": "Anik G1",
+            "chunk": 6,
+            "model": "TaPaS",
+            "score": "None"
+         },
+         {
+            "answer": "Apstar 7",
+            "chunk": 7,
+            "model": "TaPaS",
+            "score": "None"
+         },
+         {
+            "answer": "Astra 1KR",
+            "chunk": 8,
+            "model": "TaPaS",
+            "score": "None"
+         },
+         {
+            "answer": "Astra 1M",
+            "chunk": 9,
+            "model": "TaPaS",
+            "score": "None"
+         },
+         {
+            "answer": "Badr 5 (Arabsat 5B)",
+            "chunk": 10,
+            "model": "TaPaS",
+            "score": "None"
+         },
+         {
+            "answer": "Brazilsat B-3 (Brasilsat B-3)",
+            "chunk": 11,
+            "model": "TaPaS",
+            "score": "None"
+         },
+         {
+            "answer": "Brazilsat B-4 (Brasilsat B-4)",
+            "chunk": 12,
+            "model": "TaPaS",
+            "score": "None"
+         }
+      ],
+      "class": 0,
+      "id": "que_2",
+      "question": "Which satellite has the highest Apogee?"
+   },
+   "que_3": {
+      "answers": [
+         {
+            "answer": "15 yrs., 15 yrs.",
+            "chunk": 0,
+            "model": "TaPaS",
+            "score": "None"
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 0,
+            "model": "TagOp"
+         },
+         {
+            "answer": "14 yrs.",
+            "chunk": 1,
+            "model": "TaPaS",
+            "score": "None"
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 1,
+            "model": "TagOp"
+         },
+         {
+            "answer": "AVERAGE > 15 yrs.",
+            "chunk": 2,
+            "model": "TaPaS",
+            "score": "None"
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 2,
+            "model": "TagOp"
+         },
+         {
+            "answer": "15 yrs.",
+            "chunk": 3,
+            "model": "TaPaS",
+            "score": "None"
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 3,
+            "model": "TagOp"
+         },
+         {
+            "answer": "15 yrs.",
+            "chunk": 4,
+            "model": "TaPaS",
+            "score": "None"
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 4,
+            "model": "TagOp"
+         },
+         {
+            "answer": "AVERAGE > 15 yrs.",
+            "chunk": 5,
+            "model": "TaPaS",
+            "score": "None"
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 5,
+            "model": "TagOp"
+         },
+         {
+            "answer": "nan, nan",
+            "chunk": 6,
+            "model": "TaPaS",
+            "score": "None"
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 6,
+            "model": "TagOp"
+         },
+         {
+            "answer": "15 yrs.",
+            "chunk": 7,
+            "model": "TaPaS",
+            "score": "None"
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 7,
+            "model": "TagOp"
+         },
+         {
+            "answer": "AVERAGE > 15 yrs.",
+            "chunk": 8,
+            "model": "TaPaS",
+            "score": "None"
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 8,
+            "model": "TagOp"
+         },
+         {
+            "answer": "AVERAGE > ",
+            "chunk": 9,
+            "model": "TaPaS",
+            "score": "None"
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 9,
+            "model": "TagOp"
+         },
+         {
+            "answer": "AVERAGE > 15 yrs.",
+            "chunk": 10,
+            "model": "TaPaS",
+            "score": "None"
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 10,
+            "model": "TagOp"
+         },
+         {
+            "answer": "12 yrs.",
+            "chunk": 11,
+            "model": "TaPaS",
+            "score": "None"
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 11,
+            "model": "TagOp"
+         },
+         {
+            "answer": "13 yrs.",
+            "chunk": 12,
+            "model": "TaPaS",
+            "score": "None"
+         },
+         {
+            "answer": [
+               [],
+               ""
+            ],
+            "chunk": 12,
+            "model": "TagOp"
+         }
+      ],
+      "class": 1,
+      "id": "que_3",
+      "question": "What is the expected lifetime of INSAT 4A satellite?"
+   },
+   "que_4": {
+      "answers": [
+         {
+            "answer": "AVERAGE > 1, 6,330, 3,775, 4,143, 2,894, 3,500, 115, 4,500, 4,500, 5,000",
+            "chunk": 0,
+            "model": "TaPaS",
+            "score": "None"
+         },
+         {
+            "answer": [
+               0.0215,
+               ""
+            ],
+            "chunk": 0,
+            "model": "TagOp"
+         },
+         {
+            "answer": "AVERAGE > 5,000, 6,169",
+            "chunk": 1,
+            "model": "TaPaS",
+            "score": "None"
+         },
+         {
+            "answer": [
+               1.0056,
+               "million"
+            ],
+            "chunk": 1,
+            "model": "TagOp"
+         },
+         {
+            "answer": "AVERAGE > 14",
+            "chunk": 2,
+            "model": "TaPaS",
+            "score": "None"
+         },
+         {
+            "answer": [
+               0.8771,
+               "million"
+            ],
+            "chunk": 2,
+            "model": "TagOp"
+         },
+         {
+            "answer": "AVERAGE > 6,650",
+            "chunk": 3,
+            "model": "TaPaS",
+            "score": "None"
+         },
+         {
+            "answer": [
+               14360900.0,
+               ""
+            ],
+            "chunk": 3,
+            "model": "TagOp"
+         },
+         {
+            "answer": "AVERAGE > 2,340, 4,200, 4,312, 2,081, 2,648, 2,500, 2,845, 3,909, 1,698",
+            "chunk": 4,
+            "model": "TaPaS",
+            "score": "None"
+         },
+         {
+            "answer": [
+               "",
+               ""
+            ],
+            "chunk": 4,
+            "model": "TagOp"
+         },
+         {
+            "answer": "AVERAGE > 3,901, 1,935, 2,015, 4,100, 29",
+            "chunk": 5,
+            "model": "TaPaS",
+            "score": "None"
+         },
+         {
+            "answer": [
+               -0.002,
+               ""
+            ],
+            "chunk": 5,
+            "model": "TagOp"
+         },
+         {
+            "answer": "AVERAGE > 4,710, 4,500, 5,910, 4,715, 4,905, 2, 12, 12, 12, 12, 12, 12",
+            "chunk": 6,
+            "model": "TaPaS",
+            "score": "None"
+         },
+         {
+            "answer": [
+               0.9996,
+               "million"
+            ],
+            "chunk": 6,
+            "model": "TagOp"
+         },
+         {
+            "answer": "AVERAGE > 12, 1,383, 1,383, 4,680, 5,054, 4,630, 3,600, 1, 3,105, 3,480",
+            "chunk": 7,
+            "model": "TaPaS",
+            "score": "None"
+         },
+         {
+            "answer": [
+               0.0256,
+               "million"
+            ],
+            "chunk": 7,
+            "model": "TagOp"
+         },
+         {
+            "answer": "AVERAGE > 4,137, 3,760, 3,813, 2,775, 2,924, 3,010, 3,690",
+            "chunk": 8,
+            "model": "TaPaS",
+            "score": "None"
+         },
+         {
+            "answer": [
+               "",
+               "million"
+            ],
+            "chunk": 8,
+            "model": "TagOp"
+         },
+         {
+            "answer": "AVERAGE > 4,500, 5,345, 5,350, 3,635, 3,315, 3,643, 1,420, 6,052, 6,000, 1,500",
+            "chunk": 9,
+            "model": "TaPaS",
+            "score": "None"
+         },
+         {
+            "answer": [
+               0.9993,
+               ""
+            ],
+            "chunk": 9,
+            "model": "TagOp"
+         },
+         {
+            "answer": "AVERAGE > 5,471, 5,724, 3,080, 25, 3,250, 70, 3,304, 5,420, 4,940, 3,400",
+            "chunk": 10,
+            "model": "TaPaS",
+            "score": "None"
+         },
+         {
+            "answer": [
+               0.0007,
+               "million"
+            ],
+            "chunk": 10,
+            "model": "TagOp"
+         },
+         {
+            "answer": "AVERAGE > 1, 1, 1, 92",
+            "chunk": 11,
+            "model": "TaPaS",
+            "score": "None"
+         },
+         {
+            "answer": [
+               0.0007,
+               "million"
+            ],
+            "chunk": 11,
+            "model": "TagOp"
+         },
+         {
+            "answer": "AVERAGE > 2,495, 10, 10, 1,980, 2,060, 2,910, 25, 384, 587, 400",
+            "chunk": 12,
+            "model": "TaPaS",
+            "score": "None"
+         },
+         {
+            "answer": [
+               0.0007,
+               "million"
+            ],
+            "chunk": 12,
+            "model": "TagOp"
+         }
+      ],
+      "class": 1,
+      "id": "que_4",
+      "question": "What is the average Launch Mass of satellites by Germany?"
+   }
+}

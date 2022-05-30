@@ -1,0 +1,153 @@
+{
+  "que_0": {
+    "question": "By when shall the Pre-operational Space System be available ?",
+    "id": "que_0",
+    "class": 1,
+    "answers": [
+      {
+        "answer": "the pre-operational space system shall be available in 2013",
+        "chunk": 1,
+        "model": "AlBERT",
+        "score": 66.6494
+      }
+    ]
+  },
+  "que_1": {
+    "question": "What will be the minimum lifetime of each satellite after deployment ?",
+    "id": "que_1",
+    "class": 1,
+    "answers": [
+      {
+        "answer": "15 years",
+        "chunk": 15,
+        "model": "AlBERT",
+        "score": 106.434
+      },
+      {
+        "answer": [
+          [
+            "u o"
+          ],
+          ""
+        ],
+        "chunk": 6,
+        "model": "TagOp"
+      },
+      {
+        "answer": [
+          [
+            "o r"
+          ],
+          ""
+        ],
+        "chunk": 8,
+        "model": "TagOp"
+      },
+      {
+        "answer": [
+          [
+            "0 1"
+          ],
+          ""
+        ],
+        "chunk": 10,
+        "model": "TagOp"
+      }
+    ]
+  },
+  "que_2": {
+    "question": "What shall the space segment provide ?",
+    "id": "que_2",
+    "class": 1,
+    "answers": [
+      {
+        "answer": "single-point failure tolerance",
+        "chunk": 5,
+        "model": "AlBERT",
+        "score": 83.5163
+      }
+    ]
+  },
+  "que_3": {
+    "question": "What will perform on-board software management functions ?",
+    "id": "que_3",
+    "class": 1,
+    "answers": [
+      {
+        "answer": "on-board storage of software in non-modifiable memories ( rom ) shall be limited to the strict necessary ( e.g. boot sw ) such that software corrections/updates can be made when the satellite is in orbit",
+        "chunk": 5,
+        "model": "AlBERT",
+        "score": 43.2164
+      },
+      {
+        "answer": [
+          [
+            "r a e g a r"
+          ],
+          ""
+        ],
+        "chunk": 3,
+        "model": "TagOp"
+      },
+      {
+        "answer": [
+          [
+            "s e r"
+          ],
+          ""
+        ],
+        "chunk": 4,
+        "model": "TagOp"
+      },
+      {
+        "answer": [
+          [
+            "b l l"
+          ],
+          ""
+        ],
+        "chunk": 7,
+        "model": "TagOp"
+      }
+    ]
+  },
+  "que_4": {
+    "question": "Will the SCC implement authentication and authorisation operator mechanisms ?",
+    "id": "que_4",
+    "class": 1,
+    "answers": [
+      {
+        "answer": "be such that system level verification shall rely on past or already planned qualification activities",
+        "chunk": 6,
+        "model": "AlBERT",
+        "score": 66.0179
+      }
+    ]
+  },
+  "que_5": {
+    "question": "Will the ATM payload be compatible with the platform TMTC ?",
+    "id": "que_5",
+    "class": 1,
+    "answers": [
+      {
+        "answer": "if selected if selected for fixed links",
+        "chunk": 8,
+        "model": "AlBERT",
+        "score": 57.0697
+      }
+    ]
+  },
+  "que_6": {
+    "question": "What will the satellite database consisting ?",
+    "id": "que_6",
+    "class": 1,
+    "answers": [
+      {
+        "answer": "all satellite housekeeping data",
+        "chunk": 6,
+        "model": "AlBERT",
+        "score": 49.4341
+      }
+    ]
+  }
+}
