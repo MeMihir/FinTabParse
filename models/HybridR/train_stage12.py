@@ -6,7 +6,7 @@ import os
 import sys
 import random
 import timeit
-from transformers2 import (WEIGHTS_NAME, AdamW, BertConfig, BertTokenizer, 
+from transformers import (WEIGHTS_NAME, AdamW, BertConfig, BertTokenizer, 
                         BertModel, get_linear_schedule_with_warmup, 
                         squad_convert_examples_to_features)
 import torch
