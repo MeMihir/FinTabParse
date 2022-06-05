@@ -22,7 +22,15 @@ def get_table_chunks(table, chunk_size=512):
              
   return perepare_chunk(table, row_chunk_no)
 
-def get_paragraphs_chunks(paragraph, chunk_size=512, overlap=16):
-  tokenized = word_tokenize(paragraph)
-  return [' '.join(tokenized[i:i+chunk_size]) for i in range(0, len(tokenized), chunk_size-overlap)]
-  
+def get_paragraphs_chunks(paragraph, chunk_size=512, overlap=2):
+  para_tokens = list(map(lambda para: len(word_tokenize(para)), paragraph))
+  cum_para_tokens = [sum(para_tokens[0:x:1]) for x in range(0, len(para_tokens)+1)]
+  av = cum_para_tokens[-1]//len(cum_para_tokens)
+  para_chunk_no = [x // (chunk_size-overlap*av) for x in cum_para_tokens[1:]]
+  chunk_vals = range(para_chunk_no[-1]+1)
+  chunks = [[row for r, row in enumerate(paragraph) if para_chunk_no[r]==x
+             ] for x in chunk_vals]
+  for i in range(len(chunks)-1):
+    chunks[i].extend(chunks[i+1][:overlap])
+
+  return chunks  
