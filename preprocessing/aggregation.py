@@ -1,7 +1,8 @@
+import asn1crypto
 import pandas as pd
 from utils.file_handling import dict_to_json, json_to_dict
 import numpy as np
-
+import copy
 
 def aggregate_AlBERT(answers):
     answers = list(filter(lambda x: not isAnsEmpty(x["answer"]), answers))
@@ -64,4 +65,24 @@ def aggregate_answers(answers_path, op_path):
     dict_to_json(agg_ans, op_path)
 
     return agg_ans
+
+def isFiltAnsEmpty(ans):
+    if(type(ans)==type(1) or type(ans)==type(1.0)): return False
+    try:
+        return len(ans)==0 or ans=="[]" or len(ans[0])==0
+    except TypeError:
+        return False
+
         
+def filter_sort(input, filt, sort, output):
+  answers = json_to_dict(input)
+  sorted_ans = copy.deepcopy(answers)
+
+  for que in answers:
+    filt_ans = list(filter(
+        lambda x: x['model'] == filt and not isFiltAnsEmpty(x["answer"]), answers[que]["answers"]
+    ))
+    sorted_ans[que]["answers"] = sorted(filt_ans, key=lambda x: x[sort], reverse=True)
+
+  dict_to_json(sorted_ans, output)
+  return sorted_ans
