@@ -1,0 +1,18 @@
+The dataset is in .csv format, there are 2000 rows and 7 columns in this data set. 
+The detail of six attributes are as under:
+B_Req --> Business Requirement
+R_Prioirty -->  Requirement Priority of particular business requirement(It can be any prioritization method but in or converted to numerical form it has been extracted from requirement tracibility matrix)
+FP --> Function point of each testing task, which in our case are test cases against each requirement under covers a particular FP
+Complexity --> Complexity of a particular function point or related modules(the description of assigning complexity is listed below in this section)*
+Complexity of function points in a system determines, the greater number of functionalities a system has, the more complex the system is. 
+There are three types of it: 
+Complex, Medium and Simple
+•	Complex functionality is one that consist of multiple interacting components, having weightage 5.
+•	Medium functionality is with limited number of components, having weightage 3.
+•	Simple is the one, which is composed of small number of components, having weightage 1
+
+Time --> Estimated max time assigned to each Function Point of particular testing task by QA team lead or sr. SQA analyst
+Cost --> Calculated cost for each function point using complexity and time with function point estimation technique to calculates cost using the formula listed below:
+cost = Cost = (Complexity * Time) * average amount set per task or per Function Point
+note: In this case it is set as 5$ per FP.
+Prioirty --> Is the assigned testcases priority against each Function Point by the testing team, QA Team lead or SQA analyst.

@@ -1,0 +1,135 @@
+[
+  {
+    "question": "what is the average payment volume per transaction for american express?",
+    "id": "que_0",
+    "answers": [],
+    "table": [
+      [
+        "Company",
+        "Payments Volume  (billions)",
+        "Total Volume  (billions)",
+        "Total Transactions  (billions)",
+        " Cards  (millions)"
+      ],
+      [
+        "American Express",
+        "637",
+        "647",
+        "5.0",
+        "86"
+      ]
+    ]
+  },
+  {
+    "question": "what is the average payment volume per transaction for JCB?",
+    "id": "que_1",
+    "answers": [],
+    "table": [
+      [
+        "Company",
+        "Payments Volume  (billions)",
+        "Total Volume  (billions)",
+        "Total Transactions  (billions)",
+        " Cards  (millions)"
+      ],
+      [
+        "JCB",
+        "55",
+        "61",
+        "0.6",
+        "58"
+      ]
+    ]
+  },
+  {
+    "question": "what is the difference between total volume and payment volume for american express?",
+    "id": "que_2",
+    "answers": [],
+    "table": [
+      [
+        "Company",
+        "Payments Volume  (billions)",
+        "Total Volume  (billions)",
+        "Total Transactions  (billions)",
+        " Cards  (millions)"
+      ],
+      [
+        "American Express",
+        "637",
+        "647",
+        "5.0",
+        "86"
+      ]
+    ]
+  },
+  {
+    "question": "what is the difference between the total volume for JCB and total volume for mastercard?",
+    "id": "que_3",
+    "answers": [],
+    "table": [
+      [
+        "Company",
+        "Payments Volume  (billions)",
+        "Total Volume  (billions)",
+        "Total Transactions  (billions)",
+        " Cards  (millions)"
+      ],
+      [
+        "MasterCard",
+        "1,697",
+        "2,276",
+        "27.0",
+        "916"
+      ],
+      [
+        "JCB",
+        "55",
+        "61",
+        "0.6",
+        "58"
+      ]
+    ]
+  },
+  {
+    "question": "what is exclueded from the mastercard figures?",
+    "id": "que_4",
+    "answers": [],
+    "table": [
+      [
+        "Company",
+        "Payments Volume  (billions)",
+        "Total Volume  (billions)",
+        "Total Transactions  (billions)",
+        " Cards  (millions)"
+      ],
+      [
+        "Diners Club",
+        "29",
+        "30",
+        "0.2",
+        "7"
+      ]
+    ]
+  },
+  {
+    "question": "which companies are the largest operators of open-loop and closed-loop retail electronic payments networks?",
+    "id": "que_5",
+    "answers": [],
+    "table": [
+      [
+        "Company",
+        "Payments Volume  (billions)",
+        "Total Volume  (billions)",
+        "Total Transactions  (billions)",
+        " Cards  (millions)"
+      ],
+      [
+        "Visa Inc.<sup>(1)</sup>",
+        "$2,457",
+        "$3,822",
+        "50.3",
+        "1,592"
+      ]
+    ]
+  }
+]
