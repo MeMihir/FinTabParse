@@ -1,0 +1,93 @@
+{
+  "que_0": {
+    "question": "By when shall the Pre-operational Space System be available ?",
+    "id": "que_0",
+    "class": 1,
+    "answers": [
+      {
+        "answer": "the pre-operational space system shall be available in 2013",
+        "score": 87.81266021728516,
+        "chunk": 1,
+        "model": "AlBERT"
+      }
+    ]
+  },
+  "que_1": {
+    "question": "What will be the minimum lifetime of each satellite after deployment ?",
+    "id": "que_1",
+    "class": 1,
+    "answers": [
+      {
+        "answer": "15 years",
+        "score": 105.88465118408203,
+        "chunk": 1,
+        "model": "AlBERT"
+      }
+    ]
+  },
+  "que_2": {
+    "question": "What shall the space segment provide ?",
+    "id": "que_2",
+    "class": 1,
+    "answers": [
+      {
+        "answer": "the space segment design shall be based on the re-use of existing telecom platforms",
+        "score": 71.34618377685547,
+        "chunk": 6,
+        "model": "AlBERT"
+      }
+    ]
+  },
+  "que_3": {
+    "question": "What will perform on-board software management functions ?",
+    "id": "que_3",
+    "class": 1,
+    "answers": [
+      {
+        "answer": "on-board storage of software in non-modifiable memories (rom) shall be limited to the strict necessary (e.g. boot sw) such that software corrections/updates can be made when the satellite is in orbit",
+        "score": 72.03521728515625,
+        "chunk": 5,
+        "model": "AlBERT"
+      }
+    ]
+  },
+  "que_4": {
+    "question": "Will the SCC implement authentication and authorisation operator mechanisms ?",
+    "id": "que_4",
+    "class": 1,
+    "answers": [
+      {
+        "answer": "the scc shall support alarm filtering and sorting according to several criteria",
+        "score": 74.533203125,
+        "chunk": 15,
+        "model": "AlBERT"
+      }
+    ]
+  },
+  "que_5": {
+    "question": "Will the ATM payload be compatible with the platform TMTC ?",
+    "id": "que_5",
+    "class": 1,
+    "answers": [
+      {
+        "answer": "the accommodation of ancillary payload (when applicable) shall be distinct from the atm payload accommodation",
+        "score": 48.80629348754883,
+        "chunk": 5,
+        "model": "AlBERT"
+      }
+    ]
+  },
+  "que_6": {
+    "question": "What will the satellite database consisting ?",
+    "id": "que_6",
+    "class": 1,
+    "answers": [
+      {
+        "answer": "the scc shall consist of two centres",
+        "score": 35.101688385009766,
+        "chunk": 13,
+        "model": "AlBERT"
+      }
+    ]
+  }
+}

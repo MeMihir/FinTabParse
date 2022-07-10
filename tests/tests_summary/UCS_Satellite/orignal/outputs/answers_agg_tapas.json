@@ -1,0 +1,184 @@
+{
+  "que_0": {
+    "question": "What is the name of the satellite from Estonia ?",
+    "id": "que_0",
+    "class": 0,
+    "answers": [
+      {
+        "answer": "EstCube-1",
+        "score": 112.50678253173828,
+        "chunk": 27,
+        "model": "TaPaS"
+      }
+    ]
+  },
+  "que_1": {
+    "question": "What are the names of the satellites from India ?",
+    "id": "que_1",
+    "class": 0,
+    "answers": [
+      {
+        "answer": "Eutelsat 9A (Eurobird 9A, Hot Bird 7A), Eutelsat Hot Bird  13D (Eutelsat 3C, Hot Bird 10, Atlantic Bird 4A), Eutelsat Hot Bird 13B (Hot Bird 8), Eutelsat Hot Bird 13C (Hot Bird 9), Eutelsat KA-SAT 9A (KA-SAT), exactView 1, exactView 5 (AprizeSat 5), exactView5R, exactView6 (AprizeSat 6), Express AM22 (Sesat 2), Express-2A (Ekspress A No. 2)",
+        "score": 168.8777618408203,
+        "chunk": 30,
+        "model": "TaPaS"
+      }
+    ]
+  },
+  "que_2": {
+    "question": "What is the expected lifetime of INSAT 4A satellite ?",
+    "id": "que_2",
+    "class": 1,
+    "answers": [
+      {
+        "answer": "AVERAGE > 5-7 yrs.",
+        "score": 97.49845123291016,
+        "chunk": 44,
+        "model": "TaPaS"
+      }
+    ]
+  },
+  "que_3": {
+    "question": "How many satellites were launched in the year 2012 ?",
+    "id": "que_3",
+    "class": 0,
+    "answers": [
+      {
+        "answer": "COUNT > Saudisat-4, SBIRS GEO 1 (Space Based Infrared System Geosynchronous 1, USA 230), SBIRS GEO 2 (Space Based Infrared System Geosynchronous 2, USA 241), SBSS-1 (Space Based Space Surveillance Satellite, SBSS Block 10 SV1, USA 216), SB-WASS 3-1 (Space Based Wide Area Surveillance System) (NOSS 3-1, NOSS C1-1, USA 160), SB-WASS 3-1 (Space Based Wide Area Surveillance System) (NOSS 3-1,USA 160, NOSS C1-2) , SB-WASS 3-2 (Space Based Wide Area Surveillance System) (NOSS 3-2, USA 173, NOSS C2-1) , SB-WASS 3-2 (Space Based Wide Area Surveillance System) (NOSS 3-2, USA 173, NOSS C2-2) ",
+        "score": 188.2894287109375,
+        "chunk": 93,
+        "model": "TaPaS"
+      }
+    ]
+  },
+  "que_4": {
+    "question": "What are the different types of Orbits ?",
+    "id": "que_4",
+    "class": 1,
+    "answers": [
+      {
+        "answer": "Sun-Synchronous",
+        "score": 181.8296356201172,
+        "chunk": 85,
+        "model": "TaPaS"
+      }
+    ]
+  },
+  "que_5": {
+    "question": "Which country has the most number of contractors ?",
+    "id": "que_5",
+    "class": 1,
+    "answers": [
+      {
+        "answer": "USA",
+        "score": 65.17328643798828,
+        "chunk": 94,
+        "model": "TaPaS"
+      }
+    ]
+  },
+  "que_6": {
+    "question": "Which satellite has the highest Apogee ?",
+    "id": "que_6",
+    "class": 0,
+    "answers": [
+      {
+        "answer": "QZS-1 (Quazi-Zenith Satellite System, Michibiki)",
+        "score": 153.30538940429688,
+        "chunk": 86,
+        "model": "TaPaS"
+      }
+    ]
+  },
+  "que_7": {
+    "question": "What is the average Launch Mass of satellites by Germany ?",
+    "id": "que_7",
+    "class": 1,
+    "answers": [
+      {
+        "answer": "AVERAGE > 100, 4,500, 4,500, 1,031, 5,000+, 5,000+, 5,000+, 5,000+",
+        "score": 118.11769104003906,
+        "chunk": 93,
+        "model": "TaPaS"
+      }
+    ]
+  },
+  "que_8": {
+    "question": "What is the average expected lifetime of all the satellites ?",
+    "id": "que_8",
+    "class": 1,
+    "answers": [
+      {
+        "answer": "AVERAGE > 15 yrs., 15 yrs., 15 yrs., 15 yrs., 14yrs., 15 yrs., 15 yrs., 15 yrs., 15 yrs., 10 yrs.",
+        "score": 109.26180267333984,
+        "chunk": 9,
+        "model": "TaPaS"
+      }
+    ]
+  },
+  "que_9": {
+    "question": "What is the difference between Dry Mass and Launch Mass of ABS-7 ?",
+    "id": "que_9",
+    "class": 1,
+    "answers": [
+      {
+        "answer": "AVERAGE > 7.120000000000001e-05",
+        "score": 81.9957275390625,
+        "chunk": 28,
+        "model": "TaPaS"
+      }
+    ]
+  },
+  "que_10": {
+    "question": "What is the difference between of the Perigee and Apogee of the Angles satellite ?",
+    "id": "que_10",
+    "class": 0,
+    "answers": [
+      {
+        "answer": "AVERAGE > 779",
+        "score": 137.3797149658203,
+        "chunk": 56,
+        "model": "TaPaS"
+      }
+    ]
+  },
+  "que_11": {
+    "question": "When was the ABS-4 satellite purchased ?",
+    "id": "que_11",
+    "class": 0,
+    "answers": [
+      {
+        "answer": "11/2/2009",
+        "score": 87.56878662109375,
+        "chunk": 85,
+        "model": "TaPaS"
+      }
+    ]
+  },
+  "que_12": {
+    "question": "How much percent larger is the Period of AAUSAT-3 to AcrimSAT ?",
+    "id": "que_12",
+    "class": 1,
+    "answers": [
+      {
+        "answer": "AVERAGE > 35,852",
+        "score": 64.33724975585938,
+        "chunk": 9,
+        "model": "TaPaS"
+      }
+    ]
+  },
+  "que_13": {
+    "question": "How many times is the launch mass of Eutelsat 12 larger than Eutelsat 16A ?",
+    "id": "que_13",
+    "class": 0,
+    "answers": [
+      {
+        "answer": "COUNT > Haiyang 2A (HY 2A), HAMSat (VUSat Oscar 52), Helios 2A , Helios 2B, HellasSat 2 (Intelsat K-TV, NSS K-TV), HESSI (RHESSI, Reuven Ramaty High Energy Solar Spectroscopic Imager), Hinode (Solar B), Hisaki (Sprint A, Spectroscopic Planet Observatory for Recognition of Interaction of Atmosphere), Hispasat 1C ",
+        "score": 195.7706298828125,
+        "chunk": 46,
+        "model": "TaPaS"
+      }
+    ]
+  }
+}

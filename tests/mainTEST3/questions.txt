@@ -1,0 +1,4 @@
+what shall the system provide a history report for ?
+who can re-instantiate a user account if it is revoked ?
+Will the users have direct access to data filters ?
+What must the All screens created as part of the Disputes application comply with ?

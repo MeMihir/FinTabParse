@@ -1,0 +1,83 @@
+{
+  "que_0": {
+    "question": "What is the name of the satellite operated by NASA ?",
+    "id": "que_0",
+    "class": 0,
+    "answers": [
+      {
+        "answer": "AcrimSat (Active Cavity Radiometer Irradiance Monitor)",
+        "score": 55.0855712890625,
+        "chunk": 0,
+        "model": "TaPaS"
+      }
+    ]
+  },
+  "que_1": {
+    "question": "What are the names of the satellites from USA ?",
+    "id": "que_1",
+    "class": 0,
+    "answers": [
+      {
+        "answer": "AcrimSat (Active Cavity Radiometer Irradiance Monitor), Advanced Orion 2 (NROL 6, USA 139), Advanced Orion 3 (NROL 19, USA 171), Advanced Orion 4 (NRO L-26, USA 202), Advanced Orion 5 (NRO L-32, USA 223), Advanced Orion 6 (NRO L-15, USA 237), AEHF-1 (Advanced Extremely High Frequency satellite-1, USA 214), AEHF-2 (Advanced Extremely High Frequency satellite-2, USA 235)",
+        "score": 105.01904296875,
+        "chunk": 0,
+        "model": "TaPaS"
+      }
+    ]
+  },
+  "que_2": {
+    "question": "Which satellite has the highest Apogee ?",
+    "id": "que_2",
+    "class": 0,
+    "answers": [
+      {
+        "answer": "AEHF-1 (Advanced Extremely High Frequency satellite-1, USA 214)",
+        "score": 72.65552520751953,
+        "chunk": 0,
+        "model": "TaPaS"
+      }
+    ]
+  },
+  "que_3": {
+    "question": "What is the expected lifetime of Advanced Orion 3 satellite ?",
+    "id": "que_3",
+    "class": 1,
+    "answers": [
+      {
+        "answer": "nan",
+        "score": 23.805150985717773,
+        "chunk": 0,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 0,
+        "model": "TagOp"
+      }
+    ]
+  },
+  "que_4": {
+    "question": "What is the average Launch Mass of satellites by USA ?",
+    "id": "que_4",
+    "class": 1,
+    "answers": [
+      {
+        "answer": "AVERAGE > 115, 4,500, 4,500, 5,000, 5,000, 5,000, 6,169, 6,169",
+        "score": 112.85521697998047,
+        "chunk": 0,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          50.3014,
+          "million"
+        ],
+        "chunk": 0,
+        "model": "TagOp"
+      }
+    ]
+  }
+}

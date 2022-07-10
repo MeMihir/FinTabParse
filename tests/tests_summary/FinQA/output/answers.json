@@ -1,0 +1,113 @@
+{
+  "que_0": {
+    "question": "what is the average payment volume per transaction for american express?",
+    "id": "que_0",
+    "class": 1,
+    "answers": [
+      {
+        "answer": "AVERAGE > 2,276",
+        "score": 55.39240646362305,
+        "chunk": 0,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          1.3412,
+          ""
+        ],
+        "chunk": 0,
+        "model": "TagOp"
+      }
+    ]
+  },
+  "que_1": {
+    "question": "what is the average payment volume per transaction for JCB?",
+    "id": "que_1",
+    "class": 1,
+    "answers": [
+      {
+        "answer": "AVERAGE > 102",
+        "score": 44.11023712158203,
+        "chunk": 0,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          1.1667,
+          ""
+        ],
+        "chunk": 0,
+        "model": "TagOp"
+      }
+    ]
+  },
+  "que_2": {
+    "question": "what is the difference between total volume and payment volume for american express?",
+    "id": "que_2",
+    "class": 1,
+    "answers": [
+      {
+        "answer": "AVERAGE > ",
+        "score": -41.829349517822266,
+        "chunk": 0,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          -579.0,
+          "million"
+        ],
+        "chunk": 0,
+        "model": "TagOp"
+      }
+    ]
+  },
+  "que_3": {
+    "question": "what is the difference between the total volume for JCB and total volume for mastercard?",
+    "id": "que_3",
+    "class": 1,
+    "answers": [
+      {
+        "answer": "AVERAGE > ",
+        "score": -37.06824493408203,
+        "chunk": 0,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          3720.0,
+          "million"
+        ],
+        "chunk": 0,
+        "model": "TagOp"
+      }
+    ]
+  },
+  "que_4": {
+    "question": "what is exclueded from the mastercard figures?",
+    "id": "que_4",
+    "class": 1,
+    "answers": [
+      {
+        "answer": "58",
+        "score": 38.1352424621582,
+        "chunk": 0,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 0,
+        "model": "TagOp"
+      }
+    ]
+  },
+  "que_5": {
+    "question": "which companies are the largest operators of open-loop and closed-loop retail electronic payments networks?",
+    "id": "que_5",
+    "class": 1,
+    "answers": []
+  }
+}

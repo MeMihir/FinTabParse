@@ -1,0 +1,21 @@
+The IRIS Space System shall be defined so that full operation is achieved through the phases described in paragraph 3.3.
+The Pre-operational Space System shall be available in 2013 at the latest.
+The Pre-operation phase shall be completed by 2017.
+Full operational Space System shall be available no later than 2020.
+For the Pre-operational System the minimum lifetime of the space segment shall be 4 years
+After the full deployment, the minimum lifetime of each satellite should be 15 years.
+The IRIS Operational Space System design shall be such that the operational lifetime of the service has no end target.
+The launch of replacement satellites shall not impact on the system operations
+Operations of the ATM payload shall take precedence over the operations of the ancillary payload. This latter shall not reduce in any case system availability.
+The IRIS Space System shall be able to cope with an increase in the need of capacity in the covered areas of TBD% per year from 2020 to 2035 .
+The IRIS Space Segment shall be composed of one or more satellites in GEO serving the specified coverage area (TBC)
+During the operational phase, at any given time, the space segment configuration shall be such to ensure the compliance with the availability requirements [ND1]
+"The IRIS space segment shall be compatible with the following launch vehicles: Ariane 5 ECA, Soyuz 2.1b from Kourou (if applicable with respect to mass performance), Proton DM, Sea Launch (and Land Launch), H2A"
+Whenever applicable, the space segment design shall be compatible with a dual launch configuration.
+The Space Segment shall be designed taking into account transportation to the launch site by airplane or/and by sea.
+At the end of its nominal life, the satellite shall allow controlled transfer into a graveyard orbit or de-orbited
+The Satellite shall be capable of venting its propellant tanks on ground command in case the end of life de-orbiting would not be possible, and this to avoid in orbit explosion and debris multiplication.
+The Space Segment shall be designed to enable storage on ground of each satellite in a controlled environment for 5 years (TBC)
+The ATM payload shall be compatible with the platform TMTC
+Before launch, it shall be possible to remove and re-install ATM payload units from the spacecraft platform, should they require maintenance, repair, modification or replacement, with a minimum of disturbance to other satellite equipment and activities
+Before launch, it shall be possible to remove and re-install ancillary payload units from the spacecraft platform, should they require maintenance, repair, modification or replacement, with a minimum of disturbance to other satellite equipment and activities.

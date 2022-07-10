@@ -1,0 +1,4 @@
+which satellite have satellite version as v1.5 ?
+which satellites were launched on 2018 ?
+what is the name of the launch vehicle of mission number 3
+which satellites have orbit altitude greater than 560 ?

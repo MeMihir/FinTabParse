@@ -1,0 +1,104 @@
+{
+  "que_0": {
+    "question": "What is the name of the satellite operated by NASA ?",
+    "id": "que_0",
+    "class": 0,
+    "answers": [
+      {
+        "answer": "AEHF-1 (Advanced Extremely High Frequency satellite-1, USA 214)",
+        "score": [
+          "link 0",
+          [
+            6,
+            24
+          ],
+          "link_0",
+          "This table is part of the database.",
+          0.8461538461538461,
+          "Comments",
+          "string-overlap"
+        ],
+        "chunk": 0,
+        "model": "HybridR"
+      }
+    ]
+  },
+  "que_1": {
+    "question": "What are the names of the satellites from USA ?",
+    "id": "que_1",
+    "class": 0,
+    "answers": [
+      {
+        "answer": "AcrimSat (Active Cavity Radiometer Irradiance Monitor)",
+        "score": [
+          "USA",
+          [
+            0,
+            19
+          ],
+          null,
+          "string match",
+          1.0,
+          "Country of Contractor",
+          "links"
+        ],
+        "chunk": 0,
+        "model": "HybridR"
+      }
+    ]
+  },
+  "que_2": {
+    "question": "Which satellite has the highest Apogee ?",
+    "id": "que_2",
+    "class": 0,
+    "answers": [
+      {
+        "answer": "AEHF-1 (Advanced Extremely High Frequency satellite-1, USA 214)",
+        "score": [
+          "link 0",
+          [
+            6,
+            24
+          ],
+          "link_0",
+          "This table is part of the database.",
+          0.875,
+          "Comments",
+          "string-overlap"
+        ],
+        "chunk": 0,
+        "model": "HybridR"
+      }
+    ]
+  },
+  "que_3": {
+    "question": "What is the expected lifetime of Advanced Orion 3 satellite ?",
+    "id": "que_3",
+    "class": 1,
+    "answers": [
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 0,
+        "model": "TagOp"
+      }
+    ]
+  },
+  "que_4": {
+    "question": "What is the average Launch Mass of satellites by USA ?",
+    "id": "que_4",
+    "class": 1,
+    "answers": [
+      {
+        "answer": [
+          50.3014,
+          "million"
+        ],
+        "chunk": 0,
+        "model": "TagOp"
+      }
+    ]
+  }
+}

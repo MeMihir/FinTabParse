@@ -1,0 +1,741 @@
+{
+  "que_0": {
+    "question": "By when shall the Pre-operational Space System be available ?",
+    "id": "que_0",
+    "class": 1,
+    "answers": [
+      {
+        "answer": [
+          [
+            "launch,"
+          ],
+          ""
+        ],
+        "chunk": 20,
+        "model": "TagOp"
+      },
+      {
+        "answer": [
+          [
+            "Before launch,"
+          ],
+          ""
+        ],
+        "chunk": 19,
+        "model": "TagOp"
+      },
+      {
+        "answer": [
+          [
+            "a. Critical."
+          ],
+          ""
+        ],
+        "chunk": 14,
+        "model": "TagOp"
+      },
+      {
+        "answer": [
+          [
+            "99.99%"
+          ],
+          ""
+        ],
+        "chunk": 13,
+        "model": "TagOp"
+      },
+      {
+        "answer": [
+          [
+            "UTC time"
+          ],
+          ""
+        ],
+        "chunk": 10,
+        "model": "TagOp"
+      },
+      {
+        "answer": [
+          [
+            "TBD days"
+          ],
+          ""
+        ],
+        "chunk": 9,
+        "model": "TagOp"
+      },
+      {
+        "answer": [
+          [
+            "during Space Segment orbit maintenance manoeuvres"
+          ],
+          ""
+        ],
+        "chunk": 5,
+        "model": "TagOp"
+      },
+      {
+        "answer": [
+          [
+            "During the operational phase, at any given time,"
+          ],
+          ""
+        ],
+        "chunk": 4,
+        "model": "TagOp"
+      },
+      {
+        "answer": [
+          [
+            "2035"
+          ],
+          ""
+        ],
+        "chunk": 2,
+        "model": "TagOp"
+      },
+      {
+        "answer": [
+          [
+            "2013 at the latest."
+          ],
+          ""
+        ],
+        "chunk": 1,
+        "model": "TagOp"
+      }
+    ]
+  },
+  "que_1": {
+    "question": "What will be the minimum lifetime of each satellite after deployment ?",
+    "id": "que_1",
+    "class": 1,
+    "answers": [
+      {
+        "answer": [
+          [
+            "15 years"
+          ],
+          ""
+        ],
+        "chunk": 17,
+        "model": "TagOp"
+      },
+      {
+        "answer": [
+          [
+            "TBD"
+          ],
+          ""
+        ],
+        "chunk": 16,
+        "model": "TagOp"
+      },
+      {
+        "answer": [
+          [
+            "TBD months"
+          ],
+          ""
+        ],
+        "chunk": 15,
+        "model": "TagOp"
+      },
+      {
+        "answer": [
+          [
+            "TBD months"
+          ],
+          ""
+        ],
+        "chunk": 14,
+        "model": "TagOp"
+      },
+      {
+        "answer": [
+          [
+            "TBD hours"
+          ],
+          ""
+        ],
+        "chunk": 13,
+        "model": "TagOp"
+      },
+      {
+        "answer": [
+          [
+            "5 years"
+          ],
+          ""
+        ],
+        "chunk": 12,
+        "model": "TagOp"
+      },
+      {
+        "answer": [
+          [
+            "less than 10 (TBC) days old"
+          ],
+          ""
+        ],
+        "chunk": 11,
+        "model": "TagOp"
+      },
+      {
+        "answer": [
+          [
+            "TBD Km"
+          ],
+          ""
+        ],
+        "chunk": 9,
+        "model": "TagOp"
+      },
+      {
+        "answer": [
+          [
+            "5 years (TBC)"
+          ],
+          ""
+        ],
+        "chunk": 5,
+        "model": "TagOp"
+      },
+      {
+        "answer": [
+          [
+            "5 years (TBC)"
+          ],
+          ""
+        ],
+        "chunk": 4,
+        "model": "TagOp"
+      },
+      {
+        "answer": [
+          [
+            "15 years."
+          ],
+          ""
+        ],
+        "chunk": 2,
+        "model": "TagOp"
+      },
+      {
+        "answer": [
+          [
+            "15 years."
+          ],
+          ""
+        ],
+        "chunk": 1,
+        "model": "TagOp"
+      }
+    ]
+  },
+  "que_2": {
+    "question": "What shall the space segment provide ?",
+    "id": "que_2",
+    "class": 1,
+    "answers": [
+      {
+        "answer": [
+          [
+            "ancillary payload"
+          ],
+          ""
+        ],
+        "chunk": 20,
+        "model": "TagOp"
+      },
+      {
+        "answer": [
+          [
+            "of automated operations"
+          ],
+          ""
+        ],
+        "chunk": 18,
+        "model": "TagOp"
+      },
+      {
+        "answer": [
+          [
+            "satellite pointing correction mechanism"
+          ],
+          ""
+        ],
+        "chunk": 17,
+        "model": "TagOp"
+      },
+      {
+        "answer": [
+          [
+            "satellite pointing correction mechanism"
+          ],
+          ""
+        ],
+        "chunk": 16,
+        "model": "TagOp"
+      },
+      {
+        "answer": [
+          [
+            "Operations and mission planning, Operations automation and execution, Operations validation\""
+          ],
+          ""
+        ],
+        "chunk": 15,
+        "model": "TagOp"
+      },
+      {
+        "answer": [
+          [
+            "according to its criticality: a. Critical."
+          ],
+          ""
+        ],
+        "chunk": 14,
+        "model": "TagOp"
+      },
+      {
+        "answer": [
+          [
+            "configuration functions"
+          ],
+          ""
+        ],
+        "chunk": 13,
+        "model": "TagOp"
+      },
+      {
+        "answer": [
+          [
+            "time commanding of up to TBD telecommand per second"
+          ],
+          ""
+        ],
+        "chunk": 12,
+        "model": "TagOp"
+      },
+      {
+        "answer": [
+          [
+            "telecommand"
+          ],
+          ""
+        ],
+        "chunk": 11,
+        "model": "TagOp"
+      },
+      {
+        "answer": [
+          [
+            "Satellite Monitoring and control, Flights dynamics and manoeuvres, Satellite validation, Satellite system maintenance\""
+          ],
+          ""
+        ],
+        "chunk": 10,
+        "model": "TagOp"
+      },
+      {
+        "answer": [
+          [
+            "Satellite Monitoring and control, Flights dynamics and manoeuvres, Satellite validation, Satellite system maintenance\""
+          ],
+          ""
+        ],
+        "chunk": 9,
+        "model": "TagOp"
+      },
+      {
+        "answer": [
+          [
+            "Each satellite shall implement cross strapped connectivity (L to Ku (Ka) and Ku (Ka) to L)"
+          ],
+          ""
+        ],
+        "chunk": 7,
+        "model": "TagOp"
+      },
+      {
+        "answer": [
+          [
+            "all required resources."
+          ],
+          ""
+        ],
+        "chunk": 6,
+        "model": "TagOp"
+      },
+      {
+        "answer": [
+          [
+            "Air/ground and Ground/air unicast communications voice and data services"
+          ],
+          ""
+        ],
+        "chunk": 5,
+        "model": "TagOp"
+      },
+      {
+        "answer": [
+          [
+            "storage on ground of each satellite in a controlled environment for 5 years"
+          ],
+          ""
+        ],
+        "chunk": 4,
+        "model": "TagOp"
+      },
+      {
+        "answer": [
+          [
+            "IRIS service"
+          ],
+          ""
+        ],
+        "chunk": 3,
+        "model": "TagOp"
+      },
+      {
+        "answer": [
+          [
+            "IRIS service"
+          ],
+          ""
+        ],
+        "chunk": 2,
+        "model": "TagOp"
+      },
+      {
+        "answer": [
+          [
+            "AOC service over the Earth surface fraction visible from the orbit."
+          ],
+          ""
+        ],
+        "chunk": 0,
+        "model": "TagOp"
+      }
+    ]
+  },
+  "que_3": {
+    "question": "What will perform on-board software management functions ?",
+    "id": "que_3",
+    "class": 1,
+    "answers": [
+      {
+        "answer": [
+          [
+            "ATM payload units"
+          ],
+          ""
+        ],
+        "chunk": 19,
+        "model": "TagOp"
+      },
+      {
+        "answer": [
+          [
+            "communication payload re"
+          ],
+          ""
+        ],
+        "chunk": 17,
+        "model": "TagOp"
+      },
+      {
+        "answer": [
+          [
+            "communication payload re"
+          ],
+          ""
+        ],
+        "chunk": 16,
+        "model": "TagOp"
+      },
+      {
+        "answer": [
+          [
+            "ground command."
+          ],
+          ""
+        ],
+        "chunk": 15,
+        "model": "TagOp"
+      },
+      {
+        "answer": [
+          [
+            "a. Alarm reception/periodic retrieval and display. b. Status display. c. History file display. d. Automatic alarm recovery/healing functions\""
+          ],
+          ""
+        ],
+        "chunk": 14,
+        "model": "TagOp"
+      },
+      {
+        "answer": [
+          [
+            "Alarm reception/periodic retrieval and display. b. Status"
+          ],
+          ""
+        ],
+        "chunk": 13,
+        "model": "TagOp"
+      },
+      {
+        "answer": [
+          [
+            "The SCC"
+          ],
+          ""
+        ],
+        "chunk": 10,
+        "model": "TagOp"
+      },
+      {
+        "answer": [
+          [
+            "Satellite Monitoring and control, Flights dynamics and manoeuvres, Satellite validation, Satellite system maintenance\""
+          ],
+          ""
+        ],
+        "chunk": 9,
+        "model": "TagOp"
+      },
+      {
+        "answer": [
+          [
+            "transponders"
+          ],
+          ""
+        ],
+        "chunk": 8,
+        "model": "TagOp"
+      },
+      {
+        "answer": [
+          [
+            "The ATM payload"
+          ],
+          ""
+        ],
+        "chunk": 7,
+        "model": "TagOp"
+      },
+      {
+        "answer": [
+          [
+            "board storage of software in non"
+          ],
+          ""
+        ],
+        "chunk": 5,
+        "model": "TagOp"
+      },
+      {
+        "answer": [
+          [
+            "IRIS Space System"
+          ],
+          ""
+        ],
+        "chunk": 0,
+        "model": "TagOp"
+      }
+    ]
+  },
+  "que_4": {
+    "question": "Will the SCC implement authentication and authorisation operator mechanisms ?",
+    "id": "que_4",
+    "class": 1,
+    "answers": [
+      {
+        "answer": [
+          [
+            "99.99%"
+          ],
+          ""
+        ],
+        "chunk": 13,
+        "model": "TagOp"
+      },
+      {
+        "answer": [
+          [
+            "shall implement the telemetry, tacking and command (TT&C) functions with the satellite"
+          ],
+          ""
+        ],
+        "chunk": 9,
+        "model": "TagOp"
+      }
+    ]
+  },
+  "que_5": {
+    "question": "Will the ATM payload be compatible with the platform TMTC ?",
+    "id": "que_5",
+    "class": 1,
+    "answers": [
+      {
+        "answer": [
+          [
+            "a. Critical."
+          ],
+          ""
+        ],
+        "chunk": 14,
+        "model": "TagOp"
+      },
+      {
+        "answer": [
+          [
+            "TC"
+          ],
+          ""
+        ],
+        "chunk": 7,
+        "model": "TagOp"
+      }
+    ]
+  },
+  "que_6": {
+    "question": "What will the satellite database consisting ?",
+    "id": "que_6",
+    "class": 1,
+    "answers": [
+      {
+        "answer": [
+          [
+            "other satellite equipment and activities."
+          ],
+          ""
+        ],
+        "chunk": 20,
+        "model": "TagOp"
+      },
+      {
+        "answer": [
+          [
+            "a. Orbital parameter database. b. Satellite specific information including configuration, mass property, fuel information, sensor information, thrusters information, etc. c. Command script files required for nominal and contingent operations. d. Telemetry display files including conversion coefficients, derived telemetry parameters and formulas, ranging parameters, etc\""
+          ],
+          ""
+        ],
+        "chunk": 18,
+        "model": "TagOp"
+      },
+      {
+        "answer": [
+          [
+            "Status of running activities."
+          ],
+          ""
+        ],
+        "chunk": 17,
+        "model": "TagOp"
+      },
+      {
+        "answer": [
+          [
+            "satellite pointing correction mechanism"
+          ],
+          ""
+        ],
+        "chunk": 16,
+        "model": "TagOp"
+      },
+      {
+        "answer": [
+          [
+            "Indeterminate\""
+          ],
+          ""
+        ],
+        "chunk": 14,
+        "model": "TagOp"
+      },
+      {
+        "answer": [
+          [
+            "satellite physical state determination"
+          ],
+          ""
+        ],
+        "chunk": 13,
+        "model": "TagOp"
+      },
+      {
+        "answer": [
+          [
+            "telecommand"
+          ],
+          ""
+        ],
+        "chunk": 12,
+        "model": "TagOp"
+      },
+      {
+        "answer": [
+          [
+            "events, alarms, schedules, time parameters and database updates"
+          ],
+          ""
+        ],
+        "chunk": 11,
+        "model": "TagOp"
+      },
+      {
+        "answer": [
+          [
+            "Satellite Monitoring and control, Flights dynamics and manoeuvres, Satellite validation, Satellite system maintenance\""
+          ],
+          ""
+        ],
+        "chunk": 10,
+        "model": "TagOp"
+      },
+      {
+        "answer": [
+          [
+            "Satellite Monitoring and control, Flights dynamics and manoeuvres, Satellite validation, Satellite system maintenance\""
+          ],
+          ""
+        ],
+        "chunk": 9,
+        "model": "TagOp"
+      },
+      {
+        "answer": [
+          [
+            "Each satellite shall implement cross strapped connectivity (L to Ku (Ka) and Ku (Ka) to L)"
+          ],
+          ""
+        ],
+        "chunk": 8,
+        "model": "TagOp"
+      },
+      {
+        "answer": [
+          [
+            "time housekeeping data)"
+          ],
+          ""
+        ],
+        "chunk": 7,
+        "model": "TagOp"
+      },
+      {
+        "answer": [
+          [
+            "one or more satellites in GEO serving the specified coverage area (TBC)"
+          ],
+          ""
+        ],
+        "chunk": 4,
+        "model": "TagOp"
+      }
+    ]
+  }
+}
