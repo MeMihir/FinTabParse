@@ -1,0 +1,78 @@
+{
+  "que_0": {
+    "question": "which satellite have satellite version as v1.5 ?",
+    "id": "que_0",
+    "class": 0,
+    "answers": [
+      {
+        "answer": "L2",
+        "score": 2.8561015129089355,
+        "chunk": 0,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Group 2-1",
+        "score": 7.0108642578125,
+        "chunk": 1,
+        "model": "TaPaS"
+      }
+    ]
+  },
+  "que_1": {
+    "question": "which satellites were launched on 2018 ?",
+    "id": "que_1",
+    "class": 0,
+    "answers": [
+      {
+        "answer": "",
+        "score": -2.491424798965454,
+        "chunk": 0,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "Group 4-4",
+        "score": 11.249946594238281,
+        "chunk": 1,
+        "model": "TaPaS"
+      }
+    ]
+  },
+  "que_2": {
+    "question": "what is the name of the launch vehicle of mission number 3",
+    "id": "que_2",
+    "class": 0,
+    "answers": [
+      {
+        "answer": "F9 B5 <U+267A> B1049.4",
+        "score": 4.078694820404053,
+        "chunk": 0,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "F9 B5 <U+267A> B1059.6",
+        "score": 25.499807357788086,
+        "chunk": 1,
+        "model": "TaPaS"
+      }
+    ]
+  },
+  "que_3": {
+    "question": "which satellites have orbit altitude greater than 560 ?",
+    "id": "que_3",
+    "class": 0,
+    "answers": [
+      {
+        "answer": "v0.9",
+        "score": 34.60028839111328,
+        "chunk": 0,
+        "model": "TaPaS"
+      },
+      {
+        "answer": "L26, Group 2-1",
+        "score": 39.301937103271484,
+        "chunk": 1,
+        "model": "TaPaS"
+      }
+    ]
+  }
+}

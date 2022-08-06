@@ -1,0 +1,62 @@
+{
+  "que_0": {
+    "question": "what is the average age ?",
+    "id": "que_0",
+    "class": 1,
+    "answers": [
+      {
+        "answer": "AVERAGE > 52, 53, 70, 61, 62, 58, 58, 55, 46, 54, 71",
+        "score": 85.43450927734375,
+        "chunk": 0,
+        "model": "TaPaS"
+      },
+      {
+        "answer": [
+          "",
+          ""
+        ],
+        "chunk": 0,
+        "model": "TagOp"
+      }
+    ]
+  },
+  "que_1": {
+    "question": "what is the average age where sex is 1 ?",
+    "id": "que_1",
+    "class": 0,
+    "answers": [
+      {
+        "answer": "AVERAGE > 52, 53, 70, 61, 58, 55, 46, 54",
+        "score": 89.23233032226562,
+        "chunk": 0,
+        "model": "TaPaS"
+      }
+    ]
+  },
+  "que_2": {
+    "question": "what os the highest old peak ?",
+    "id": "que_2",
+    "class": 0,
+    "answers": [
+      {
+        "answer": "58",
+        "score": 12.396876335144043,
+        "chunk": 0,
+        "model": "TaPaS"
+      }
+    ]
+  },
+  "que_3": {
+    "question": "what is the difference bewteen slope and old peak with age is 54 ?",
+    "id": "que_3",
+    "class": 0,
+    "answers": [
+      {
+        "answer": "AVERAGE > 1",
+        "score": 13.900948524475098,
+        "chunk": 0,
+        "model": "TaPaS"
+      }
+    ]
+  }
+}

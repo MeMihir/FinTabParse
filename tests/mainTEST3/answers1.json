@@ -1,0 +1,480 @@
+{
+  "que_0": {
+    "question": "what shall the system provide a history report for ?",
+    "id": "que_0",
+    "class": 1,
+    "answers": [
+      {
+        "answer": "changes made to the activity or event data lf",
+        "score": 60.10240173339844,
+        "chunk": 0,
+        "model": "AlBERT"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 0,
+        "model": "TagOp"
+      },
+      {
+        "answer": "",
+        "score": 91.15542602539062,
+        "chunk": 1,
+        "model": "AlBERT"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 1,
+        "model": "TagOp"
+      },
+      {
+        "answer": "",
+        "score": 75.58841705322266,
+        "chunk": 2,
+        "model": "AlBERT"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 2,
+        "model": "TagOp"
+      },
+      {
+        "answer": "",
+        "score": 51.34211349487305,
+        "chunk": 3,
+        "model": "AlBERT"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 3,
+        "model": "TagOp"
+      },
+      {
+        "answer": "",
+        "score": 60.84403610229492,
+        "chunk": 4,
+        "model": "AlBERT"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 4,
+        "model": "TagOp"
+      },
+      {
+        "answer": "",
+        "score": 48.94820022583008,
+        "chunk": 5,
+        "model": "AlBERT"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 5,
+        "model": "TagOp"
+      },
+      {
+        "answer": "",
+        "score": 81.97045135498047,
+        "chunk": 6,
+        "model": "AlBERT"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 6,
+        "model": "TagOp"
+      },
+      {
+        "answer": "the report will be reviewed for auditing purposes",
+        "score": 75.0665054321289,
+        "chunk": 7,
+        "model": "AlBERT"
+      },
+      {
+        "answer": [
+          [
+            "u"
+          ],
+          ""
+        ],
+        "chunk": 7,
+        "model": "TagOp"
+      }
+    ]
+  },
+  "que_1": {
+    "question": "who can re-instantiate a user account if it is revoked ?",
+    "id": "que_1",
+    "class": 1,
+    "answers": [
+      {
+        "answer": "",
+        "score": 87.47096252441406,
+        "chunk": 0,
+        "model": "AlBERT"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 0,
+        "model": "TagOp"
+      },
+      {
+        "answer": "",
+        "score": 87.1143569946289,
+        "chunk": 1,
+        "model": "AlBERT"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 1,
+        "model": "TagOp"
+      },
+      {
+        "answer": "",
+        "score": 66.77101135253906,
+        "chunk": 2,
+        "model": "AlBERT"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 2,
+        "model": "TagOp"
+      },
+      {
+        "answer": "",
+        "score": 75.52123260498047,
+        "chunk": 3,
+        "model": "AlBERT"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 3,
+        "model": "TagOp"
+      },
+      {
+        "answer": "",
+        "score": 70.81134033203125,
+        "chunk": 4,
+        "model": "AlBERT"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 4,
+        "model": "TagOp"
+      },
+      {
+        "answer": "",
+        "score": 77.19921875,
+        "chunk": 5,
+        "model": "AlBERT"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 5,
+        "model": "TagOp"
+      },
+      {
+        "answer": "authorized users once authenticated must be able to logon to the disputes system se",
+        "score": 66.54255676269531,
+        "chunk": 6,
+        "model": "AlBERT"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 6,
+        "model": "TagOp"
+      },
+      {
+        "answer": "the system administrator",
+        "score": 104.32733917236328,
+        "chunk": 7,
+        "model": "AlBERT"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 7,
+        "model": "TagOp"
+      }
+    ]
+  },
+  "que_2": {
+    "question": "Will the users have direct access to data filters ?",
+    "id": "que_2",
+    "class": 1,
+    "answers": [
+      {
+        "answer": "the user interface shall have standard menus buttons for navigation f",
+        "score": 63.902034759521484,
+        "chunk": 0,
+        "model": "AlBERT"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 0,
+        "model": "TagOp"
+      },
+      {
+        "answer": "",
+        "score": 54.30548858642578,
+        "chunk": 1,
+        "model": "AlBERT"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 1,
+        "model": "TagOp"
+      },
+      {
+        "answer": "",
+        "score": 54.79079055786133,
+        "chunk": 2,
+        "model": "AlBERT"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 2,
+        "model": "TagOp"
+      },
+      {
+        "answer": "the system shall contain contact information ( e-mail and phone number ) for all people relevant to the system",
+        "score": 48.987335205078125,
+        "chunk": 3,
+        "model": "AlBERT"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 3,
+        "model": "TagOp"
+      },
+      {
+        "answer": "",
+        "score": 49.65476989746094,
+        "chunk": 4,
+        "model": "AlBERT"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 4,
+        "model": "TagOp"
+      },
+      {
+        "answer": "will the users have direct access to data filters? including the clinical site name the department/section for the lab the class instructor day and time of lab and contact information. f : program administrators/nursing staff members shall have the ability to modify information relating to a nursing student including student id student name phone number e-mail status ( full time or part time ) and program of study. lf : the disputes application shall comply with the corporate standards for user interface creation for internally and externally used applications",
+        "score": 41.085304260253906,
+        "chunk": 5,
+        "model": "AlBERT"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 5,
+        "model": "TagOp"
+      },
+      {
+        "answer": "only users with update access must be able to initiate dispute requests",
+        "score": 38.14763259887695,
+        "chunk": 6,
+        "model": "AlBERT"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 6,
+        "model": "TagOp"
+      },
+      {
+        "answer": "users will not have direct access to data files or databases",
+        "score": 58.67376708984375,
+        "chunk": 7,
+        "model": "AlBERT"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 7,
+        "model": "TagOp"
+      }
+    ]
+  },
+  "que_3": {
+    "question": "What must the All screens created as part of the Disputes application comply with ?",
+    "id": "que_3",
+    "class": 1,
+    "answers": [
+      {
+        "answer": "",
+        "score": 86.38777923583984,
+        "chunk": 0,
+        "model": "AlBERT"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 0,
+        "model": "TagOp"
+      },
+      {
+        "answer": "",
+        "score": 84.54185485839844,
+        "chunk": 1,
+        "model": "AlBERT"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 1,
+        "model": "TagOp"
+      },
+      {
+        "answer": "",
+        "score": 81.48739624023438,
+        "chunk": 2,
+        "model": "AlBERT"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 2,
+        "model": "TagOp"
+      },
+      {
+        "answer": "",
+        "score": 81.9544677734375,
+        "chunk": 3,
+        "model": "AlBERT"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 3,
+        "model": "TagOp"
+      },
+      {
+        "answer": "",
+        "score": 90.1105728149414,
+        "chunk": 4,
+        "model": "AlBERT"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 4,
+        "model": "TagOp"
+      },
+      {
+        "answer": "corporate standards for interface creation",
+        "score": 108.07643127441406,
+        "chunk": 5,
+        "model": "AlBERT"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 5,
+        "model": "TagOp"
+      },
+      {
+        "answer": "",
+        "score": 98.65387725830078,
+        "chunk": 6,
+        "model": "AlBERT"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 6,
+        "model": "TagOp"
+      },
+      {
+        "answer": "",
+        "score": 76.85841369628906,
+        "chunk": 7,
+        "model": "AlBERT"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 7,
+        "model": "TagOp"
+      }
+    ]
+  }
+}
