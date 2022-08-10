@@ -1,0 +1,200 @@
+{
+  "que_0": {
+    "question": "What are the programmable values of Dynamic AV Delay ?",
+    "id": "que_0",
+    "class": 1,
+    "answers": [
+      {
+        "answer": "link 56 . 1",
+        "score": [
+          "Dynamic AV Delay",
+          [
+            5,
+            0
+          ],
+          null,
+          "string match",
+          1.0,
+          "Parameter",
+          "links"
+        ],
+        "chunk": 0,
+        "model": "HybridR"
+      },
+      {
+        "answer": [
+          [
+            "30-50ppm\n50-90ppm\n90-175ppm"
+          ],
+          ""
+        ],
+        "chunk": 0,
+        "model": "TagOp"
+      }
+    ]
+  },
+  "que_1": {
+    "question": "What is the tolereance of A or V Sensitivity ?",
+    "id": "que_1",
+    "class": 1,
+    "answers": [
+      {
+        "answer": "\u00b120%",
+        "score": [
+          "A or V Sensitivity",
+          [
+            11,
+            0
+          ],
+          null,
+          "string match",
+          1.0,
+          "Parameter",
+          "links"
+        ],
+        "chunk": 0,
+        "model": "HybridR"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 0,
+        "model": "TagOp"
+      }
+    ]
+  },
+  "que_2": {
+    "question": "What is the Maximum Sensor Rate ?",
+    "id": "que_2",
+    "class": 1,
+    "answers": [
+      {
+        "answer": "pacing rate",
+        "score": [
+          "Maximum Sensor Rate",
+          [
+            3,
+            0
+          ],
+          null,
+          "string match",
+          1.0,
+          "Parameter",
+          "links"
+        ],
+        "chunk": 0,
+        "model": "HybridR"
+      },
+      {
+        "answer": [
+          [
+            "30-50ppm\n50-90ppm\n90-175ppm"
+          ],
+          ""
+        ],
+        "chunk": 0,
+        "model": "TagOp"
+      }
+    ]
+  },
+  "que_3": {
+    "question": "What is the VRP ?",
+    "id": "que_3",
+    "class": 1,
+    "answers": [
+      {
+        "answer": "\u2014",
+        "score": [
+          "link 16",
+          [
+            5,
+            0
+          ],
+          "link_16",
+          "The dynamic AV delay",
+          0.7647058823529411,
+          "Parameter",
+          "string-overlap"
+        ],
+        "chunk": 0,
+        "model": "HybridR"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 0,
+        "model": "TagOp"
+      }
+    ]
+  },
+  "que_4": {
+    "question": "What are the programmable values of the option which shall shorten the AV delay following a tracked atrial sense ?",
+    "id": "que_4",
+    "class": 1,
+    "answers": [
+      {
+        "answer": "56 . 1",
+        "score": [
+          "link 12",
+          [
+            7,
+            0
+          ],
+          "link_12",
+          "Sensed AV Delay Offset: The Sensed AV Delay Offset option shall shorten the AV delay following a tracked atrial sense.",
+          0.4736842105263158,
+          "Parameter",
+          "string-overlap"
+        ],
+        "chunk": 0,
+        "model": "HybridR"
+      },
+      {
+        "answer": [
+          [
+            "30-50ppm\n50-90ppm\n90-175ppm"
+          ],
+          ""
+        ],
+        "chunk": 0,
+        "model": "TagOp"
+      }
+    ]
+  },
+  "que_5": {
+    "question": "What is the nominal of the Post Ventricular Atrial Refractory Period ?",
+    "id": "que_5",
+    "class": 1,
+    "answers": [
+      {
+        "answer": "250ms",
+        "score": [
+          "link 20",
+          [
+            13,
+            0
+          ],
+          "link_20",
+          "Post Ventricular Atrial Refractory Period (PVARP): The Post Ventricular Atrial Refractory Period shall be available in modes with ventricular pacing and atrial sensing.",
+          0.3285714285714286,
+          "Parameter",
+          "string-overlap"
+        ],
+        "chunk": 0,
+        "model": "HybridR"
+      },
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 0,
+        "model": "TagOp"
+      }
+    ]
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "que_0": {
+    "question": "What are the programmable values of Dynamic AV Delay ?",
+    "id": "que_0",
+    "class": 1,
+    "answers": [
+      {
+        "answer": [
+          [
+            "30-50ppm\n50-90ppm\n90-175ppm"
+          ],
+          ""
+        ],
+        "chunk": 0,
+        "model": "TagOp"
+      }
+    ]
+  },
+  "que_1": {
+    "question": "What is the tolereance of A or V Sensitivity ?",
+    "id": "que_1",
+    "class": 1,
+    "answers": [
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 0,
+        "model": "TagOp"
+      }
+    ]
+  },
+  "que_2": {
+    "question": "What is the Maximum Sensor Rate ?",
+    "id": "que_2",
+    "class": 1,
+    "answers": [
+      {
+        "answer": [
+          [
+            "30-50ppm\n50-90ppm\n90-175ppm"
+          ],
+          ""
+        ],
+        "chunk": 0,
+        "model": "TagOp"
+      }
+    ]
+  },
+  "que_3": {
+    "question": "What is the VRP ?",
+    "id": "que_3",
+    "class": 1,
+    "answers": [
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 0,
+        "model": "TagOp"
+      }
+    ]
+  },
+  "que_4": {
+    "question": "What are the programmable values of the option which shall shorten the AV delay following a tracked atrial sense ?",
+    "id": "que_4",
+    "class": 1,
+    "answers": [
+      {
+        "answer": [
+          [
+            "30-50ppm\n50-90ppm\n90-175ppm"
+          ],
+          ""
+        ],
+        "chunk": 0,
+        "model": "TagOp"
+      }
+    ]
+  },
+  "que_5": {
+    "question": "What is the nominal of the Post Ventricular Atrial Refractory Period ?",
+    "id": "que_5",
+    "class": 1,
+    "answers": [
+      {
+        "answer": [
+          [],
+          ""
+        ],
+        "chunk": 0,
+        "model": "TagOp"
+      }
+    ]
+  }
+}

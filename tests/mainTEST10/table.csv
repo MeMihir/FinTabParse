@@ -1,0 +1,43 @@
+Parameter,Programmable Values,Increment,Nominal,Tolerance
+Mode,"Off DDD VDD DDI DOO AOO AAI VOO VVI AAT VVT DDDR VDDR DDIR DOOR
+AOOR AAIR VOOR VVIR",—,DDD,—
+Lower Rate Limit,"30-50ppm
+50-90ppm
+90-175ppm","5ppm
+1ppm
+5ppm",60ppm,±8ms
+Upper Rate Limit,50-175ppm,5ppm,120ppm,±8ms
+Maximum Sensor Rate,50-175ppm,5ppm,120ppm,±4ms
+Fixed AV Delay,70-300ms,10 ms,150ms,±8ms
+Dynamic AV Delay,"Off, On",—,Off,—
+Minimum Dynamic AV Delay,30-100ms,10 ms,50ms,
+Sensed AV Delay Offset,"Off, -10 to -100ms",-10 ms,Off,±1ms
+A or V pulse Amplitude Regulated,"Off, 0.5-3.2V
+3.5 – 7.0V","0.1V
+0.5V",3.5V,±12%
+A or V Pulse Amplitude Unregulated,"Off, 1.25, 2.5, 3.75, 5.0V",—,3.75V,—
+A or V Pulse  Width,"0.05ms
+0.1 – 1.9 ms","—
+0.1 ms",0.4ms,0.2ms
+A or V Sensitivity,"0.25, 0.5, 0.75
+1.0 – 10mV","—
+0.5 mV","A-0.75mV
+V-2.5mV",±20%
+Ventricular Refractory Period,150 – 500ms,10 ms,320ms,±8ms
+Atrial Refractory Period,150 – 500ms,10 ms,250ms,±8ms
+PVARP,150 – 500ms,10 ms,250ms,±8ms
+PVARP Extension,"Off, 50-400ms",50 ms,Off,±8ms
+Hysteresis Rate Limit,Off or same choices as LRL,—,Off,±8ms
+Rate Smoothing,"Off, 3, 6, 9, 12, 15, 18, 21, 25%",—,Off,±1%
+ATR Mode,"On, Off",—,Off,—
+ATR Duration,"10 cardiac cycles
+20-80 cc
+100-2000 cc","—
+20 cc
+100 cc",20cc,±1cc
+ATR Fallback Time,1-5min,1 min,1min,±1cc
+Ventricular Blanking,30-60ms,10 ms,40ms,—
+Activity Threshold,"V-Low, Low, Med-Low, Med, Med-High, High, V-High",—,Med,—
+Reaction Time,10-50sec,10 sec,30sec,±3sec
+Response Factor,1-16,1,8,—
+Recovery Time,2-16min,1 min,5min,±30sec

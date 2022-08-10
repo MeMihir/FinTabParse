@@ -1,0 +1,6 @@
+What are the programmable values of Dynamic AV Delay ?
+What is the tolereance of A or V Sensitivity ?
+What is the Maximum Sensor Rate ?
+What is the VRP ?
+What are the programmable values of the option which shall shorten the AV delay following a tracked atrial sense ?
+What is the nominal of the Post Ventricular Atrial Refractory Period ?

@@ -1,0 +1,65 @@
+Lower Rate Limit (LRL): The Lower Rate Limit (LRL) is the number of generator pace pulses delivered per minute (atrium or ventricle) in the absence of Sensed intrinsic activity. Sensor-controlled pacing at a higher rate.
+The LRL is affected in the following ways:
+1. When Rate Hysteresis is disabled, the LRL shall define the longest allow- able pacing interval.
+2. In DXX or VXX modes, the LRL interval starts at a ventricular sensed or paced event.
+3. In AXX modes, the LRL interval starts at an atrial sensed or paced event. Upper Rate Limit (URL)
+The Upper Rate Limit (URL) is the maximum rate at which the paced ventricular rate will track sensed atrial events. The URL interval is the minimum time between a ventricular event and the next ventricular pace.
+Atrial-Ventricular (AV) Delay: The AV delay shall be the programmable time period from an atrial event (either intrinsic or paced) to a ventricular pace. In atrial tracking modes, ventricular pacing shall occur in the absence of a sensed ventricular event within the programmed AV delay when the sensed atrial rate is between the programmed LRL and URL.
+AV delay shall either be 1 Fixed (absolute time) 2 Dynamic
+Paced AV Delay: A paced AV (PAV) delay shall occur when the AV delay is initiated by an atrial pace.
+Sensed AV Delay: A sensed AV (SAV) delay shall occur when the AV delay is initiated by an atrial sense.
+Dynamic AV Delay: If dynamic, the AV delay shall be determined individually for each new cardiac cycle based on the duration of previous cardiac cycles. The previous cardiac cycle length is multiplied by a factor stored in device memory to create the dynamic AV delay.
+The AV delay shall vary between 1 A programmable maximum paced AV delay 2 A programmable minimum paced AV delay
+Sensed AV Delay Offset: The Sensed AV Delay Offset option shall shorten the AV delay following a tracked atrial sense.
+Depending on which option is functioning, the sensed AV delay offset shall
+be applied to the following:
+1. The fixed AV delay
+2. The dynamic AV delay
+Refractory Periods: To avoid false sensing, refractory periods follow events during which senses in the affected chamber are ignored. To show that a sense was ignored due to refractory, its marker is displayed in parentheses.
+Ventricular Refractory Period (VRP): The Ventricular Refractory Period shall be the programmed time interval following a ventricular event during which time ventricular senses shall not inhibit nor trigger pacing.
+Atrial Refractory Period (ARP): For single chamber atrial modes, the Atrial Refractory Period (ARP) shall be the programmed time interval following an atrial event during which time atrial events shall not inhibit nor trigger pacing.
+Post Ventricular Atrial Refractory Period (PVARP): The Post Ventricular Atrial Refractory Period shall be available in modes with ventricular pacing and atrial sensing. The Post Ventricular Atrial Refractory Period shall be the programmable time interval following a ventricular event when an atrial cardiac event shall not 1. Inhibit an atrial pace. 2. Trigger a ventricular pace.
+Extended PVARP: The Extended PVARP works as follows: 
+1. When Extended PVARP is enabled, an occurrence of a premature ventricular contraction (PVC) shall cause the pulse generator to use the Extended PVARP value for the post-ventricular atrial refractory period following the PVC.
+2. The PVARP shall always return to its normal programmed value on the subsequent cardiac cycle regardless of PVC and other events. At most one PVARP extension shall occur every two cardiac cycles.
+Refractory During AV Interval: The PG shall also be in refractory to atrial senses during the AV interval. In this context, refractory means the pacemaker does not track or inhibit based on the sensed activity.
+Noise Response: In the presence of continuous noise the device response shall be asynchronous pacing.
+Atrial Tachycardia Response (ATR): The Atrial Tachycardia Response prevents long term pacing of a patient at unacceptably high rates during atrial tachycardia. When Atrial Tachycardia Response is enabled, the pulse generator shall declare an atrial tachycardia if the intrinsic atrial rate exceeds the URL for a sufficient amount of time.
+Atrial Tachycardia Detection: The atrial tachycardia (AT) detection algorithm determines onset and cessation of atrial tachycardia.
+1. AT onset shall be detected when the intervals between atrial senses are predominately, but not exclusively, faster than URL.
+2. AT cessation shall be detected when the intervals between atrial senses are mostly, but not exclusively, faster than URL.
+3. The detection period shall be short enough so ATR therapy is not unnecessarily delayed nor continued.
+4. The detection period shall be long enough that occasional premature atrial contractions do not cause unnecessary ATR therapy, nor cease necessary
+ATR therapy upon occasional slow beats.
+ATR Duration: ATR Duration works as follows:
+1. When atrial tachycardia is detected, the ATR algorithm shall enter an ATR Duration state.
+2. When in ATR Duration, the PG shall delay a programmed number of cardiac cycles before entering Fallback.
+3. The Duration delay shall be terminated immediately and Fallback shall be avoided if, during the Duration delay, the ATR detection algorithm determines that atrial tachycardia is over.
+ATR Fallback: If the atrial tachycardia condition exists after the ATR Duration delay is over, the following shall occur:
+1. The PG enters a Fallback state and switches to a VVIR Fallback Mode.
+2. The pacing rate is dropped to the lower rate limit. The fallback time is the total time required to drop the rate to the LRL.
+3. During Fallback, if the ATR detection algorithm determines that atrial tachycardia is over, the following shall occur: Fallback is terminated immediately, The mode is switched back to normal
+4. ATR-related mode switches shall always be synchronized to a ventricular paced or sensed event.
+Rate-Adaptive Pacing: The device shall have the ability to adjust the cardiac cycle in response to metabolic need as measured from body motion using an accelerometer.
+Maximum Sensor Rate (MSR): The Maximum Sensor Rate is the maximum pacing rate allowed as a result of sensor control.
+The Maximum Sensor Rate shall be
+1. Required for rate adaptive modes
+2. Independently programmable from the URL
+Activity Threshold: The activity threshold is the value the accelerometer sensor output shall exceed before the pacemaker’s rate is affected by activity data.
+Response Factor
+The accelerometer shall determine the pacing rate that occurs at various levels of steady state patient activity. Based on equivalent patient activity:
+1. The highest response factor setting (16) shall allow the greatest incremen- tal change in rate.
+2. The lowest response factor setting (1) shall allow a smaller change in rate.
+Reaction Time: The accelerometer shall determine the rate of increase of the pacing rate. The reaction time is the time required for an activity to drive the rate from LRL to MSR.
+Recovery Time: The accelerometer shall determine the rate of decrease of the pacing rate. The recovery time shall be the time required for the rate to fall from MSR to LRL when activity falls below the activity threshold.
+Hysteresis Pacing: When enabled, hysteresis pacing shall result in a longer period following a sensed event before pacing. This encourages self-pacing during exercise by waiting a little longer to pace after senses, hoping that another sense will inhibit the pace.
+To use hysteresis pacing:
+1. Hysteresis pacing must be enabled (not Off).
+2. The pacing mode must be inhibiting or tracking.
+3. The current pacing rate must be faster than the Hysteresis Rate Limit (HRL), which may be slower than the Lower Rate Limit (LRL).
+4. When in AAI mode, a single, non-refractory sensed atrial event shall activate hysteresis pacing.non-refractory sensed ventricular event shall activate hysteresis pacing.
+Rate Smoothing: Rate Smoothing shall limit the pacing rate change that occurs due to precipitous changes in the intrinsic rate.
+Two programmable rate smoothing parameters shall be available to allow the cardiac cycle interval change to be a percentage of the previous cardiac cycle interval:
+1. Rate Smoothing Up
+2. Rate Smoothing Down
+The increase in pacing rate shall not exceed the Rate Smoothing Up percentage. The decrease in pacing rate shall not exceed the Rate Smoothing Down percentage.

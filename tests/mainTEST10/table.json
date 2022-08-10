@@ -1,0 +1,191 @@
+[
+  [
+    "Parameter",
+    "Programmable Values",
+    "Increment",
+    "Nominal",
+    "Tolerance"
+  ],
+  [
+    "Mode",
+    "Off DDD VDD DDI DOO AOO AAI VOO VVI AAT VVT DDDR VDDR DDIR DOOR\nAOOR AAIR VOOR VVIR",
+    "\u2014",
+    "DDD",
+    "\u2014"
+  ],
+  [
+    "Lower Rate Limit",
+    "30-50ppm\n50-90ppm\n90-175ppm",
+    "5ppm\n1ppm\n5ppm",
+    "60ppm",
+    "\u00b18ms"
+  ],
+  [
+    "Upper Rate Limit",
+    "50-175ppm",
+    "5ppm",
+    "120ppm",
+    "\u00b18ms"
+  ],
+  [
+    "Maximum Sensor Rate",
+    "50-175ppm",
+    "5ppm",
+    "120ppm",
+    "\u00b14ms"
+  ],
+  [
+    "Fixed AV Delay",
+    "70-300ms",
+    "10 ms",
+    "150ms",
+    "\u00b18ms"
+  ],
+  [
+    "Dynamic AV Delay",
+    "Off, On",
+    "\u2014",
+    "Off",
+    "\u2014"
+  ],
+  [
+    "Minimum Dynamic AV Delay",
+    "30-100ms",
+    "10 ms",
+    "50ms",
+    ""
+  ],
+  [
+    "Sensed AV Delay Offset",
+    "Off, -10 to -100ms",
+    "-10 ms",
+    "Off",
+    "\u00b11ms"
+  ],
+  [
+    "A or V pulse Amplitude Regulated",
+    "Off, 0.5-3.2V\n3.5 \u2013 7.0V",
+    "0.1V\n0.5V",
+    "3.5V",
+    "\u00b112%"
+  ],
+  [
+    "A or V Pulse Amplitude Unregulated",
+    "Off, 1.25, 2.5, 3.75, 5.0V",
+    "\u2014",
+    "3.75V",
+    "\u2014"
+  ],
+  [
+    "A or V Pulse  Width",
+    "0.05ms\n0.1 \u2013 1.9 ms",
+    "\u2014\n0.1 ms",
+    "0.4ms",
+    "0.2ms"
+  ],
+  [
+    "A or V Sensitivity",
+    "0.25, 0.5, 0.75\n1.0 \u2013 10mV",
+    "\u2014\n0.5 mV",
+    "A-0.75mV\nV-2.5mV",
+    "\u00b120%"
+  ],
+  [
+    "Ventricular Refractory Period",
+    "150 \u2013 500ms",
+    "10 ms",
+    "320ms",
+    "\u00b18ms"
+  ],
+  [
+    "Atrial Refractory Period",
+    "150 \u2013 500ms",
+    "10 ms",
+    "250ms",
+    "\u00b18ms"
+  ],
+  [
+    "PVARP",
+    "150 \u2013 500ms",
+    "10 ms",
+    "250ms",
+    "\u00b18ms"
+  ],
+  [
+    "PVARP Extension",
+    "Off, 50-400ms",
+    "50 ms",
+    "Off",
+    "\u00b18ms"
+  ],
+  [
+    "Hysteresis Rate Limit",
+    "Off or same choices as LRL",
+    "\u2014",
+    "Off",
+    "\u00b18ms"
+  ],
+  [
+    "Rate Smoothing",
+    "Off, 3, 6, 9, 12, 15, 18, 21, 25%",
+    "\u2014",
+    "Off",
+    "\u00b11%"
+  ],
+  [
+    "ATR Mode",
+    "On, Off",
+    "\u2014",
+    "Off",
+    "\u2014"
+  ],
+  [
+    "ATR Duration",
+    "10 cardiac cycles\n20-80 cc\n100-2000 cc",
+    "\u2014\n20 cc\n100 cc",
+    "20cc",
+    "\u00b11cc"
+  ],
+  [
+    "ATR Fallback Time",
+    "1-5min",
+    "1 min",
+    "1min",
+    "\u00b11cc"
+  ],
+  [
+    "Ventricular Blanking",
+    "30-60ms",
+    "10 ms",
+    "40ms",
+    "\u2014"
+  ],
+  [
+    "Activity Threshold",
+    "V-Low, Low, Med-Low, Med, Med-High, High, V-High",
+    "\u2014",
+    "Med",
+    "\u2014"
+  ],
+  [
+    "Reaction Time",
+    "10-50sec",
+    "10 sec",
+    "30sec",
+    "\u00b13sec"
+  ],
+  [
+    "Response Factor",
+    "1-16",
+    "1",
+    "8",
+    "\u2014"
+  ],
+  [
+    "Recovery Time",
+    "2-16min",
+    "1 min",
+    "5min",
+    "\u00b130sec"
+  ]
+]
